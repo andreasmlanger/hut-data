@@ -6,7 +6,7 @@
     "Lng": 7.7716226,
     "Altitude": 2840,
     "Beds": 100,
-    "Info": [
+    "Rooms": [
       {
         "beds": 100,
         "label": "Massenlager"
@@ -28,7 +28,7 @@
     "Lng": 8.096502,
     "Altitude": 2317,
     "Beds": 88,
-    "Info": [
+    "Rooms": [
       {
         "beds": 54,
         "label": "Massenlager"
@@ -54,7 +54,7 @@
     "Lng": 9.655262,
     "Altitude": 2336,
     "Beds": 84,
-    "Info": [
+    "Rooms": [
       {
         "beds": 84,
         "label": "Massenlager"
@@ -76,7 +76,7 @@
     "Lng": 9.875188,
     "Altitude": 2625,
     "Beds": 85,
-    "Info": [
+    "Rooms": [
       {
         "beds": 85,
         "label": "Massenlager"
@@ -98,7 +98,7 @@
     "Lng": 8.69267,
     "Altitude": 1727,
     "Beds": 85,
-    "Info": [
+    "Rooms": [
       {
         "beds": 85,
         "label": "Massenlager"
@@ -120,7 +120,7 @@
     "Lng": 7.814543,
     "Altitude": 2883,
     "Beds": 120,
-    "Info": [
+    "Rooms": [
       {
         "beds": 120,
         "label": "Mehrbettzimmer"
@@ -142,7 +142,7 @@
     "Lng": 9.61635,
     "Altitude": 2119,
     "Beds": 29,
-    "Info": [
+    "Rooms": [
       {
         "beds": 29,
         "label": "Massenlager"
@@ -164,7 +164,7 @@
     "Lng": 8.514077,
     "Altitude": 1856,
     "Beds": 59,
-    "Info": [
+    "Rooms": [
       {
         "beds": 59,
         "label": "Massenlager"
@@ -182,7 +182,7 @@
     "Lng": 7.93507,
     "Altitude": 3030,
     "Beds": 101,
-    "Info": [
+    "Rooms": [
       {
         "beds": 101,
         "label": "Massenlager"
@@ -204,7 +204,7 @@
     "Lng": 7.417683,
     "Altitude": 2928,
     "Beds": 90,
-    "Info": [
+    "Rooms": [
       {
         "beds": 90,
         "label": "Massenlager"
@@ -222,7 +222,7 @@
     "Lng": 7.69739,
     "Altitude": 1915,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 40,
         "label": "Massenlager"
@@ -240,7 +240,7 @@
     "Lng": 8.053198,
     "Altitude": 2850,
     "Beds": 159,
-    "Info": [
+    "Rooms": [
       {
         "beds": 155,
         "label": "Massenlager"
@@ -266,7 +266,7 @@
     "Lng": 9.0799,
     "Altitude": 2273,
     "Beds": 66,
-    "Info": [
+    "Rooms": [
       {
         "beds": 22,
         "label": "Massenlager"
@@ -296,7 +296,7 @@
     "Lng": 7.829508,
     "Altitude": 2788,
     "Beds": 60,
-    "Info": [
+    "Rooms": [
       {
         "beds": 42,
         "label": "Mehrbettzimmer"
@@ -326,7 +326,7 @@
     "Lng": 8.173,
     "Altitude": 3258,
     "Beds": 30,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Massenlager"
@@ -344,7 +344,7 @@
     "Lng": 9.005067,
     "Altitude": 2170,
     "Beds": 90,
-    "Info": [
+    "Rooms": [
       {
         "beds": 80,
         "label": "Mehrbettzimmer"
@@ -378,7 +378,7 @@
     "Lng": 7.33,
     "Altitude": 2002,
     "Beds": 85,
-    "Info": [
+    "Rooms": [
       {
         "beds": 81,
         "label": "Massenlager"
@@ -404,7 +404,7 @@
     "Lng": 9.709716,
     "Altitude": 2574,
     "Beds": 63,
-    "Info": [
+    "Rooms": [
       {
         "beds": 48,
         "label": "Massenlager"
@@ -430,7 +430,7 @@
     "Lng": 7.7419709,
     "Altitude": 2562,
     "Beds": 58,
-    "Info": [
+    "Rooms": [
       {
         "beds": 58,
         "label": "Massenlager"
@@ -448,7 +448,7 @@
     "Lng": 8.526301,
     "Altitude": 2575,
     "Beds": 108,
-    "Info": [
+    "Rooms": [
       {
         "beds": 108,
         "label": "Massenlager"
@@ -466,7 +466,7 @@
     "Lng": 8.668352,
     "Altitude": 2503,
     "Beds": 18,
-    "Info": [
+    "Rooms": [
       {
         "beds": 18,
         "label": "Massenlager"
@@ -484,7 +484,7 @@
     "Lng": 7.214233,
     "Altitude": 2486,
     "Beds": 32,
-    "Info": [
+    "Rooms": [
       {
         "beds": 32,
         "label": "Massenlager"
@@ -502,7 +502,7 @@
     "Lng": 8.2826454,
     "Altitude": 2328,
     "Beds": 70,
-    "Info": [
+    "Rooms": [
       {
         "beds": 71,
         "label": "Massenlager"
@@ -524,7 +524,7 @@
     "Lng": 7.90609,
     "Altitude": 1805,
     "Beds": 24,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Massenlager"
@@ -542,7 +542,7 @@
     "Lng": 9.902741,
     "Altitude": 2594,
     "Beds": 42,
-    "Info": [
+    "Rooms": [
       {
         "beds": 34,
         "label": "Massenlager"
@@ -572,7 +572,7 @@
     "Lng": 8.69007,
     "Altitude": 2310,
     "Beds": 83,
-    "Info": [
+    "Rooms": [
       {
         "beds": 80,
         "label": "Massenlager"
@@ -594,7 +594,7 @@
     "Lng": 8.216584,
     "Altitude": 2205,
     "Beds": 63,
-    "Info": [
+    "Rooms": [
       {
         "beds": 53,
         "label": "Massenlager"
@@ -624,7 +624,7 @@
     "Lng": 8.371172,
     "Altitude": 2420,
     "Beds": 62,
-    "Info": [
+    "Rooms": [
       {
         "beds": 62,
         "label": "Mehrbettzimmer"
@@ -642,7 +642,7 @@
     "Lng": 9.37,
     "Altitude": 1999,
     "Beds": 35,
-    "Info": [
+    "Rooms": [
       {
         "beds": 35,
         "label": "Massenlager"
@@ -660,7 +660,7 @@
     "Lng": 8.169219,
     "Altitude": 2663,
     "Beds": 45,
-    "Info": [
+    "Rooms": [
       {
         "beds": 42,
         "label": "Massenlager"
@@ -686,7 +686,7 @@
     "Lng": 9.42217,
     "Altitude": 1554,
     "Beds": 42,
-    "Info": [
+    "Rooms": [
       {
         "beds": 42,
         "label": "Massenlager"
@@ -708,7 +708,7 @@
     "Lng": 10.132428,
     "Altitude": 2250,
     "Beds": 72,
-    "Info": [
+    "Rooms": [
       {
         "beds": 65,
         "label": "Massenlager"
@@ -738,7 +738,7 @@
     "Lng": 8.69484,
     "Altitude": 2570,
     "Beds": 53,
-    "Info": [
+    "Rooms": [
       {
         "beds": 58,
         "label": "Massenlager"
@@ -768,7 +768,7 @@
     "Lng": 8.7327615,
     "Altitude": 2140,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Mehrbettzimmer"
@@ -786,7 +786,7 @@
     "Lng": 8.24384,
     "Altitude": 1860,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 36,
         "label": "Massenlager"
@@ -812,7 +812,7 @@
     "Lng": 9.5824966,
     "Altitude": 1904,
     "Beds": 36,
-    "Info": [
+    "Rooms": [
       {
         "beds": 36,
         "label": "Massenlager"
@@ -830,7 +830,7 @@
     "Lng": 8.875034,
     "Altitude": 1896,
     "Beds": 51,
-    "Info": [
+    "Rooms": [
       {
         "beds": 51,
         "label": "Massenlager"
@@ -852,7 +852,7 @@
     "Lng": 8.462765,
     "Altitude": 2296,
     "Beds": 85,
-    "Info": [
+    "Rooms": [
       {
         "beds": 62,
         "label": "Massenlager"
@@ -886,7 +886,7 @@
     "Lng": 8.995615,
     "Altitude": 2012,
     "Beds": 24,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Massenlager"
@@ -912,7 +912,7 @@
     "Lng": 7.81,
     "Altitude": 2455,
     "Beds": 60,
-    "Info": [
+    "Rooms": [
       {
         "beds": 28,
         "label": "Massenlager"
@@ -938,7 +938,7 @@
     "Lng": 8.76,
     "Altitude": 2032,
     "Beds": 55,
-    "Info": [
+    "Rooms": [
       {
         "beds": 55,
         "label": "Mehrbettzimmer"
@@ -956,7 +956,7 @@
     "Lng": 9.827356,
     "Altitude": 2236,
     "Beds": 62,
-    "Info": [
+    "Rooms": [
       {
         "beds": 56,
         "label": "Massenlager"
@@ -982,7 +982,7 @@
     "Lng": 7.973875,
     "Altitude": 2640,
     "Beds": 58,
-    "Info": [
+    "Rooms": [
       {
         "beds": 58,
         "label": "Massenlager"
@@ -1004,7 +1004,7 @@
     "Lng": 7.498651,
     "Altitude": 2209,
     "Beds": 26,
-    "Info": [
+    "Rooms": [
       {
         "beds": 2,
         "label": "2-er Zimmer"
@@ -1034,7 +1034,7 @@
     "Lng": 8.88841,
     "Altitude": 1870,
     "Beds": 35,
-    "Info": [
+    "Rooms": [
       {
         "beds": 35,
         "label": "Mehrbettzimmer"
@@ -1056,7 +1056,7 @@
     "Lng": 10.117651,
     "Altitude": 1882,
     "Beds": 61,
-    "Info": [
+    "Rooms": [
       {
         "beds": 34,
         "label": "Massenlager"
@@ -1078,7 +1078,7 @@
     "Lng": 7.82994,
     "Altitude": 2701,
     "Beds": 73,
-    "Info": [
+    "Rooms": [
       {
         "beds": 73,
         "label": "Mehrbettzimmer"
@@ -1100,7 +1100,7 @@
     "Lng": 7.96,
     "Altitude": 2344,
     "Beds": 34,
-    "Info": [
+    "Rooms": [
       {
         "beds": 32,
         "label": "Massenlager"
@@ -1122,7 +1122,7 @@
     "Lng": 7.36853,
     "Altitude": 3285,
     "Beds": 14,
-    "Info": [
+    "Rooms": [
       {
         "beds": 14,
         "label": "Massenlager"
@@ -1144,7 +1144,7 @@
     "Lng": 8.43984,
     "Altitude": 2350,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 40,
         "label": "Mehrbettzimmer"
@@ -1166,7 +1166,7 @@
     "Lng": 12.24388,
     "Altitude": 1252,
     "Beds": 53,
-    "Info": [
+    "Rooms": [
       {
         "beds": 25,
         "label": "Dormitory"
@@ -1200,7 +1200,7 @@
     "Lng": 12.392222,
     "Altitude": 2796,
     "Beds": 78,
-    "Info": [
+    "Rooms": [
       {
         "beds": 48,
         "label": "Dormitory"
@@ -1222,7 +1222,7 @@
     "Lng": 11.52,
     "Altitude": 2610,
     "Beds": 48,
-    "Info": [
+    "Rooms": [
       {
         "beds": 40,
         "label": "Dormitory"
@@ -1248,7 +1248,7 @@
     "Lng": 10.504789,
     "Altitude": 2256,
     "Beds": 26,
-    "Info": [
+    "Rooms": [
       {
         "beds": 22,
         "label": "Mehrbettzimmer"
@@ -1270,7 +1270,7 @@
     "Lng": 8.366572,
     "Altitude": 1333,
     "Beds": 33,
-    "Info": [
+    "Rooms": [
       {
         "beds": 33,
         "label": "Dortoir"
@@ -1288,7 +1288,7 @@
     "Lng": 7.469,
     "Altitude": 2789,
     "Beds": 68,
-    "Info": [
+    "Rooms": [
       {
         "beds": 60,
         "label": "Massenlager"
@@ -1310,7 +1310,7 @@
     "Lng": 8.342758,
     "Altitude": 2412,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Mehrbettzimmer"
@@ -1328,7 +1328,7 @@
     "Lng": 7.163,
     "Altitude": 1956,
     "Beds": 28,
-    "Info": [
+    "Rooms": [
       {
         "beds": 0,
         "label": "Massenlager"
@@ -1350,7 +1350,7 @@
     "Lng": 7.042996,
     "Altitude": 1653,
     "Beds": 22,
-    "Info": [
+    "Rooms": [
       {
         "beds": 22,
         "label": "Massenlager"
@@ -1372,7 +1372,7 @@
     "Lng": 7.838241,
     "Altitude": 2039,
     "Beds": 43,
-    "Info": [
+    "Rooms": [
       {
         "beds": 41,
         "label": "Massenlager"
@@ -1394,7 +1394,7 @@
     "Lng": 11.507,
     "Altitude": 2077,
     "Beds": 60,
-    "Info": [
+    "Rooms": [
       {
         "beds": 28,
         "label": "Dormitory"
@@ -1416,7 +1416,7 @@
     "Lng": 11.02523,
     "Altitude": 1387,
     "Beds": 108,
-    "Info": [
+    "Rooms": [
       {
         "beds": 60,
         "label": "Dormitory"
@@ -1438,7 +1438,7 @@
     "Lng": 9.684209,
     "Altitude": 1908,
     "Beds": 63,
-    "Info": [
+    "Rooms": [
       {
         "beds": 53,
         "label": "Massenlager"
@@ -1464,7 +1464,7 @@
     "Lng": 7.011175,
     "Altitude": 2169,
     "Beds": 9,
-    "Info": [
+    "Rooms": [
       {
         "beds": 9,
         "label": "Massenlager"
@@ -1482,7 +1482,7 @@
     "Lng": 8.005589,
     "Altitude": 3657,
     "Beds": 100,
-    "Info": [
+    "Rooms": [
       {
         "beds": 100,
         "label": "Massenlager"
@@ -1500,7 +1500,7 @@
     "Lng": 10.334556,
     "Altitude": 2500,
     "Beds": 49,
-    "Info": [
+    "Rooms": [
       {
         "beds": 37,
         "label": "Massenlager"
@@ -1534,7 +1534,7 @@
     "Lng": 10.065993,
     "Altitude": 2362,
     "Beds": 15,
-    "Info": [
+    "Rooms": [
       {
         "beds": 15,
         "label": "Dormitory"
@@ -1560,7 +1560,7 @@
     "Lng": 10.041452,
     "Altitude": 2341,
     "Beds": 69,
-    "Info": [
+    "Rooms": [
       {
         "beds": 53,
         "label": "Massenlager"
@@ -1590,7 +1590,7 @@
     "Lng": 12.8695,
     "Altitude": 1650,
     "Beds": 80,
-    "Info": [
+    "Rooms": [
       {
         "beds": 36,
         "label": "Dormitory"
@@ -1612,7 +1612,7 @@
     "Lng": 11.477222,
     "Altitude": 1768,
     "Beds": 73,
-    "Info": [
+    "Rooms": [
       {
         "beds": 23,
         "label": "Matratzenlager"
@@ -1638,7 +1638,7 @@
     "Lng": 10.77347,
     "Altitude": 1180,
     "Beds": 39,
-    "Info": [
+    "Rooms": [
       {
         "beds": 29,
         "label": "Matratzenlager"
@@ -1668,7 +1668,7 @@
     "Lng": 12.980639,
     "Altitude": 1894,
     "Beds": 58,
-    "Info": [
+    "Rooms": [
       {
         "beds": 25,
         "label": "Dormitory"
@@ -1698,7 +1698,7 @@
     "Lng": 10.069167,
     "Altitude": 1634,
     "Beds": 70,
-    "Info": [
+    "Rooms": [
       {
         "beds": 44,
         "label": "Dormitory"
@@ -1724,7 +1724,7 @@
     "Lng": 9.828919,
     "Altitude": 1725,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 34,
         "label": "Matratzenlager"
@@ -1746,7 +1746,7 @@
     "Lng": 11.42165,
     "Altitude": 1765,
     "Beds": 140,
-    "Info": [
+    "Rooms": [
       {
         "beds": 100,
         "label": "Dormitory"
@@ -1772,7 +1772,7 @@
     "Lng": 9.787181,
     "Altitude": 1611,
     "Beds": 38,
-    "Info": [
+    "Rooms": [
       {
         "beds": 28,
         "label": "Dormitory"
@@ -1794,7 +1794,7 @@
     "Lng": 9.783688,
     "Altitude": 1766,
     "Beds": 80,
-    "Info": [
+    "Rooms": [
       {
         "beds": 40,
         "label": "Matratzenlager"
@@ -1816,7 +1816,7 @@
     "Lng": 9.77553,
     "Altitude": 1846,
     "Beds": 53,
-    "Info": [
+    "Rooms": [
       {
         "beds": 19,
         "label": "Dormitory"
@@ -1846,7 +1846,7 @@
     "Lng": 9.87261,
     "Altitude": 2211,
     "Beds": 110,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Matratzenlager"
@@ -1872,7 +1872,7 @@
     "Lng": 9.727139,
     "Altitude": 2385,
     "Beds": 87,
-    "Info": [
+    "Rooms": [
       {
         "beds": 31,
         "label": "Dormitory"
@@ -1894,7 +1894,7 @@
     "Lng": 10.0836,
     "Altitude": 2089,
     "Beds": 63,
-    "Info": [
+    "Rooms": [
       {
         "beds": 29,
         "label": "Dormitory"
@@ -1928,7 +1928,7 @@
     "Lng": 10.11565,
     "Altitude": 2395,
     "Beds": 12,
-    "Info": [
+    "Rooms": [
       {
         "beds": 12,
         "label": "Special category 2"
@@ -1950,7 +1950,7 @@
     "Lng": 9.99041,
     "Altitude": 1918,
     "Beds": 103,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Dormitory"
@@ -1976,7 +1976,7 @@
     "Lng": 9.963,
     "Altitude": 824,
     "Beds": 65,
-    "Info": [
+    "Rooms": [
       {
         "beds": 65,
         "label": "Shared bedroom"
@@ -1998,7 +1998,7 @@
     "Lng": 12.324722,
     "Altitude": 1263,
     "Beds": 43,
-    "Info": [
+    "Rooms": [
       {
         "beds": 8,
         "label": "Dormitory"
@@ -2024,7 +2024,7 @@
     "Lng": 14.3357495,
     "Altitude": 285,
     "Beds": 25,
-    "Info": [
+    "Rooms": [
       {
         "beds": 25,
         "label": "Mehrbettzimmer"
@@ -2050,7 +2050,7 @@
     "Lng": 10.138827,
     "Altitude": 2320,
     "Beds": 104,
-    "Info": [
+    "Rooms": [
       {
         "beds": 56,
         "label": "Matratzenlager"
@@ -2080,7 +2080,7 @@
     "Lng": 11.935278,
     "Altitude": 1737,
     "Beds": 69,
-    "Info": [
+    "Rooms": [
       {
         "beds": 12,
         "label": "Dormitory"
@@ -2106,7 +2106,7 @@
     "Lng": 11.812803,
     "Altitude": 2042,
     "Beds": 140,
-    "Info": [
+    "Rooms": [
       {
         "beds": 40,
         "label": "Dormitory"
@@ -2136,7 +2136,7 @@
     "Lng": 13.33,
     "Altitude": 1592,
     "Beds": 22,
-    "Info": [
+    "Rooms": [
       {
         "beds": 22,
         "label": "Matratzenlager"
@@ -2154,7 +2154,7 @@
     "Lng": 12.976388,
     "Altitude": 600,
     "Beds": 14,
-    "Info": [
+    "Rooms": [
       {
         "beds": 14,
         "label": "Mehrbettzimmer"
@@ -2180,7 +2180,7 @@
     "Lng": 13.4798,
     "Altitude": 1550,
     "Beds": 69,
-    "Info": [
+    "Rooms": [
       {
         "beds": 37,
         "label": "Dormitory"
@@ -2206,7 +2206,7 @@
     "Lng": 13.07,
     "Altitude": 1750,
     "Beds": 32,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Matratzenlager"
@@ -2232,7 +2232,7 @@
     "Lng": 11.3741,
     "Altitude": 2324,
     "Beds": 70,
-    "Info": [
+    "Rooms": [
       {
         "beds": 31,
         "label": "Dormitory"
@@ -2262,7 +2262,7 @@
     "Lng": 13.519027,
     "Altitude": 1703,
     "Beds": 70,
-    "Info": [
+    "Rooms": [
       {
         "beds": 55,
         "label": "Dormitory"
@@ -2288,7 +2288,7 @@
     "Lng": 12.237699,
     "Altitude": 1555,
     "Beds": 52,
-    "Info": [
+    "Rooms": [
       {
         "beds": 8,
         "label": "Dormitory"
@@ -2314,7 +2314,7 @@
     "Lng": 10.888199,
     "Altitude": 2323,
     "Beds": 47,
-    "Info": [
+    "Rooms": [
       {
         "beds": 35,
         "label": "Dormitory"
@@ -2340,7 +2340,7 @@
     "Lng": 12.15055,
     "Altitude": 1756,
     "Beds": 74,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Dormitory"
@@ -2366,7 +2366,7 @@
     "Lng": 14.55,
     "Altitude": 1523,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Dormitory"
@@ -2392,7 +2392,7 @@
     "Lng": 11.68,
     "Altitude": 2389,
     "Beds": 72,
-    "Info": [
+    "Rooms": [
       {
         "beds": 40,
         "label": "Dormitory"
@@ -2414,7 +2414,7 @@
     "Lng": 13.215527,
     "Altitude": 2565,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 35,
         "label": "Shared bedroom"
@@ -2448,7 +2448,7 @@
     "Lng": 11.8853,
     "Altitude": 2227,
     "Beds": 81,
-    "Info": [
+    "Rooms": [
       {
         "beds": 41,
         "label": "Dormitory"
@@ -2474,7 +2474,7 @@
     "Lng": 11.218299,
     "Altitude": 2278,
     "Beds": 120,
-    "Info": [
+    "Rooms": [
       {
         "beds": 75,
         "label": "Dormitory"
@@ -2500,7 +2500,7 @@
     "Lng": 15.815074,
     "Altitude": 1235,
     "Beds": 25,
-    "Info": [
+    "Rooms": [
       {
         "beds": 12,
         "label": "Dormitory"
@@ -2530,7 +2530,7 @@
     "Lng": 11.281955,
     "Altitude": 1960,
     "Beds": 59,
-    "Info": [
+    "Rooms": [
       {
         "beds": 14,
         "label": "large rooms"
@@ -2564,7 +2564,7 @@
     "Lng": 11.035667,
     "Altitude": 1370,
     "Beds": 91,
-    "Info": [
+    "Rooms": [
       {
         "beds": 61,
         "label": "Dormitory"
@@ -2590,7 +2590,7 @@
     "Lng": 11.296524,
     "Altitude": 1633,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 26,
         "label": "Dormitory"
@@ -2612,7 +2612,7 @@
     "Lng": 12.248889,
     "Altitude": 1569,
     "Beds": 39,
-    "Info": [
+    "Rooms": [
       {
         "beds": 13,
         "label": "Mehrbettzimmer"
@@ -2638,7 +2638,7 @@
     "Lng": 14.1365985,
     "Altitude": 281,
     "Beds": 30,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Dormitory"
@@ -2656,7 +2656,7 @@
     "Lng": 12.14,
     "Altitude": 2038,
     "Beds": 47,
-    "Info": [
+    "Rooms": [
       {
         "beds": 8,
         "label": "Dormitory"
@@ -2690,7 +2690,7 @@
     "Lng": 12.297778,
     "Altitude": 2208,
     "Beds": 106,
-    "Info": [
+    "Rooms": [
       {
         "beds": 16,
         "label": "Dormitory"
@@ -2732,7 +2732,7 @@
     "Lng": 8.9402977,
     "Altitude": 2205,
     "Beds": 54,
-    "Info": [
+    "Rooms": [
       {
         "beds": 54,
         "label": "Mehrbettzimmer"
@@ -2754,7 +2754,7 @@
     "Lng": 12.133851,
     "Altitude": 2374,
     "Beds": 44,
-    "Info": [
+    "Rooms": [
       {
         "beds": 34,
         "label": "Dormitory"
@@ -2780,7 +2780,7 @@
     "Lng": 12.30752,
     "Altitude": 1014,
     "Beds": 65,
-    "Info": [
+    "Rooms": [
       {
         "beds": 36,
         "label": "Dormitory"
@@ -2806,7 +2806,7 @@
     "Lng": 11.63,
     "Altitude": 1338,
     "Beds": 47,
-    "Info": [
+    "Rooms": [
       {
         "beds": 47,
         "label": "Dormitory"
@@ -2824,7 +2824,7 @@
     "Lng": 12.875,
     "Altitude": 1752,
     "Beds": 68,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Matratzenlager"
@@ -2846,7 +2846,7 @@
     "Lng": 11.263324,
     "Altitude": 2413,
     "Beds": 69,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Dormitory"
@@ -2868,7 +2868,7 @@
     "Lng": 12.88744,
     "Altitude": 2119,
     "Beds": 109,
-    "Info": [
+    "Rooms": [
       {
         "beds": 90,
         "label": "Matratzenlager"
@@ -2890,7 +2890,7 @@
     "Lng": 12.91458,
     "Altitude": 2177,
     "Beds": 82,
-    "Info": [
+    "Rooms": [
       {
         "beds": 33,
         "label": "Dormitory"
@@ -2920,7 +2920,7 @@
     "Lng": 15.421109,
     "Altitude": 1377,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 27,
         "label": "Shared bedroom"
@@ -2946,7 +2946,7 @@
     "Lng": 15.441089,
     "Altitude": 1185,
     "Beds": 26,
-    "Info": [
+    "Rooms": [
       {
         "beds": 18,
         "label": "Dormitory"
@@ -2968,7 +2968,7 @@
     "Lng": 11.79,
     "Altitude": 1475,
     "Beds": 64,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Dormitory"
@@ -2998,7 +2998,7 @@
     "Lng": 11.012802,
     "Altitude": 2051,
     "Beds": 116,
-    "Info": [
+    "Rooms": [
       {
         "beds": 80,
         "label": "Dormitory"
@@ -3020,7 +3020,7 @@
     "Lng": 10.98492,
     "Altitude": 2959,
     "Beds": 10,
-    "Info": [
+    "Rooms": [
       {
         "beds": 10,
         "label": "Dormitory"
@@ -3038,7 +3038,7 @@
     "Lng": 12.93399,
     "Altitude": 1930,
     "Beds": 160,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Dormitory"
@@ -3072,7 +3072,7 @@
     "Lng": 12.738883,
     "Altitude": 2802,
     "Beds": 71,
-    "Info": [
+    "Rooms": [
       {
         "beds": 40,
         "label": "Dormitory"
@@ -3094,7 +3094,7 @@
     "Lng": 12.31104,
     "Altitude": 1620,
     "Beds": 90,
-    "Info": [
+    "Rooms": [
       {
         "beds": 16,
         "label": "Dormitory"
@@ -3120,7 +3120,7 @@
     "Lng": 7.8498,
     "Altitude": 2886,
     "Beds": 44,
-    "Info": [
+    "Rooms": [
       {
         "beds": 44,
         "label": "Massenlager"
@@ -3142,7 +3142,7 @@
     "Lng": 9.720377,
     "Altitude": 2652,
     "Beds": 70,
-    "Info": [
+    "Rooms": [
       {
         "beds": 65,
         "label": "Massenlager"
@@ -3172,7 +3172,7 @@
     "Lng": 12.720417,
     "Altitude": 2644,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 14,
         "label": "Dormitory"
@@ -3198,7 +3198,7 @@
     "Lng": 10.66983,
     "Altitude": 1934,
     "Beds": 53,
-    "Info": [
+    "Rooms": [
       {
         "beds": 29,
         "label": "Dormitory"
@@ -3220,7 +3220,7 @@
     "Lng": 8.020535,
     "Altitude": 3299,
     "Beds": 20,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Massenlager"
@@ -3238,7 +3238,7 @@
     "Lng": 13.68,
     "Altitude": 1712,
     "Beds": 29,
-    "Info": [
+    "Rooms": [
       {
         "beds": 29,
         "label": "Shared bedroom"
@@ -3264,7 +3264,7 @@
     "Lng": 11.491381,
     "Altitude": 1825,
     "Beds": 68,
-    "Info": [
+    "Rooms": [
       {
         "beds": 38,
         "label": "Dormitory"
@@ -3290,7 +3290,7 @@
     "Lng": 7.38801,
     "Altitude": 2303,
     "Beds": 79,
-    "Info": [
+    "Rooms": [
       {
         "beds": 79,
         "label": "Massenlager"
@@ -3308,7 +3308,7 @@
     "Lng": 9.359021,
     "Altitude": 2385,
     "Beds": 23,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Massenlager"
@@ -3330,7 +3330,7 @@
     "Lng": 7.76206,
     "Altitude": 2674,
     "Beds": 38,
-    "Info": [
+    "Rooms": [
       {
         "beds": 38,
         "label": "Massenlager"
@@ -3348,7 +3348,7 @@
     "Lng": 9.013999,
     "Altitude": 1602,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 6,
         "label": "2-er Zimmer"
@@ -3378,7 +3378,7 @@
     "Lng": 11.807152,
     "Altitude": 1921,
     "Beds": 38,
-    "Info": [
+    "Rooms": [
       {
         "beds": 38,
         "label": "Dormitory"
@@ -3396,7 +3396,7 @@
     "Lng": 11.702097,
     "Altitude": 2498,
     "Beds": 56,
-    "Info": [
+    "Rooms": [
       {
         "beds": 32,
         "label": "Dormitory"
@@ -3418,7 +3418,7 @@
     "Lng": 10.8575,
     "Altitude": 2293,
     "Beds": 44,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Dormitory"
@@ -3440,7 +3440,7 @@
     "Lng": 12.277278,
     "Altitude": 829,
     "Beds": 91,
-    "Info": [
+    "Rooms": [
       {
         "beds": 41,
         "label": "Dormitory"
@@ -3466,7 +3466,7 @@
     "Lng": 10.7375,
     "Altitude": 1928,
     "Beds": 87,
-    "Info": [
+    "Rooms": [
       {
         "beds": 14,
         "label": "Dormitory"
@@ -3492,7 +3492,7 @@
     "Lng": 10.562778,
     "Altitude": 1788,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 22,
         "label": "Dormitory"
@@ -3526,7 +3526,7 @@
     "Lng": 9.482227,
     "Altitude": 2073,
     "Beds": 29,
-    "Info": [
+    "Rooms": [
       {
         "beds": 29,
         "label": "Massenlager"
@@ -3544,7 +3544,7 @@
     "Lng": 16.3993518,
     "Altitude": 313,
     "Beds": 1,
-    "Info": [
+    "Rooms": [
       {
         "beds": 1,
         "label": "Matratzenlager"
@@ -3566,7 +3566,7 @@
     "Lng": 11.95,
     "Altitude": 2177,
     "Beds": 85,
-    "Info": [
+    "Rooms": [
       {
         "beds": 66,
         "label": "Dormitory"
@@ -3592,7 +3592,7 @@
     "Lng": 11.425489,
     "Altitude": 1922,
     "Beds": 60,
-    "Info": [
+    "Rooms": [
       {
         "beds": 37,
         "label": "Matratzenlager"
@@ -3614,7 +3614,7 @@
     "Lng": 11.7478,
     "Altitude": 2295,
     "Beds": 70,
-    "Info": [
+    "Rooms": [
       {
         "beds": 32,
         "label": "Dormitory"
@@ -3636,7 +3636,7 @@
     "Lng": 10.77805,
     "Altitude": 3277,
     "Beds": 60,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Dormitory"
@@ -3658,7 +3658,7 @@
     "Lng": 9.691876,
     "Altitude": 2252,
     "Beds": 26,
-    "Info": [
+    "Rooms": [
       {
         "beds": 26,
         "label": "Massenlager"
@@ -3676,7 +3676,7 @@
     "Lng": 10.045557,
     "Altitude": 2245,
     "Beds": 69,
-    "Info": [
+    "Rooms": [
       {
         "beds": 38,
         "label": "Dormitory"
@@ -3698,7 +3698,7 @@
     "Lng": 12.18,
     "Altitude": 1580,
     "Beds": 126,
-    "Info": [
+    "Rooms": [
       {
         "beds": 60,
         "label": "Dormitory"
@@ -3724,7 +3724,7 @@
     "Lng": 12.581,
     "Altitude": 1942,
     "Beds": 64,
-    "Info": [
+    "Rooms": [
       {
         "beds": 28,
         "label": "Dormitory"
@@ -3746,7 +3746,7 @@
     "Lng": 12.16904,
     "Altitude": 2610,
     "Beds": 38,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Dormitory"
@@ -3768,7 +3768,7 @@
     "Lng": 12.576295,
     "Altitude": 2656,
     "Beds": 47,
-    "Info": [
+    "Rooms": [
       {
         "beds": 28,
         "label": "Dormitory"
@@ -3794,7 +3794,7 @@
     "Lng": 10.17645,
     "Altitude": 2165,
     "Beds": 180,
-    "Info": [
+    "Rooms": [
       {
         "beds": 42,
         "label": "Dormitory"
@@ -3820,7 +3820,7 @@
     "Lng": 10.2046,
     "Altitude": 2310,
     "Beds": 54,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Dormitory"
@@ -3854,7 +3854,7 @@
     "Lng": 12.937222,
     "Altitude": 1631,
     "Beds": 160,
-    "Info": [
+    "Rooms": [
       {
         "beds": 64,
         "label": "Dormitory"
@@ -3880,7 +3880,7 @@
     "Lng": 7.0,
     "Altitude": 1840,
     "Beds": 23,
-    "Info": [
+    "Rooms": [
       {
         "beds": 23,
         "label": "Massenlager"
@@ -3898,7 +3898,7 @@
     "Lng": 8.409994,
     "Altitude": 2338,
     "Beds": 46,
-    "Info": [
+    "Rooms": [
       {
         "beds": 46,
         "label": "Massenlager"
@@ -3920,7 +3920,7 @@
     "Lng": 8.589253,
     "Altitude": 1734,
     "Beds": 20,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Massenlager"
@@ -3942,7 +3942,7 @@
     "Lng": 12.499493,
     "Altitude": 1558,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 22,
         "label": "Dormitory"
@@ -3972,7 +3972,7 @@
     "Lng": 11.820833,
     "Altitude": 1576,
     "Beds": 54,
-    "Info": [
+    "Rooms": [
       {
         "beds": 29,
         "label": "Dormitory"
@@ -3994,7 +3994,7 @@
     "Lng": 11.236693,
     "Altitude": 2238,
     "Beds": 58,
-    "Info": [
+    "Rooms": [
       {
         "beds": 34,
         "label": "Dormitory"
@@ -4024,7 +4024,7 @@
     "Lng": 11.03,
     "Altitude": 2238,
     "Beds": 60,
-    "Info": [
+    "Rooms": [
       {
         "beds": 40,
         "label": "Dormitory"
@@ -4050,7 +4050,7 @@
     "Lng": 8.098848,
     "Altitude": 2530,
     "Beds": 56,
-    "Info": [
+    "Rooms": [
       {
         "beds": 56,
         "label": "Massenlager"
@@ -4072,7 +4072,7 @@
     "Lng": 11.788416,
     "Altitude": 2124,
     "Beds": 58,
-    "Info": [
+    "Rooms": [
       {
         "beds": 32,
         "label": "Dormitory"
@@ -4098,7 +4098,7 @@
     "Lng": 8.13902,
     "Altitude": 1499,
     "Beds": 43,
-    "Info": [
+    "Rooms": [
       {
         "beds": 23,
         "label": "Massenlager"
@@ -4128,7 +4128,7 @@
     "Lng": 12.096111,
     "Altitude": 2363,
     "Beds": 71,
-    "Info": [
+    "Rooms": [
       {
         "beds": 43,
         "label": "Dormitory"
@@ -4158,7 +4158,7 @@
     "Lng": 8.007675,
     "Altitude": 2894,
     "Beds": 120,
-    "Info": [
+    "Rooms": [
       {
         "beds": 120,
         "label": "Massenlager"
@@ -4180,7 +4180,7 @@
     "Lng": 7.977938,
     "Altitude": 2726,
     "Beds": 99,
-    "Info": [
+    "Rooms": [
       {
         "beds": 90,
         "label": "Massenlager"
@@ -4198,7 +4198,7 @@
     "Lng": 12.09845,
     "Altitude": 1360,
     "Beds": 48,
-    "Info": [
+    "Rooms": [
       {
         "beds": 16,
         "label": "Matratzenlager"
@@ -4224,7 +4224,7 @@
     "Lng": 14.226,
     "Altitude": 1575,
     "Beds": 28,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Dormitory"
@@ -4246,7 +4246,7 @@
     "Lng": 11.462417,
     "Altitude": 1327,
     "Beds": 91,
-    "Info": [
+    "Rooms": [
       {
         "beds": 33,
         "label": "Dormitory"
@@ -4272,7 +4272,7 @@
     "Lng": 8.11,
     "Altitude": 3048,
     "Beds": 116,
-    "Info": [
+    "Rooms": [
       {
         "beds": 116,
         "label": "Mehrbettzimmer"
@@ -4294,7 +4294,7 @@
     "Lng": 8.34803,
     "Altitude": 1887,
     "Beds": 36,
-    "Info": [
+    "Rooms": [
       {
         "beds": 36,
         "label": "Massenlager"
@@ -4316,7 +4316,7 @@
     "Lng": 10.51438,
     "Altitude": 1810,
     "Beds": 135,
-    "Info": [
+    "Rooms": [
       {
         "beds": 95,
         "label": "Dormitory"
@@ -4338,7 +4338,7 @@
     "Lng": 11.708977,
     "Altitude": 1799,
     "Beds": 56,
-    "Info": [
+    "Rooms": [
       {
         "beds": 26,
         "label": "Dormitory"
@@ -4364,7 +4364,7 @@
     "Lng": 10.215833,
     "Altitude": 2138,
     "Beds": 55,
-    "Info": [
+    "Rooms": [
       {
         "beds": 55,
         "label": "Dormitory"
@@ -4382,7 +4382,7 @@
     "Lng": 11.84845,
     "Altitude": 1365,
     "Beds": 48,
-    "Info": [
+    "Rooms": [
       {
         "beds": 16,
         "label": "Dormitory"
@@ -4408,7 +4408,7 @@
     "Lng": 13.62,
     "Altitude": 2203,
     "Beds": 94,
-    "Info": [
+    "Rooms": [
       {
         "beds": 59,
         "label": "Dormitory"
@@ -4438,7 +4438,7 @@
     "Lng": 12.68159,
     "Altitude": 2802,
     "Beds": 118,
-    "Info": [
+    "Rooms": [
       {
         "beds": 118,
         "label": "Dormitory"
@@ -4460,7 +4460,7 @@
     "Lng": 9.0005,
     "Altitude": 2172,
     "Beds": 70,
-    "Info": [
+    "Rooms": [
       {
         "beds": 70,
         "label": "Massenlager"
@@ -4482,7 +4482,7 @@
     "Lng": 10.02868,
     "Altitude": 1846,
     "Beds": 70,
-    "Info": [
+    "Rooms": [
       {
         "beds": 61,
         "label": "Dormitory"
@@ -4504,7 +4504,7 @@
     "Lng": 12.769,
     "Altitude": 2176,
     "Beds": 45,
-    "Info": [
+    "Rooms": [
       {
         "beds": 28,
         "label": "Dormitory"
@@ -4534,7 +4534,7 @@
     "Lng": 7.97712,
     "Altitude": 725,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 22,
         "label": "Dormitory"
@@ -4564,7 +4564,7 @@
     "Lng": 7.474725,
     "Altitude": 3160,
     "Beds": 100,
-    "Info": [
+    "Rooms": [
       {
         "beds": 100,
         "label": "Massenlager"
@@ -4590,7 +4590,7 @@
     "Lng": 8.551785,
     "Altitude": 2105,
     "Beds": 56,
-    "Info": [
+    "Rooms": [
       {
         "beds": 56,
         "label": "Massenlager"
@@ -4612,7 +4612,7 @@
     "Lng": 8.457761,
     "Altitude": 2439,
     "Beds": 19,
-    "Info": [
+    "Rooms": [
       {
         "beds": 19,
         "label": "Massenlager"
@@ -4634,7 +4634,7 @@
     "Lng": 9.01875,
     "Altitude": 2501,
     "Beds": 76,
-    "Info": [
+    "Rooms": [
       {
         "beds": 42,
         "label": "Massenlager"
@@ -4664,7 +4664,7 @@
     "Lng": 10.711189,
     "Altitude": 2670,
     "Beds": 80,
-    "Info": [
+    "Rooms": [
       {
         "beds": 23,
         "label": "large rooms"
@@ -4686,7 +4686,7 @@
     "Lng": 10.8176,
     "Altitude": 2434,
     "Beds": 154,
-    "Info": [
+    "Rooms": [
       {
         "beds": 154,
         "label": "Dormitory"
@@ -4716,7 +4716,7 @@
     "Lng": 12.750405,
     "Altitude": 2051,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Matratzenlager"
@@ -4738,7 +4738,7 @@
     "Lng": 10.1161,
     "Altitude": 2443,
     "Beds": 160,
-    "Info": [
+    "Rooms": [
       {
         "beds": 80,
         "label": "Dormitory"
@@ -4760,7 +4760,7 @@
     "Lng": 10.49,
     "Altitude": 2298,
     "Beds": 54,
-    "Info": [
+    "Rooms": [
       {
         "beds": 36,
         "label": "Matratzenlager"
@@ -4782,7 +4782,7 @@
     "Lng": 10.003486,
     "Altitude": 2193,
     "Beds": 80,
-    "Info": [
+    "Rooms": [
       {
         "beds": 35,
         "label": "Dormitory"
@@ -4812,7 +4812,7 @@
     "Lng": 12.383333,
     "Altitude": 2240,
     "Beds": 71,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Dormitory"
@@ -4838,7 +4838,7 @@
     "Lng": 10.823889,
     "Altitude": 2755,
     "Beds": 74,
-    "Info": [
+    "Rooms": [
       {
         "beds": 32,
         "label": "Dormitory"
@@ -4860,7 +4860,7 @@
     "Lng": 11.0435,
     "Altitude": 2308,
     "Beds": 53,
-    "Info": [
+    "Rooms": [
       {
         "beds": 25,
         "label": "Dormitory"
@@ -4890,7 +4890,7 @@
     "Lng": 8.95607,
     "Altitude": 2311,
     "Beds": 26,
-    "Info": [
+    "Rooms": [
       {
         "beds": 26,
         "label": "Massenlager"
@@ -4912,7 +4912,7 @@
     "Lng": 9.96,
     "Altitude": 2141,
     "Beds": 21,
-    "Info": [
+    "Rooms": [
       {
         "beds": 21,
         "label": "Massenlager"
@@ -4930,7 +4930,7 @@
     "Lng": 10.0093,
     "Altitude": 2065,
     "Beds": 10,
-    "Info": [
+    "Rooms": [
       {
         "beds": 10,
         "label": "Massenlager"
@@ -4948,7 +4948,7 @@
     "Lng": 7.868928,
     "Altitude": 1955,
     "Beds": 24,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Massenlager"
@@ -4966,7 +4966,7 @@
     "Lng": 8.509767,
     "Altitude": 1956,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 36,
         "label": "Mehrbettzimmer"
@@ -4988,7 +4988,7 @@
     "Lng": 9.64372,
     "Altitude": 2293,
     "Beds": 23,
-    "Info": [
+    "Rooms": [
       {
         "beds": 23,
         "label": "Massenlager"
@@ -5006,7 +5006,7 @@
     "Lng": 13.676637,
     "Altitude": 1765,
     "Beds": 32,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Dormitory"
@@ -5032,7 +5032,7 @@
     "Lng": 15.025475,
     "Altitude": 1343,
     "Beds": 43,
-    "Info": [
+    "Rooms": [
       {
         "beds": 12,
         "label": "Matratzenlager"
@@ -5062,7 +5062,7 @@
     "Lng": 9.026486,
     "Altitude": 2482,
     "Beds": 23,
-    "Info": [
+    "Rooms": [
       {
         "beds": 23,
         "label": "Massenlager"
@@ -5080,7 +5080,7 @@
     "Lng": 11.882484,
     "Altitude": 1124,
     "Beds": 88,
-    "Info": [
+    "Rooms": [
       {
         "beds": 48,
         "label": "Shared bedroom"
@@ -5106,7 +5106,7 @@
     "Lng": 11.7085,
     "Altitude": 2715,
     "Beds": 88,
-    "Info": [
+    "Rooms": [
       {
         "beds": 45,
         "label": "large rooms"
@@ -5128,7 +5128,7 @@
     "Lng": 14.6997074,
     "Altitude": 452,
     "Beds": 21,
-    "Info": [
+    "Rooms": [
       {
         "beds": 12,
         "label": "Dormitory"
@@ -5154,7 +5154,7 @@
     "Lng": 8.487712,
     "Altitude": 2126,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 40,
         "label": "Massenlager"
@@ -5176,7 +5176,7 @@
     "Lng": 13.683718,
     "Altitude": 2146,
     "Beds": 65,
-    "Info": [
+    "Rooms": [
       {
         "beds": 27,
         "label": "Matratzenlager"
@@ -5210,7 +5210,7 @@
     "Lng": 13.612779,
     "Altitude": 2740,
     "Beds": 21,
-    "Info": [
+    "Rooms": [
       {
         "beds": 15,
         "label": "Matratzenlager"
@@ -5236,7 +5236,7 @@
     "Lng": 13.6001,
     "Altitude": 1638,
     "Beds": 45,
-    "Info": [
+    "Rooms": [
       {
         "beds": 16,
         "label": "Dormitory"
@@ -5266,7 +5266,7 @@
     "Lng": 7.649975,
     "Altitude": 1897,
     "Beds": 30,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Massenlager"
@@ -5284,7 +5284,7 @@
     "Lng": 8.291807,
     "Altitude": 2265,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 48,
         "label": "Massenlager"
@@ -5310,7 +5310,7 @@
     "Lng": 12.124178,
     "Altitude": 2328,
     "Beds": 59,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Matratzenlager"
@@ -5336,7 +5336,7 @@
     "Lng": 12.867,
     "Altitude": 1960,
     "Beds": 64,
-    "Info": [
+    "Rooms": [
       {
         "beds": 34,
         "label": "Dormitory"
@@ -5366,7 +5366,7 @@
     "Lng": 12.493746,
     "Altitude": 2304,
     "Beds": 60,
-    "Info": [
+    "Rooms": [
       {
         "beds": 45,
         "label": "Dormitory"
@@ -5388,7 +5388,7 @@
     "Lng": 8.52,
     "Altitude": 2150,
     "Beds": 58,
-    "Info": [
+    "Rooms": [
       {
         "beds": 56,
         "label": "Massenlager"
@@ -5410,7 +5410,7 @@
     "Lng": 10.420012,
     "Altitude": 1846,
     "Beds": 160,
-    "Info": [
+    "Rooms": [
       {
         "beds": 104,
         "label": "Matratzenlager"
@@ -5436,7 +5436,7 @@
     "Lng": 10.806944,
     "Altitude": 2817,
     "Beds": 59,
-    "Info": [
+    "Rooms": [
       {
         "beds": 36,
         "label": "Dormitory"
@@ -5466,7 +5466,7 @@
     "Lng": 10.61855,
     "Altitude": 1530,
     "Beds": 60,
-    "Info": [
+    "Rooms": [
       {
         "beds": 19,
         "label": "Matratzenlager"
@@ -5488,7 +5488,7 @@
     "Lng": 13.5942,
     "Altitude": 1880,
     "Beds": 24,
-    "Info": [
+    "Rooms": [
       {
         "beds": 11,
         "label": "Dormitory"
@@ -5510,7 +5510,7 @@
     "Lng": 8.57543,
     "Altitude": 1903,
     "Beds": 70,
-    "Info": [
+    "Rooms": [
       {
         "beds": 76,
         "label": "Massenlager"
@@ -5532,7 +5532,7 @@
     "Lng": 11.198342,
     "Altitude": 2286,
     "Beds": 101,
-    "Info": [
+    "Rooms": [
       {
         "beds": 39,
         "label": "Dormitory"
@@ -5562,7 +5562,7 @@
     "Lng": 10.43552,
     "Altitude": 2256,
     "Beds": 58,
-    "Info": [
+    "Rooms": [
       {
         "beds": 48,
         "label": "shared bedrooms"
@@ -5584,7 +5584,7 @@
     "Lng": 7.066975,
     "Altitude": 2735,
     "Beds": 20,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Massenlager"
@@ -5602,7 +5602,7 @@
     "Lng": 7.653619,
     "Altitude": 2886,
     "Beds": 90,
-    "Info": [
+    "Rooms": [
       {
         "beds": 75,
         "label": "Massenlager"
@@ -5624,7 +5624,7 @@
     "Lng": 7.034627,
     "Altitude": 2831,
     "Beds": 80,
-    "Info": [
+    "Rooms": [
       {
         "beds": 80,
         "label": "Massenlager"
@@ -5642,7 +5642,7 @@
     "Lng": 7.134205,
     "Altitude": 2582,
     "Beds": 38,
-    "Info": [
+    "Rooms": [
       {
         "beds": 38,
         "label": "Massenlager"
@@ -5660,7 +5660,7 @@
     "Lng": 7.043639,
     "Altitude": 3170,
     "Beds": 90,
-    "Info": [
+    "Rooms": [
       {
         "beds": 90,
         "label": "Massenlager"
@@ -5678,7 +5678,7 @@
     "Lng": 11.94016,
     "Altitude": 750,
     "Beds": 81,
-    "Info": [
+    "Rooms": [
       {
         "beds": 14,
         "label": "Dormitory"
@@ -5704,7 +5704,7 @@
     "Lng": 11.2,
     "Altitude": 2020,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 22,
         "label": "Dormitory"
@@ -5734,7 +5734,7 @@
     "Lng": 11.58,
     "Altitude": 1693,
     "Beds": 20,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "large rooms"
@@ -5752,7 +5752,7 @@
     "Lng": 11.580207,
     "Altitude": 2284,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 15,
         "label": "large rooms"
@@ -5782,7 +5782,7 @@
     "Lng": 10.927067,
     "Altitude": 1602,
     "Beds": 26,
-    "Info": [
+    "Rooms": [
       {
         "beds": 26,
         "label": "Dormitory"
@@ -5800,7 +5800,7 @@
     "Lng": 11.35,
     "Altitude": 1616,
     "Beds": 45,
-    "Info": [
+    "Rooms": [
       {
         "beds": 45,
         "label": "Dormitory"
@@ -5818,7 +5818,7 @@
     "Lng": 7.048766,
     "Altitude": 2983,
     "Beds": 18,
-    "Info": [
+    "Rooms": [
       {
         "beds": 18,
         "label": "Massenlager"
@@ -5836,7 +5836,7 @@
     "Lng": 9.955766,
     "Altitude": 3175,
     "Beds": 20,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Massenlager"
@@ -5854,7 +5854,7 @@
     "Lng": 12.300099,
     "Altitude": 2558,
     "Beds": 140,
-    "Info": [
+    "Rooms": [
       {
         "beds": 65,
         "label": "Dormitory"
@@ -5880,7 +5880,7 @@
     "Lng": 13.042617,
     "Altitude": 1736,
     "Beds": 113,
-    "Info": [
+    "Rooms": [
       {
         "beds": 69,
         "label": "Dormitory"
@@ -5910,7 +5910,7 @@
     "Lng": 13.290367,
     "Altitude": 1550,
     "Beds": 24,
-    "Info": [
+    "Rooms": [
       {
         "beds": 17,
         "label": "Dormitory"
@@ -5940,7 +5940,7 @@
     "Lng": 13.007448,
     "Altitude": 1663,
     "Beds": 34,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Dormitory"
@@ -5966,7 +5966,7 @@
     "Lng": 9.835456,
     "Altitude": 1744,
     "Beds": 164,
-    "Info": [
+    "Rooms": [
       {
         "beds": 66,
         "label": "Dormitory"
@@ -5996,7 +5996,7 @@
     "Lng": 10.535555,
     "Altitude": 2220,
     "Beds": 59,
-    "Info": [
+    "Rooms": [
       {
         "beds": 26,
         "label": "Dormitory"
@@ -6022,7 +6022,7 @@
     "Lng": 10.768112,
     "Altitude": 1600,
     "Beds": 8,
-    "Info": [
+    "Rooms": [
       {
         "beds": 8,
         "label": "Matratzenlager"
@@ -6040,7 +6040,7 @@
     "Lng": 12.715533,
     "Altitude": 2973,
     "Beds": 110,
-    "Info": [
+    "Rooms": [
       {
         "beds": 65,
         "label": "Dormitory"
@@ -6070,7 +6070,7 @@
     "Lng": 11.78159,
     "Altitude": 2312,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "shared bedrooms"
@@ -6088,7 +6088,7 @@
     "Lng": 11.801511,
     "Altitude": 1878,
     "Beds": 73,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Dormitory"
@@ -6122,7 +6122,7 @@
     "Lng": 7.4996,
     "Altitude": 1120,
     "Beds": 38,
-    "Info": [
+    "Rooms": [
       {
         "beds": 38,
         "label": "Massenlager"
@@ -6144,7 +6144,7 @@
     "Lng": 8.414224,
     "Altitude": 2795,
     "Beds": 78,
-    "Info": [
+    "Rooms": [
       {
         "beds": 78,
         "label": "Massenlager"
@@ -6162,7 +6162,7 @@
     "Lng": 14.65,
     "Altitude": 1699,
     "Beds": 99,
-    "Info": [
+    "Rooms": [
       {
         "beds": 55,
         "label": "Dormitory"
@@ -6188,7 +6188,7 @@
     "Lng": 7.628976,
     "Altitude": 2694,
     "Beds": 45,
-    "Info": [
+    "Rooms": [
       {
         "beds": 45,
         "label": "Massenlager"
@@ -6206,7 +6206,7 @@
     "Lng": 10.03605,
     "Altitude": 2538,
     "Beds": 74,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Dormitory"
@@ -6228,7 +6228,7 @@
     "Lng": 12.29722,
     "Altitude": 1639,
     "Beds": 47,
-    "Info": [
+    "Rooms": [
       {
         "beds": 27,
         "label": "Matratzenlager"
@@ -6258,7 +6258,7 @@
     "Lng": 6.336052,
     "Altitude": 1377,
     "Beds": 20,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Dortoir"
@@ -6276,7 +6276,7 @@
     "Lng": 8.259318,
     "Altitude": 2512,
     "Beds": 16,
-    "Info": [
+    "Rooms": [
       {
         "beds": 6,
         "label": "6-er Zimmer"
@@ -6298,7 +6298,7 @@
     "Lng": 13.027661,
     "Altitude": 1810,
     "Beds": 72,
-    "Info": [
+    "Rooms": [
       {
         "beds": 14,
         "label": "Dormitory"
@@ -6324,7 +6324,7 @@
     "Lng": 13.36455,
     "Altitude": 2020,
     "Beds": 45,
-    "Info": [
+    "Rooms": [
       {
         "beds": 45,
         "label": "Shared bedroom"
@@ -6342,7 +6342,7 @@
     "Lng": 8.65678,
     "Altitude": 2042,
     "Beds": 34,
-    "Info": [
+    "Rooms": [
       {
         "beds": 34,
         "label": "Massenlager"
@@ -6360,7 +6360,7 @@
     "Lng": 13.010278,
     "Altitude": 2471,
     "Beds": 54,
-    "Info": [
+    "Rooms": [
       {
         "beds": 42,
         "label": "Matratzenlager"
@@ -6386,7 +6386,7 @@
     "Lng": 11.310835,
     "Altitude": 2369,
     "Beds": 98,
-    "Info": [
+    "Rooms": [
       {
         "beds": 68,
         "label": "Dormitory"
@@ -6408,7 +6408,7 @@
     "Lng": 11.763056,
     "Altitude": 1834,
     "Beds": 83,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Dormitory"
@@ -6446,7 +6446,7 @@
     "Lng": 12.58,
     "Altitude": 1160,
     "Beds": 25,
-    "Info": [
+    "Rooms": [
       {
         "beds": 17,
         "label": "Matratzenlager"
@@ -6472,7 +6472,7 @@
     "Lng": 7.44615,
     "Altitude": 1125,
     "Beds": 15,
-    "Info": [
+    "Rooms": [
       {
         "beds": 2,
         "label": "2-er Zimmer"
@@ -6498,7 +6498,7 @@
     "Lng": 13.039249,
     "Altitude": 1670,
     "Beds": 66,
-    "Info": [
+    "Rooms": [
       {
         "beds": 8,
         "label": "Matratzenlager"
@@ -6524,7 +6524,7 @@
     "Lng": 12.7401,
     "Altitude": 1868,
     "Beds": 52,
-    "Info": [
+    "Rooms": [
       {
         "beds": 42,
         "label": "Dormitory"
@@ -6546,7 +6546,7 @@
     "Lng": 7.46,
     "Altitude": 1775,
     "Beds": 16,
-    "Info": [
+    "Rooms": [
       {
         "beds": 16,
         "label": "Massenlager"
@@ -6564,7 +6564,7 @@
     "Lng": 8.913761,
     "Altitude": 2524,
     "Beds": 51,
-    "Info": [
+    "Rooms": [
       {
         "beds": 51,
         "label": "Massenlager"
@@ -6586,7 +6586,7 @@
     "Lng": 7.100621,
     "Altitude": 2453,
     "Beds": 31,
-    "Info": [
+    "Rooms": [
       {
         "beds": 31,
         "label": "Mehrbettzimmer"
@@ -6608,7 +6608,7 @@
     "Lng": 7.697374,
     "Altitude": 3180,
     "Beds": 54,
-    "Info": [
+    "Rooms": [
       {
         "beds": 54,
         "label": "8-er Zimmer"
@@ -6630,7 +6630,7 @@
     "Lng": 7.162045,
     "Altitude": 1893,
     "Beds": 56,
-    "Info": [
+    "Rooms": [
       {
         "beds": 33,
         "label": "Massenlager"
@@ -6660,7 +6660,7 @@
     "Lng": 14.081894,
     "Altitude": 1420,
     "Beds": 150,
-    "Info": [
+    "Rooms": [
       {
         "beds": 70,
         "label": "Dormitory"
@@ -6694,7 +6694,7 @@
     "Lng": 12.357851,
     "Altitude": 2224,
     "Beds": 62,
-    "Info": [
+    "Rooms": [
       {
         "beds": 38,
         "label": "large rooms"
@@ -6720,7 +6720,7 @@
     "Lng": 8.022527,
     "Altitude": 3355,
     "Beds": 38,
-    "Info": [
+    "Rooms": [
       {
         "beds": 38,
         "label": "Massenlager"
@@ -6742,7 +6742,7 @@
     "Lng": 8.079,
     "Altitude": 2848,
     "Beds": 20,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Massenlager"
@@ -6764,7 +6764,7 @@
     "Lng": 10.11739,
     "Altitude": 1985,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Massenlager"
@@ -6790,7 +6790,7 @@
     "Lng": 12.715556,
     "Altitude": 2642,
     "Beds": 39,
-    "Info": [
+    "Rooms": [
       {
         "beds": 25,
         "label": "Matratzenlager"
@@ -6820,7 +6820,7 @@
     "Lng": 13.605526,
     "Altitude": 1572,
     "Beds": 45,
-    "Info": [
+    "Rooms": [
       {
         "beds": 21,
         "label": "Dormitory"
@@ -6842,7 +6842,7 @@
     "Lng": 10.385326,
     "Altitude": 857,
     "Beds": 8,
-    "Info": [
+    "Rooms": [
       {
         "beds": 8,
         "label": "Matratzenlager"
@@ -6864,7 +6864,7 @@
     "Lng": 7.435092,
     "Altitude": 1256,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Massenlager"
@@ -6890,7 +6890,7 @@
     "Lng": 9.8583076,
     "Altitude": 1775,
     "Beds": 60,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Massenlager"
@@ -6920,7 +6920,7 @@
     "Lng": 7.709522,
     "Altitude": 3786,
     "Beds": 8,
-    "Info": [
+    "Rooms": [
       {
         "beds": 8,
         "label": "Massenlager"
@@ -6938,7 +6938,7 @@
     "Lng": 7.889815,
     "Altitude": 2783,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Massenlager"
@@ -6960,7 +6960,7 @@
     "Lng": 7.43279,
     "Altitude": 1800,
     "Beds": 20,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Massenlager"
@@ -6982,7 +6982,7 @@
     "Lng": 15.609628,
     "Altitude": 1788,
     "Beds": 34,
-    "Info": [
+    "Rooms": [
       {
         "beds": 18,
         "label": "Dormitory"
@@ -7012,7 +7012,7 @@
     "Lng": 11.498835,
     "Altitude": 1848,
     "Beds": 120,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Dormitory"
@@ -7038,7 +7038,7 @@
     "Lng": 14.676403,
     "Altitude": 1543,
     "Beds": 38,
-    "Info": [
+    "Rooms": [
       {
         "beds": 38,
         "label": "Dormitory"
@@ -7060,7 +7060,7 @@
     "Lng": 9.42,
     "Altitude": 1527,
     "Beds": 35,
-    "Info": [
+    "Rooms": [
       {
         "beds": 12,
         "label": "Massenlager"
@@ -7082,7 +7082,7 @@
     "Lng": 10.9919,
     "Altitude": 2480,
     "Beds": 65,
-    "Info": [
+    "Rooms": [
       {
         "beds": 22,
         "label": "Dormitory"
@@ -7108,7 +7108,7 @@
     "Lng": 10.91048,
     "Altitude": 2759,
     "Beds": 158,
-    "Info": [
+    "Rooms": [
       {
         "beds": 122,
         "label": "Dormitory"
@@ -7138,7 +7138,7 @@
     "Lng": 11.117297,
     "Altitude": 2899,
     "Beds": 70,
-    "Info": [
+    "Rooms": [
       {
         "beds": 38,
         "label": "Dormitory"
@@ -7168,7 +7168,7 @@
     "Lng": 10.83393,
     "Altitude": 2413,
     "Beds": 65,
-    "Info": [
+    "Rooms": [
       {
         "beds": 35,
         "label": "Dormitory"
@@ -7190,7 +7190,7 @@
     "Lng": 9.09393,
     "Altitude": 2276,
     "Beds": 24,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Massenlager"
@@ -7208,7 +7208,7 @@
     "Lng": 10.84861,
     "Altitude": 1752,
     "Beds": 42,
-    "Info": [
+    "Rooms": [
       {
         "beds": 26,
         "label": "Dormitory"
@@ -7230,7 +7230,7 @@
     "Lng": 11.0661,
     "Altitude": 1652,
     "Beds": 80,
-    "Info": [
+    "Rooms": [
       {
         "beds": 36,
         "label": "Dormitory"
@@ -7256,7 +7256,7 @@
     "Lng": 7.9603,
     "Altitude": 3238,
     "Beds": 72,
-    "Info": [
+    "Rooms": [
       {
         "beds": 72,
         "label": "Massenlager"
@@ -7278,7 +7278,7 @@
     "Lng": 10.481156,
     "Altitude": 2588,
     "Beds": 18,
-    "Info": [
+    "Rooms": [
       {
         "beds": 18,
         "label": "Dormitory"
@@ -7296,7 +7296,7 @@
     "Lng": 7.865815,
     "Altitude": 3855,
     "Beds": 24,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Massenlager"
@@ -7314,7 +7314,7 @@
     "Lng": 7.380848,
     "Altitude": 2462,
     "Beds": 59,
-    "Info": [
+    "Rooms": [
       {
         "beds": 59,
         "label": "Massenlager"
@@ -7332,7 +7332,7 @@
     "Lng": 7.665059,
     "Altitude": 3224,
     "Beds": 15,
-    "Info": [
+    "Rooms": [
       {
         "beds": 15,
         "label": "Massenlager"
@@ -7350,7 +7350,7 @@
     "Lng": 7.070281,
     "Altitude": 2691,
     "Beds": 48,
-    "Info": [
+    "Rooms": [
       {
         "beds": 22,
         "label": "Massenlager"
@@ -7372,7 +7372,7 @@
     "Lng": 14.31745,
     "Altitude": 1360,
     "Beds": 20,
-    "Info": [
+    "Rooms": [
       {
         "beds": 0,
         "label": "Matratzenlager"
@@ -7394,7 +7394,7 @@
     "Lng": 12.4245,
     "Altitude": 2201,
     "Beds": 75,
-    "Info": [
+    "Rooms": [
       {
         "beds": 40,
         "label": "Dormitory"
@@ -7420,7 +7420,7 @@
     "Lng": 9.82834,
     "Altitude": 2610,
     "Beds": 55,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Massenlager"
@@ -7438,7 +7438,7 @@
     "Lng": 9.4801728,
     "Altitude": 374,
     "Beds": 1,
-    "Info": [
+    "Rooms": [
       {
         "beds": 1,
         "label": "Dormitory"
@@ -7456,7 +7456,7 @@
     "Lng": 8.819044,
     "Altitude": 2334,
     "Beds": 32,
-    "Info": [
+    "Rooms": [
       {
         "beds": 32,
         "label": "Massenlager"
@@ -7474,7 +7474,7 @@
     "Lng": 11.620518,
     "Altitude": 2282,
     "Beds": 28,
-    "Info": [
+    "Rooms": [
       {
         "beds": 28,
         "label": "large rooms"
@@ -7492,7 +7492,7 @@
     "Lng": 9.925074,
     "Altitude": 2495,
     "Beds": 80,
-    "Info": [
+    "Rooms": [
       {
         "beds": 78,
         "label": "Massenlager"
@@ -7518,7 +7518,7 @@
     "Lng": 9.754765,
     "Altitude": 1979,
     "Beds": 86,
-    "Info": [
+    "Rooms": [
       {
         "beds": 31,
         "label": "Dormitory"
@@ -7544,7 +7544,7 @@
     "Lng": 7.371963,
     "Altitude": 2191,
     "Beds": 24,
-    "Info": [
+    "Rooms": [
       {
         "beds": 18,
         "label": "Massenlager"
@@ -7570,7 +7570,7 @@
     "Lng": 10.667783,
     "Altitude": 2040,
     "Beds": 74,
-    "Info": [
+    "Rooms": [
       {
         "beds": 74,
         "label": "Dormitory"
@@ -7588,7 +7588,7 @@
     "Lng": 13.0097,
     "Altitude": 1215,
     "Beds": 39,
-    "Info": [
+    "Rooms": [
       {
         "beds": 17,
         "label": "Dormitory"
@@ -7614,7 +7614,7 @@
     "Lng": 8.72,
     "Altitude": 2052,
     "Beds": 75,
-    "Info": [
+    "Rooms": [
       {
         "beds": 71,
         "label": "Massenlager"
@@ -7640,7 +7640,7 @@
     "Lng": 8.281,
     "Altitude": 1982,
     "Beds": 42,
-    "Info": [
+    "Rooms": [
       {
         "beds": 32,
         "label": "Massenlager"
@@ -7666,7 +7666,7 @@
     "Lng": 7.271748,
     "Altitude": 3037,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Massenlager"
@@ -7688,7 +7688,7 @@
     "Lng": 12.42568,
     "Altitude": 2608,
     "Beds": 49,
-    "Info": [
+    "Rooms": [
       {
         "beds": 38,
         "label": "Dormitory"
@@ -7722,7 +7722,7 @@
     "Lng": 13.8133,
     "Altitude": 1656,
     "Beds": 144,
-    "Info": [
+    "Rooms": [
       {
         "beds": 58,
         "label": "dormitories"
@@ -7748,7 +7748,7 @@
     "Lng": 13.4783,
     "Altitude": 1456,
     "Beds": 32,
-    "Info": [
+    "Rooms": [
       {
         "beds": 16,
         "label": "Dormitory"
@@ -7774,7 +7774,7 @@
     "Lng": 8.48383,
     "Altitude": 2571,
     "Beds": 70,
-    "Info": [
+    "Rooms": [
       {
         "beds": 68,
         "label": "Massenlager"
@@ -7796,7 +7796,7 @@
     "Lng": 9.1435648,
     "Altitude": 1745,
     "Beds": 15,
-    "Info": [
+    "Rooms": [
       {
         "beds": 15,
         "label": "Massenlager"
@@ -7814,7 +7814,7 @@
     "Lng": 6.0721,
     "Altitude": 1508,
     "Beds": 18,
-    "Info": [
+    "Rooms": [
       {
         "beds": 18,
         "label": "Massenlager"
@@ -7832,7 +7832,7 @@
     "Lng": 12.327922,
     "Altitude": 1410,
     "Beds": 72,
-    "Info": [
+    "Rooms": [
       {
         "beds": 40,
         "label": "Dormitory"
@@ -7866,7 +7866,7 @@
     "Lng": 12.781181,
     "Altitude": 2488,
     "Beds": 30,
-    "Info": [
+    "Rooms": [
       {
         "beds": 25,
         "label": "Mehrbettzimmer"
@@ -7884,7 +7884,7 @@
     "Lng": 13.7693,
     "Altitude": 1641,
     "Beds": 70,
-    "Info": [
+    "Rooms": [
       {
         "beds": 45,
         "label": "dormitories"
@@ -7910,7 +7910,7 @@
     "Lng": 15.7906,
     "Altitude": 1782,
     "Beds": 24,
-    "Info": [
+    "Rooms": [
       {
         "beds": 12,
         "label": "Matratzenlager"
@@ -7944,7 +7944,7 @@
     "Lng": 12.07,
     "Altitude": 2798,
     "Beds": 59,
-    "Info": [
+    "Rooms": [
       {
         "beds": 35,
         "label": "large rooms"
@@ -7966,7 +7966,7 @@
     "Lng": 7.278,
     "Altitude": 2042,
     "Beds": 22,
-    "Info": [
+    "Rooms": [
       {
         "beds": 22,
         "label": "Massenlager"
@@ -7984,7 +7984,7 @@
     "Lng": 11.764917,
     "Altitude": 2237,
     "Beds": 30,
-    "Info": [
+    "Rooms": [
       {
         "beds": 18,
         "label": "Dormitory"
@@ -8006,7 +8006,7 @@
     "Lng": 14.017935,
     "Altitude": 714,
     "Beds": 59,
-    "Info": [
+    "Rooms": [
       {
         "beds": 37,
         "label": "Dormitory"
@@ -8036,7 +8036,7 @@
     "Lng": 7.43225,
     "Altitude": 1800,
     "Beds": 30,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Massenlager"
@@ -8058,7 +8058,7 @@
     "Lng": 8.57221,
     "Altitude": 2003,
     "Beds": 18,
-    "Info": [
+    "Rooms": [
       {
         "beds": 18,
         "label": "Zimmern"
@@ -8080,7 +8080,7 @@
     "Lng": 7.8889984,
     "Altitude": 3340,
     "Beds": 95,
-    "Info": [
+    "Rooms": [
       {
         "beds": 95,
         "label": "Massenlager"
@@ -8102,7 +8102,7 @@
     "Lng": 15.41917,
     "Altitude": 1785,
     "Beds": 69,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Dormitory"
@@ -8132,7 +8132,7 @@
     "Lng": 15.589,
     "Altitude": 943,
     "Beds": 22,
-    "Info": [
+    "Rooms": [
       {
         "beds": 12,
         "label": "Matratzenlager"
@@ -8158,7 +8158,7 @@
     "Lng": 14.14879,
     "Altitude": 1525,
     "Beds": 19,
-    "Info": [
+    "Rooms": [
       {
         "beds": 1,
         "label": "Matratzenlager"
@@ -8180,7 +8180,7 @@
     "Lng": 16.05171,
     "Altitude": 718,
     "Beds": 56,
-    "Info": [
+    "Rooms": [
       {
         "beds": 42,
         "label": "Dormitory"
@@ -8206,7 +8206,7 @@
     "Lng": 15.914399,
     "Altitude": 1743,
     "Beds": 34,
-    "Info": [
+    "Rooms": [
       {
         "beds": 26,
         "label": "Dormitory"
@@ -8240,7 +8240,7 @@
     "Lng": 8.688937,
     "Altitude": 1739,
     "Beds": 28,
-    "Info": [
+    "Rooms": [
       {
         "beds": 12,
         "label": "6-er Zimmer"
@@ -8274,7 +8274,7 @@
     "Lng": 7.6008,
     "Altitude": 3507,
     "Beds": 34,
-    "Info": [
+    "Rooms": [
       {
         "beds": 34,
         "label": "Massenlager"
@@ -8292,7 +8292,7 @@
     "Lng": 11.603557,
     "Altitude": 1953,
     "Beds": 82,
-    "Info": [
+    "Rooms": [
       {
         "beds": 65,
         "label": "Dormitory"
@@ -8318,7 +8318,7 @@
     "Lng": 10.14565,
     "Altitude": 1250,
     "Beds": 45,
-    "Info": [
+    "Rooms": [
       {
         "beds": 45,
         "label": "Shared bedroom"
@@ -8336,7 +8336,7 @@
     "Lng": 10.14563,
     "Altitude": 1250,
     "Beds": 16,
-    "Info": [
+    "Rooms": [
       {
         "beds": 16,
         "label": "Shared bedroom"
@@ -8354,7 +8354,7 @@
     "Lng": 10.6731,
     "Altitude": 2610,
     "Beds": 56,
-    "Info": [
+    "Rooms": [
       {
         "beds": 29,
         "label": "large rooms"
@@ -8376,7 +8376,7 @@
     "Lng": 9.96057,
     "Altitude": 2542,
     "Beds": 58,
-    "Info": [
+    "Rooms": [
       {
         "beds": 58,
         "label": "Mehrbettzimmer"
@@ -8398,7 +8398,7 @@
     "Lng": 8.03018,
     "Altitude": 3025,
     "Beds": 6,
-    "Info": [
+    "Rooms": [
       {
         "beds": 6,
         "label": "Massenlager"
@@ -8420,7 +8420,7 @@
     "Lng": 7.86251,
     "Altitude": 2433,
     "Beds": 19,
-    "Info": [
+    "Rooms": [
       {
         "beds": 19,
         "label": "Massenlager"
@@ -8438,7 +8438,7 @@
     "Lng": 8.78584,
     "Altitude": 1997,
     "Beds": 34,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Camera da 10 posti"
@@ -8464,7 +8464,7 @@
     "Lng": 12.80096,
     "Altitude": 1560,
     "Beds": 89,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Matratzenlager"
@@ -8494,7 +8494,7 @@
     "Lng": 7.574448,
     "Altitude": 2502,
     "Beds": 84,
-    "Info": [
+    "Rooms": [
       {
         "beds": 64,
         "label": "Massenlager"
@@ -8516,7 +8516,7 @@
     "Lng": 8.033,
     "Altitude": 2788,
     "Beds": 8,
-    "Info": [
+    "Rooms": [
       {
         "beds": 8,
         "label": "Massenlager"
@@ -8534,7 +8534,7 @@
     "Lng": 10.25948,
     "Altitude": 2364,
     "Beds": 120,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Matratzenlager"
@@ -8556,7 +8556,7 @@
     "Lng": 14.1887455,
     "Altitude": 144,
     "Beds": 30,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Dormitory"
@@ -8574,7 +8574,7 @@
     "Lng": 12.406326,
     "Altitude": 2447,
     "Beds": 63,
-    "Info": [
+    "Rooms": [
       {
         "beds": 31,
         "label": "Dormitory"
@@ -8596,7 +8596,7 @@
     "Lng": 9.1,
     "Altitude": 1443,
     "Beds": 17,
-    "Info": [
+    "Rooms": [
       {
         "beds": 17,
         "label": "Massenlager"
@@ -8614,7 +8614,7 @@
     "Lng": 12.27,
     "Altitude": 1432,
     "Beds": 58,
-    "Info": [
+    "Rooms": [
       {
         "beds": 28,
         "label": "Dormitory"
@@ -8640,7 +8640,7 @@
     "Lng": 15.039,
     "Altitude": 1523,
     "Beds": 38,
-    "Info": [
+    "Rooms": [
       {
         "beds": 28,
         "label": "Dormitory"
@@ -8666,7 +8666,7 @@
     "Lng": 8.242922,
     "Altitude": 2113,
     "Beds": 35,
-    "Info": [
+    "Rooms": [
       {
         "beds": 35,
         "label": "Massenlager"
@@ -8688,7 +8688,7 @@
     "Lng": 7.378778,
     "Altitude": 2662,
     "Beds": 59,
-    "Info": [
+    "Rooms": [
       {
         "beds": 59,
         "label": "Massenlager"
@@ -8706,7 +8706,7 @@
     "Lng": 8.135312,
     "Altitude": 1750,
     "Beds": 32,
-    "Info": [
+    "Rooms": [
       {
         "beds": 32,
         "label": "Massenlager"
@@ -8724,7 +8724,7 @@
     "Lng": 12.260491,
     "Altitude": 800,
     "Beds": 53,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Dormitory"
@@ -8754,7 +8754,7 @@
     "Lng": 10.886944,
     "Altitude": 2501,
     "Beds": 90,
-    "Info": [
+    "Rooms": [
       {
         "beds": 70,
         "label": "Dormitory"
@@ -8776,7 +8776,7 @@
     "Lng": 8.63499,
     "Altitude": 1843,
     "Beds": 20,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Zimmern"
@@ -8802,7 +8802,7 @@
     "Lng": 8.471349,
     "Altitude": 1906,
     "Beds": 4,
-    "Info": [
+    "Rooms": [
       {
         "beds": 0,
         "label": "Wohnheim"
@@ -8824,7 +8824,7 @@
     "Lng": 8.76752,
     "Altitude": 1718,
     "Beds": 18,
-    "Info": [
+    "Rooms": [
       {
         "beds": 18,
         "label": "Zimmern"
@@ -8850,7 +8850,7 @@
     "Lng": 8.471349,
     "Altitude": 2063,
     "Beds": 16,
-    "Info": [
+    "Rooms": [
       {
         "beds": 16,
         "label": "Wohnheim"
@@ -8872,7 +8872,7 @@
     "Lng": 8.679129,
     "Altitude": 1838,
     "Beds": 24,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Wohnheim"
@@ -8894,7 +8894,7 @@
     "Lng": 8.471349,
     "Altitude": 1289,
     "Beds": 28,
-    "Info": [
+    "Rooms": [
       {
         "beds": 6,
         "label": "6-er Zimmer"
@@ -8920,7 +8920,7 @@
     "Lng": 8.54173,
     "Altitude": 1996,
     "Beds": 12,
-    "Info": [
+    "Rooms": [
       {
         "beds": 12,
         "label": "Wohnheim"
@@ -8942,7 +8942,7 @@
     "Lng": 8.48671,
     "Altitude": 1410,
     "Beds": 14,
-    "Info": [
+    "Rooms": [
       {
         "beds": 9,
         "label": "Zimmern"
@@ -8964,7 +8964,7 @@
     "Lng": 12.42753,
     "Altitude": 2750,
     "Beds": 44,
-    "Info": [
+    "Rooms": [
       {
         "beds": 28,
         "label": "Dormitory"
@@ -8990,7 +8990,7 @@
     "Lng": 9.27556,
     "Altitude": 2158,
     "Beds": 48,
-    "Info": [
+    "Rooms": [
       {
         "beds": 48,
         "label": "Massenlager"
@@ -9012,7 +9012,7 @@
     "Lng": 9.880131,
     "Altitude": 2583,
     "Beds": 90,
-    "Info": [
+    "Rooms": [
       {
         "beds": 75,
         "label": "Massenlager"
@@ -9038,7 +9038,7 @@
     "Lng": 13.157,
     "Altitude": 1585,
     "Beds": 18,
-    "Info": [
+    "Rooms": [
       {
         "beds": 11,
         "label": "Dormitory"
@@ -9076,7 +9076,7 @@
     "Lng": 12.5362,
     "Altitude": 2350,
     "Beds": 14,
-    "Info": [
+    "Rooms": [
       {
         "beds": 14,
         "label": "Dormitory"
@@ -9098,7 +9098,7 @@
     "Lng": 15.180726,
     "Altitude": 1654,
     "Beds": 46,
-    "Info": [
+    "Rooms": [
       {
         "beds": 11,
         "label": "Dormitory"
@@ -9120,7 +9120,7 @@
     "Lng": 13.58392,
     "Altitude": 2196,
     "Beds": 89,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Dormitory"
@@ -9146,7 +9146,7 @@
     "Lng": 14.611917,
     "Altitude": 1121,
     "Beds": 35,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Dormitory"
@@ -9168,7 +9168,7 @@
     "Lng": 14.432754,
     "Altitude": 1725,
     "Beds": 51,
-    "Info": [
+    "Rooms": [
       {
         "beds": 28,
         "label": "Dormitory"
@@ -9198,7 +9198,7 @@
     "Lng": 7.679355,
     "Altitude": 3256,
     "Beds": 96,
-    "Info": [
+    "Rooms": [
       {
         "beds": 96,
         "label": "Massenlager"
@@ -9220,7 +9220,7 @@
     "Lng": 11.027146,
     "Altitude": 1472,
     "Beds": 32,
-    "Info": [
+    "Rooms": [
       {
         "beds": 18,
         "label": "Dormitory"
@@ -9246,7 +9246,7 @@
     "Lng": 8.798549,
     "Altitude": 1817,
     "Beds": 32,
-    "Info": [
+    "Rooms": [
       {
         "beds": 32,
         "label": "Massenlager"
@@ -9264,7 +9264,7 @@
     "Lng": 10.587251,
     "Altitude": 2061,
     "Beds": 84,
-    "Info": [
+    "Rooms": [
       {
         "beds": 84,
         "label": "Dormitory"
@@ -9282,7 +9282,7 @@
     "Lng": 7.56,
     "Altitude": 2755,
     "Beds": 28,
-    "Info": [
+    "Rooms": [
       {
         "beds": 28,
         "label": "Massenlager"
@@ -9304,7 +9304,7 @@
     "Lng": 10.189105,
     "Altitude": 1688,
     "Beds": 80,
-    "Info": [
+    "Rooms": [
       {
         "beds": 46,
         "label": "Dormitory"
@@ -9326,7 +9326,7 @@
     "Lng": 14.37131,
     "Altitude": 1305,
     "Beds": 23,
-    "Info": [
+    "Rooms": [
       {
         "beds": 21,
         "label": "Matratzenlager"
@@ -9348,7 +9348,7 @@
     "Lng": 13.81,
     "Altitude": 1533,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 22,
         "label": "dormitories"
@@ -9374,7 +9374,7 @@
     "Lng": 9.02935,
     "Altitude": 2714,
     "Beds": 14,
-    "Info": [
+    "Rooms": [
       {
         "beds": 14,
         "label": "Massenlager"
@@ -9392,7 +9392,7 @@
     "Lng": 11.9253,
     "Altitude": 1567,
     "Beds": 46,
-    "Info": [
+    "Rooms": [
       {
         "beds": 25,
         "label": "Dormitory"
@@ -9414,7 +9414,7 @@
     "Lng": 14.049,
     "Altitude": 1740,
     "Beds": 83,
-    "Info": [
+    "Rooms": [
       {
         "beds": 38,
         "label": "Dormitory"
@@ -9436,7 +9436,7 @@
     "Lng": 13.966548,
     "Altitude": 1638,
     "Beds": 62,
-    "Info": [
+    "Rooms": [
       {
         "beds": 58,
         "label": "Dormitory"
@@ -9458,7 +9458,7 @@
     "Lng": 8.51456,
     "Altitude": 1689,
     "Beds": 30,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Wohnheim"
@@ -9476,7 +9476,7 @@
     "Lng": 7.679483,
     "Altitude": 2786,
     "Beds": 32,
-    "Info": [
+    "Rooms": [
       {
         "beds": 32,
         "label": "Massenlager"
@@ -9498,7 +9498,7 @@
     "Lng": 9.380734,
     "Altitude": 1998,
     "Beds": 36,
-    "Info": [
+    "Rooms": [
       {
         "beds": 34,
         "label": "Massenlager"
@@ -9520,7 +9520,7 @@
     "Lng": 7.93364,
     "Altitude": 2663,
     "Beds": 10,
-    "Info": [
+    "Rooms": [
       {
         "beds": 10,
         "label": "Massenlager"
@@ -9542,7 +9542,7 @@
     "Lng": 8.487152,
     "Altitude": 2108,
     "Beds": 35,
-    "Info": [
+    "Rooms": [
       {
         "beds": 25,
         "label": "Wohnheim"
@@ -9564,7 +9564,7 @@
     "Lng": 8.42819,
     "Altitude": 2157,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 40,
         "label": "Zimmern"
@@ -9582,7 +9582,7 @@
     "Lng": 11.1297206,
     "Altitude": 440,
     "Beds": 1,
-    "Info": [
+    "Rooms": [
       {
         "beds": 1,
         "label": "Mehrbettzimmer"
@@ -9608,7 +9608,7 @@
     "Lng": 8.470734,
     "Altitude": 2257,
     "Beds": 67,
-    "Info": [
+    "Rooms": [
       {
         "beds": 67,
         "label": "Mehrbettzimmer"
@@ -9630,7 +9630,7 @@
     "Lng": 7.88101,
     "Altitude": 2598,
     "Beds": 18,
-    "Info": [
+    "Rooms": [
       {
         "beds": 12,
         "label": "Massenlager"
@@ -9652,7 +9652,7 @@
     "Lng": 12.337136,
     "Altitude": 1868,
     "Beds": 17,
-    "Info": [
+    "Rooms": [
       {
         "beds": 15,
         "label": "Dormitory"
@@ -9682,7 +9682,7 @@
     "Lng": 7.699618,
     "Altitude": 2519,
     "Beds": 72,
-    "Info": [
+    "Rooms": [
       {
         "beds": 60,
         "label": "Massenlager"
@@ -9704,7 +9704,7 @@
     "Lng": 8.60702,
     "Altitude": 1525,
     "Beds": 30,
-    "Info": [
+    "Rooms": [
       {
         "beds": 16,
         "label": "Massenlager"
@@ -9734,7 +9734,7 @@
     "Lng": 12.970935,
     "Altitude": 623,
     "Beds": 24,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Matratzenlager"
@@ -9756,7 +9756,7 @@
     "Lng": 12.005885,
     "Altitude": 344,
     "Beds": 1,
-    "Info": [
+    "Rooms": [
       {
         "beds": 1,
         "label": "Dormitory"
@@ -9774,7 +9774,7 @@
     "Lng": 12.260491,
     "Altitude": 800,
     "Beds": 10,
-    "Info": [
+    "Rooms": [
       {
         "beds": 1,
         "label": "Shared bedroom"
@@ -9796,7 +9796,7 @@
     "Lng": 8.704557,
     "Altitude": 1651,
     "Beds": 20,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Wohnheim"
@@ -9818,7 +9818,7 @@
     "Lng": 11.100111,
     "Altitude": 2273,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Dormitory"
@@ -9848,7 +9848,7 @@
     "Lng": 8.483003,
     "Altitude": 1430,
     "Beds": 16,
-    "Info": [
+    "Rooms": [
       {
         "beds": 16,
         "label": "4-er Zimmer"
@@ -9866,7 +9866,7 @@
     "Lng": 12.280359,
     "Altitude": 2586,
     "Beds": 46,
-    "Info": [
+    "Rooms": [
       {
         "beds": 28,
         "label": "Dormitory"
@@ -9892,7 +9892,7 @@
     "Lng": 10.823611,
     "Altitude": 1935,
     "Beds": 52,
-    "Info": [
+    "Rooms": [
       {
         "beds": 46,
         "label": "Dormitory"
@@ -9926,7 +9926,7 @@
     "Lng": 12.035445,
     "Altitude": 701,
     "Beds": 22,
-    "Info": [
+    "Rooms": [
       {
         "beds": 22,
         "label": "Dormitory"
@@ -9944,7 +9944,7 @@
     "Lng": 7.635144,
     "Altitude": 2975,
     "Beds": 8,
-    "Info": [
+    "Rooms": [
       {
         "beds": 8,
         "label": "Massenlager"
@@ -9966,7 +9966,7 @@
     "Lng": 7.991636,
     "Altitude": 3142,
     "Beds": 72,
-    "Info": [
+    "Rooms": [
       {
         "beds": 72,
         "label": "Mehrbettzimmer"
@@ -9984,7 +9984,7 @@
     "Lng": 9.692372,
     "Altitude": 2178,
     "Beds": 16,
-    "Info": [
+    "Rooms": [
       {
         "beds": 16,
         "label": "8-er Zimmer"
@@ -10002,7 +10002,7 @@
     "Lng": 9.63698,
     "Altitude": 2303,
     "Beds": 16,
-    "Info": [
+    "Rooms": [
       {
         "beds": 16,
         "label": "4-er Zimmer"
@@ -10020,7 +10020,7 @@
     "Lng": 9.726563,
     "Altitude": 1504,
     "Beds": 12,
-    "Info": [
+    "Rooms": [
       {
         "beds": 12,
         "label": "6-er Zimmer"
@@ -10038,7 +10038,7 @@
     "Lng": 9.0,
     "Altitude": 1922,
     "Beds": 12,
-    "Info": [
+    "Rooms": [
       {
         "beds": 8,
         "label": "Mehrbettzimmer"
@@ -10064,7 +10064,7 @@
     "Lng": 9.731,
     "Altitude": 1550,
     "Beds": 6,
-    "Info": [
+    "Rooms": [
       {
         "beds": 6,
         "label": "2-er Zimmer"
@@ -10082,7 +10082,7 @@
     "Lng": 13.158782,
     "Altitude": 2467,
     "Beds": 24,
-    "Info": [
+    "Rooms": [
       {
         "beds": 15,
         "label": "Dormitory"
@@ -10104,7 +10104,7 @@
     "Lng": 13.7606,
     "Altitude": 1368,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Dormitory"
@@ -10126,7 +10126,7 @@
     "Lng": 8.222178,
     "Altitude": 2393,
     "Beds": 28,
-    "Info": [
+    "Rooms": [
       {
         "beds": 25,
         "label": "Massenlager"
@@ -10148,7 +10148,7 @@
     "Lng": 8.52369,
     "Altitude": 2400,
     "Beds": 10,
-    "Info": [
+    "Rooms": [
       {
         "beds": 0,
         "label": "Schutzraum/Winterraum"
@@ -10166,7 +10166,7 @@
     "Lng": 10.40679,
     "Altitude": 1380,
     "Beds": 58,
-    "Info": [
+    "Rooms": [
       {
         "beds": 33,
         "label": "Dormitory"
@@ -10200,7 +10200,7 @@
     "Lng": 13.19733,
     "Altitude": 2215,
     "Beds": 37,
-    "Info": [
+    "Rooms": [
       {
         "beds": 32,
         "label": "Dormitory"
@@ -10226,7 +10226,7 @@
     "Lng": 9.034788,
     "Altitude": 1910,
     "Beds": 25,
-    "Info": [
+    "Rooms": [
       {
         "beds": 47,
         "label": "Zimmern"
@@ -10244,7 +10244,7 @@
     "Lng": 7.094961,
     "Altitude": 2064,
     "Beds": 46,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Massenlager"
@@ -10266,7 +10266,7 @@
     "Lng": 8.44665,
     "Altitude": 2647,
     "Beds": 18,
-    "Info": [
+    "Rooms": [
       {
         "beds": 14,
         "label": "Massenlager"
@@ -10288,7 +10288,7 @@
     "Lng": 7.94713,
     "Altitude": 2300,
     "Beds": 14,
-    "Info": [
+    "Rooms": [
       {
         "beds": 14,
         "label": "Massenlager"
@@ -10310,7 +10310,7 @@
     "Lng": 7.06186,
     "Altitude": 2198,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Massenlager"
@@ -10328,7 +10328,7 @@
     "Lng": 11.18,
     "Altitude": 3145,
     "Beds": 74,
-    "Info": [
+    "Rooms": [
       {
         "beds": 74,
         "label": "large rooms"
@@ -10346,7 +10346,7 @@
     "Lng": 9.864445,
     "Altitude": 1235,
     "Beds": 26,
-    "Info": [
+    "Rooms": [
       {
         "beds": 26,
         "label": "Shared bedroom"
@@ -10364,7 +10364,7 @@
     "Lng": 10.933056,
     "Altitude": 2150,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 28,
         "label": "Dormitory"
@@ -10386,7 +10386,7 @@
     "Lng": 7.132362,
     "Altitude": 1636,
     "Beds": 36,
-    "Info": [
+    "Rooms": [
       {
         "beds": 36,
         "label": "Massenlager"
@@ -10404,7 +10404,7 @@
     "Lng": 7.1621433,
     "Altitude": 1868,
     "Beds": 37,
-    "Info": [
+    "Rooms": [
       {
         "beds": 37,
         "label": "Massenlager"
@@ -10422,7 +10422,7 @@
     "Lng": 7.01209,
     "Altitude": 1352,
     "Beds": 20,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Massenlager"
@@ -10440,7 +10440,7 @@
     "Lng": 9.91,
     "Altitude": 760,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 32,
         "label": "Matratzenlager"
@@ -10466,7 +10466,7 @@
     "Lng": 13.648433,
     "Altitude": 1986,
     "Beds": 45,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Dormitory"
@@ -10492,7 +10492,7 @@
     "Lng": 12.69,
     "Altitude": 2241,
     "Beds": 55,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Dormitory"
@@ -10518,7 +10518,7 @@
     "Lng": 7.689617,
     "Altitude": 1956,
     "Beds": 20,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Massenlager"
@@ -10536,7 +10536,7 @@
     "Lng": 9.03036,
     "Altitude": 2066,
     "Beds": 34,
-    "Info": [
+    "Rooms": [
       {
         "beds": 34,
         "label": "Wohnheim"
@@ -10558,7 +10558,7 @@
     "Lng": 9.081973,
     "Altitude": 1863,
     "Beds": 8,
-    "Info": [
+    "Rooms": [
       {
         "beds": 8,
         "label": "Wohnheim"
@@ -10580,7 +10580,7 @@
     "Lng": 9.023686,
     "Altitude": 2107,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Zimmern"
@@ -10602,7 +10602,7 @@
     "Lng": 9.0275,
     "Altitude": 2393,
     "Beds": 52,
-    "Info": [
+    "Rooms": [
       {
         "beds": 52,
         "label": "Wohnheim"
@@ -10624,7 +10624,7 @@
     "Lng": 9.005902,
     "Altitude": 2173,
     "Beds": 16,
-    "Info": [
+    "Rooms": [
       {
         "beds": 0,
         "label": "Unbewarterer Betrieb"
@@ -10642,7 +10642,7 @@
     "Lng": 8.471349,
     "Altitude": 1500,
     "Beds": 150,
-    "Info": [
+    "Rooms": [
       {
         "beds": 0,
         "label": "Doppelzimmer"
@@ -10676,7 +10676,7 @@
     "Lng": 9.106704,
     "Altitude": 1500,
     "Beds": 26,
-    "Info": [
+    "Rooms": [
       {
         "beds": 18,
         "label": "Massenlager"
@@ -10698,7 +10698,7 @@
     "Lng": 11.888306,
     "Altitude": 1528,
     "Beds": 56,
-    "Info": [
+    "Rooms": [
       {
         "beds": 0,
         "label": "Dormitory"
@@ -10724,7 +10724,7 @@
     "Lng": 7.21,
     "Altitude": 1480,
     "Beds": 38,
-    "Info": [
+    "Rooms": [
       {
         "beds": 34,
         "label": "Massenlager"
@@ -10746,7 +10746,7 @@
     "Lng": 9.019984,
     "Altitude": 2130,
     "Beds": 6,
-    "Info": [
+    "Rooms": [
       {
         "beds": 6,
         "label": "Wohnheim"
@@ -10768,7 +10768,7 @@
     "Lng": 9.036978,
     "Altitude": 2023,
     "Beds": 4,
-    "Info": [
+    "Rooms": [
       {
         "beds": 4,
         "label": "Wohnheim"
@@ -10790,7 +10790,7 @@
     "Lng": 9.00201,
     "Altitude": 1517,
     "Beds": 5,
-    "Info": [
+    "Rooms": [
       {
         "beds": 5,
         "label": "Wohnheim"
@@ -10812,7 +10812,7 @@
     "Lng": 14.366294,
     "Altitude": 1036,
     "Beds": 30,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Dormitory"
@@ -10834,7 +10834,7 @@
     "Lng": 14.182995,
     "Altitude": 1664,
     "Beds": 39,
-    "Info": [
+    "Rooms": [
       {
         "beds": 25,
         "label": "Dormitory"
@@ -10864,7 +10864,7 @@
     "Lng": 9.080077,
     "Altitude": 2720,
     "Beds": 10,
-    "Info": [
+    "Rooms": [
       {
         "beds": 10,
         "label": "Wohnheim"
@@ -10886,7 +10886,7 @@
     "Lng": 9.91,
     "Altitude": 760,
     "Beds": 8,
-    "Info": [
+    "Rooms": [
       {
         "beds": 8,
         "label": "Mehrbettzimmer"
@@ -10908,7 +10908,7 @@
     "Lng": 8.1522,
     "Altitude": 2731,
     "Beds": 17,
-    "Info": [
+    "Rooms": [
       {
         "beds": 14,
         "label": "Massenlager"
@@ -10930,7 +10930,7 @@
     "Lng": 11.12331,
     "Altitude": 5060,
     "Beds": 25,
-    "Info": [
+    "Rooms": [
       {
         "beds": 25,
         "label": "Beds"
@@ -10948,7 +10948,7 @@
     "Lng": 11.823281,
     "Altitude": 2871,
     "Beds": 76,
-    "Info": [
+    "Rooms": [
       {
         "beds": 76,
         "label": "Beds"
@@ -10966,7 +10966,7 @@
     "Lng": 11.740311,
     "Altitude": 2046,
     "Beds": 12,
-    "Info": [
+    "Rooms": [
       {
         "beds": 12,
         "label": "Beds"
@@ -10988,7 +10988,7 @@
     "Lng": 12.744579,
     "Altitude": 564,
     "Beds": 15,
-    "Info": [
+    "Rooms": [
       {
         "beds": 9,
         "label": "Shared bedroom"
@@ -11010,7 +11010,7 @@
     "Lng": 9.997,
     "Altitude": 851,
     "Beds": 46,
-    "Info": [
+    "Rooms": [
       {
         "beds": 46,
         "label": "Shared bedroom"
@@ -11028,7 +11028,7 @@
     "Lng": 10.63496,
     "Altitude": 2123,
     "Beds": 53,
-    "Info": [
+    "Rooms": [
       {
         "beds": 46,
         "label": "Dormitory"
@@ -11054,7 +11054,7 @@
     "Lng": 10.992427,
     "Altitude": 1564,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 8,
         "label": "Dormitory"
@@ -11076,7 +11076,7 @@
     "Lng": 8.4267161,
     "Altitude": 2708,
     "Beds": 35,
-    "Info": [
+    "Rooms": [
       {
         "beds": 35,
         "label": "Massenlager"
@@ -11094,7 +11094,7 @@
     "Lng": 9.1882586,
     "Altitude": 2002,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 40,
         "label": "Massenlager"
@@ -11116,7 +11116,7 @@
     "Lng": 10.598373,
     "Altitude": 1150,
     "Beds": 64,
-    "Info": [
+    "Rooms": [
       {
         "beds": 40,
         "label": "Dormitory"
@@ -11142,7 +11142,7 @@
     "Lng": 13.11603,
     "Altitude": 1630,
     "Beds": 38,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Dormitory"
@@ -11172,7 +11172,7 @@
     "Lng": 11.83902,
     "Altitude": 2578,
     "Beds": 60,
-    "Info": [
+    "Rooms": [
       {
         "beds": 6,
         "label": "Multi-bed room"
@@ -11198,7 +11198,7 @@
     "Lng": 11.664272,
     "Altitude": 2000,
     "Beds": 8,
-    "Info": [
+    "Rooms": [
       {
         "beds": 3,
         "label": "Camera a più letti"
@@ -11216,7 +11216,7 @@
     "Lng": 11.630136,
     "Altitude": 2282,
     "Beds": 49,
-    "Info": [
+    "Rooms": [
       {
         "beds": 10,
         "label": "Beds"
@@ -11234,7 +11234,7 @@
     "Lng": 10.890379,
     "Altitude": 2060,
     "Beds": 35,
-    "Info": [
+    "Rooms": [
       {
         "beds": 15,
         "label": "Beds"
@@ -11252,7 +11252,7 @@
     "Lng": 11.604395,
     "Altitude": 2480,
     "Beds": 57,
-    "Info": [
+    "Rooms": [
       {
         "beds": 57,
         "label": "Beds"
@@ -11270,7 +11270,7 @@
     "Lng": 11.392361,
     "Altitude": 2014,
     "Beds": 15,
-    "Info": [
+    "Rooms": [
       {
         "beds": 15,
         "label": "Camerata"
@@ -11288,7 +11288,7 @@
     "Lng": 11.195494,
     "Altitude": 1569,
     "Beds": 24,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Posto letto"
@@ -11306,7 +11306,7 @@
     "Lng": 11.144719,
     "Altitude": 1802,
     "Beds": 48,
-    "Info": [
+    "Rooms": [
       {
         "beds": 48,
         "label": "Beds"
@@ -11324,7 +11324,7 @@
     "Lng": 10.768671,
     "Altitude": 1601,
     "Beds": 20,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Beds"
@@ -11342,7 +11342,7 @@
     "Lng": 10.952679,
     "Altitude": 2022,
     "Beds": 15,
-    "Info": [
+    "Rooms": [
       {
         "beds": 31,
         "label": "Multi-bed room"
@@ -11360,7 +11360,7 @@
     "Lng": 10.889412,
     "Altitude": 2261,
     "Beds": 25,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Posto letto"
@@ -11378,7 +11378,7 @@
     "Lng": 10.898766,
     "Altitude": 2500,
     "Beds": 10,
-    "Info": [
+    "Rooms": [
       {
         "beds": 0,
         "label": "Posto letto"
@@ -11396,7 +11396,7 @@
     "Lng": 10.869477,
     "Altitude": 2410,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Beds"
@@ -11414,7 +11414,7 @@
     "Lng": 10.847428,
     "Altitude": 2489,
     "Beds": 20,
-    "Info": [
+    "Rooms": [
       {
         "beds": 10,
         "label": "Posto letto"
@@ -11432,7 +11432,7 @@
     "Lng": 10.655236,
     "Altitude": 2298,
     "Beds": 82,
-    "Info": [
+    "Rooms": [
       {
         "beds": 40,
         "label": "Beds"
@@ -11450,7 +11450,7 @@
     "Lng": 10.710788,
     "Altitude": 2371,
     "Beds": 42,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Beds"
@@ -11468,7 +11468,7 @@
     "Lng": 10.571175,
     "Altitude": 2449,
     "Beds": 83,
-    "Info": [
+    "Rooms": [
       {
         "beds": 63,
         "label": "Multi-bed room"
@@ -11486,7 +11486,7 @@
     "Lng": 10.626103,
     "Altitude": 2450,
     "Beds": 74,
-    "Info": [
+    "Rooms": [
       {
         "beds": 2,
         "label": "Camera doppia"
@@ -11512,7 +11512,7 @@
     "Lng": 10.562531,
     "Altitude": 1910,
     "Beds": 30,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Beds"
@@ -11530,7 +11530,7 @@
     "Lng": 10.63578,
     "Altitude": 3531,
     "Beds": 57,
-    "Info": [
+    "Rooms": [
       {
         "beds": 57,
         "label": "Beds"
@@ -11548,7 +11548,7 @@
     "Lng": 10.665993,
     "Altitude": 2607,
     "Beds": 80,
-    "Info": [
+    "Rooms": [
       {
         "beds": 4,
         "label": "Posto letto"
@@ -11566,7 +11566,7 @@
     "Lng": 10.751911,
     "Altitude": 2436,
     "Beds": 65,
-    "Info": [
+    "Rooms": [
       {
         "beds": 20,
         "label": "Beds"
@@ -11584,7 +11584,7 @@
     "Lng": 10.924548,
     "Altitude": 1590,
     "Beds": 16,
-    "Info": [
+    "Rooms": [
       {
         "beds": 16,
         "label": "Posto letto"
@@ -11602,7 +11602,7 @@
     "Lng": 11.181911,
     "Altitude": 2191,
     "Beds": 102,
-    "Info": [
+    "Rooms": [
       {
         "beds": 56,
         "label": "Dormitory"
@@ -11632,7 +11632,7 @@
     "Lng": 13.960374,
     "Altitude": 1527,
     "Beds": 32,
-    "Info": [
+    "Rooms": [
       {
         "beds": 32,
         "label": "Dormitory"
@@ -11650,7 +11650,7 @@
     "Lng": 12.76045,
     "Altitude": 2346,
     "Beds": 55,
-    "Info": [
+    "Rooms": [
       {
         "beds": 39,
         "label": "Dormitory"
@@ -11684,7 +11684,7 @@
     "Lng": 9.689749,
     "Altitude": 2679,
     "Beds": 87,
-    "Info": [
+    "Rooms": [
       {
         "beds": 52,
         "label": "Dormitory"
@@ -11710,7 +11710,7 @@
     "Lng": 9.693361,
     "Altitude": 1889,
     "Beds": 44,
-    "Info": [
+    "Rooms": [
       {
         "beds": 14,
         "label": "Dormitory"
@@ -11740,7 +11740,7 @@
     "Lng": 7.49946,
     "Altitude": 2049,
     "Beds": 12,
-    "Info": [
+    "Rooms": [
       {
         "beds": 12,
         "label": "Massenlager"
@@ -11758,7 +11758,7 @@
     "Lng": 8.66209,
     "Altitude": 1291,
     "Beds": 27,
-    "Info": [
+    "Rooms": [
       {
         "beds": 14,
         "label": "Wohnheim"
@@ -11780,7 +11780,7 @@
     "Lng": 13.4119,
     "Altitude": 1739,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 34,
         "label": "Matratzenlager"
@@ -11806,7 +11806,7 @@
     "Lng": 8.060145,
     "Altitude": 1775,
     "Beds": 28,
-    "Info": [
+    "Rooms": [
       {
         "beds": 28,
         "label": "Mehrbettzimmer"
@@ -11824,7 +11824,7 @@
     "Lng": 7.9744,
     "Altitude": 2791,
     "Beds": 24,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Massenlager"
@@ -11846,7 +11846,7 @@
     "Lng": 12.8501,
     "Altitude": 1750,
     "Beds": 20,
-    "Info": [
+    "Rooms": [
       {
         "beds": 14,
         "label": "Dormitory"
@@ -11868,7 +11868,7 @@
     "Lng": 9.974722,
     "Altitude": 2307,
     "Beds": 64,
-    "Info": [
+    "Rooms": [
       {
         "beds": 42,
         "label": "Matratzenlager"
@@ -11894,7 +11894,7 @@
     "Lng": 7.386067,
     "Altitude": 2458,
     "Beds": 36,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Massenlager"
@@ -11920,7 +11920,7 @@
     "Lng": 13.693052,
     "Altitude": 1872,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 40,
         "label": "Dormitory"
@@ -11938,7 +11938,7 @@
     "Lng": 7.743592,
     "Altitude": 2933,
     "Beds": 30,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Massenlager"
@@ -11960,7 +11960,7 @@
     "Lng": 8.83057,
     "Altitude": 1724,
     "Beds": 12,
-    "Info": [
+    "Rooms": [
       {
         "beds": 4,
         "label": "4-er Zimmer"
@@ -11982,7 +11982,7 @@
     "Lng": 11.168758,
     "Altitude": 2147,
     "Beds": 130,
-    "Info": [
+    "Rooms": [
       {
         "beds": 55,
         "label": "Dormitory"
@@ -12012,7 +12012,7 @@
     "Lng": 10.61,
     "Altitude": 1713,
     "Beds": 26,
-    "Info": [
+    "Rooms": [
       {
         "beds": 4,
         "label": "Matratzenlager"
@@ -12034,7 +12034,7 @@
     "Lng": 10.456899,
     "Altitude": 2007,
     "Beds": 29,
-    "Info": [
+    "Rooms": [
       {
         "beds": 29,
         "label": "Matratzenlager"
@@ -12056,7 +12056,7 @@
     "Lng": 8.001995,
     "Altitude": 1616,
     "Beds": 49,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Massenlager"
@@ -12086,7 +12086,7 @@
     "Lng": 7.0855,
     "Altitude": 1168,
     "Beds": 19,
-    "Info": [
+    "Rooms": [
       {
         "beds": 4,
         "label": "Chambre à 4 places"
@@ -12116,7 +12116,7 @@
     "Lng": 7.52772,
     "Altitude": 3311,
     "Beds": 80,
-    "Info": [
+    "Rooms": [
       {
         "beds": 0,
         "label": "Dortoir"
@@ -12138,7 +12138,7 @@
     "Lng": 9.25065,
     "Altitude": 2087,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Mehrbettzimmer"
@@ -12160,7 +12160,7 @@
     "Lng": 12.79967,
     "Altitude": 2508,
     "Beds": 46,
-    "Info": [
+    "Rooms": [
       {
         "beds": 10,
         "label": "Dormitory"
@@ -12190,7 +12190,7 @@
     "Lng": 12.746468,
     "Altitude": 1977,
     "Beds": 67,
-    "Info": [
+    "Rooms": [
       {
         "beds": 15,
         "label": "Dormitory"
@@ -12220,7 +12220,7 @@
     "Lng": 11.885647,
     "Altitude": 3026,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 41,
         "label": "shared bedrooms"
@@ -12246,7 +12246,7 @@
     "Lng": 10.355494,
     "Altitude": 2004,
     "Beds": 45,
-    "Info": [
+    "Rooms": [
       {
         "beds": 45,
         "label": "Dormitory"
@@ -12268,7 +12268,7 @@
     "Lng": 10.543438,
     "Altitude": 3029,
     "Beds": 62,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "large rooms"
@@ -12294,7 +12294,7 @@
     "Lng": 8.6495,
     "Altitude": 1475,
     "Beds": 34,
-    "Info": [
+    "Rooms": [
       {
         "beds": 26,
         "label": "Mehrbettzimmer"
@@ -12320,7 +12320,7 @@
     "Lng": 9.0419,
     "Altitude": 2089,
     "Beds": 30,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Massenlager"
@@ -12342,7 +12342,7 @@
     "Lng": 7.38415,
     "Altitude": 2503,
     "Beds": 49,
-    "Info": [
+    "Rooms": [
       {
         "beds": 49,
         "label": "Massenlager"
@@ -12364,7 +12364,7 @@
     "Lng": 13.378154,
     "Altitude": 1750,
     "Beds": 42,
-    "Info": [
+    "Rooms": [
       {
         "beds": 35,
         "label": "Dormitory"
@@ -12394,7 +12394,7 @@
     "Lng": 11.139388,
     "Altitude": 2308,
     "Beds": 135,
-    "Info": [
+    "Rooms": [
       {
         "beds": 76,
         "label": "Dormitory"
@@ -12428,7 +12428,7 @@
     "Lng": 11.279444,
     "Altitude": 2237,
     "Beds": 59,
-    "Info": [
+    "Rooms": [
       {
         "beds": 32,
         "label": "Matratzenlager"
@@ -12450,7 +12450,7 @@
     "Lng": 8.814237,
     "Altitude": 2649,
     "Beds": 50,
-    "Info": [
+    "Rooms": [
       {
         "beds": 50,
         "label": "Massenlager"
@@ -12472,7 +12472,7 @@
     "Lng": 12.957,
     "Altitude": 3106,
     "Beds": 63,
-    "Info": [
+    "Rooms": [
       {
         "beds": 40,
         "label": "Matratzenlager"
@@ -12494,7 +12494,7 @@
     "Lng": 7.817705,
     "Altitude": 2937,
     "Beds": 75,
-    "Info": [
+    "Rooms": [
       {
         "beds": 75,
         "label": "Mehrbettzimmer"
@@ -12516,7 +12516,7 @@
     "Lng": 8.661362,
     "Altitude": 1973,
     "Beds": 20,
-    "Info": [
+    "Rooms": [
       {
         "beds": 0,
         "label": "Massenlager"
@@ -12538,7 +12538,7 @@
     "Lng": 11.14778,
     "Altitude": 2710,
     "Beds": 51,
-    "Info": [
+    "Rooms": [
       {
         "beds": 18,
         "label": "Dormitory"
@@ -12576,7 +12576,7 @@
     "Lng": 7.145079,
     "Altitude": 2556,
     "Beds": 15,
-    "Info": [
+    "Rooms": [
       {
         "beds": 15,
         "label": "Dortoir"
@@ -12598,7 +12598,7 @@
     "Lng": 10.255029,
     "Altitude": 2091,
     "Beds": 200,
-    "Info": [
+    "Rooms": [
       {
         "beds": 180,
         "label": "Matratzenlager"
@@ -12620,7 +12620,7 @@
     "Lng": 8.46355,
     "Altitude": 2543,
     "Beds": 60,
-    "Info": [
+    "Rooms": [
       {
         "beds": 46,
         "label": "Massenlager"
@@ -12650,7 +12650,7 @@
     "Lng": 13.267216,
     "Altitude": 2281,
     "Beds": 59,
-    "Info": [
+    "Rooms": [
       {
         "beds": 35,
         "label": "Dormitory"
@@ -12680,7 +12680,7 @@
     "Lng": 11.288141,
     "Altitude": 1805,
     "Beds": 85,
-    "Info": [
+    "Rooms": [
       {
         "beds": 45,
         "label": "Matratzenlager"
@@ -12710,7 +12710,7 @@
     "Lng": 13.09,
     "Altitude": 2446,
     "Beds": 33,
-    "Info": [
+    "Rooms": [
       {
         "beds": 21,
         "label": "Matratzenlager"
@@ -12744,7 +12744,7 @@
     "Lng": 8.601277,
     "Altitude": 2208,
     "Beds": 60,
-    "Info": [
+    "Rooms": [
       {
         "beds": 54,
         "label": "Massenlager"
@@ -12766,7 +12766,7 @@
     "Lng": 13.833801,
     "Altitude": 1666,
     "Beds": 39,
-    "Info": [
+    "Rooms": [
       {
         "beds": 27,
         "label": "Dormitory"
@@ -12788,7 +12788,7 @@
     "Lng": 11.64,
     "Altitude": 2019,
     "Beds": 76,
-    "Info": [
+    "Rooms": [
       {
         "beds": 44,
         "label": "Dormitory"
@@ -12814,7 +12814,7 @@
     "Lng": 10.84722,
     "Altitude": 2550,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 30,
         "label": "Matratzenlager"
@@ -12844,7 +12844,7 @@
     "Lng": 9.613255,
     "Altitude": 2108,
     "Beds": 72,
-    "Info": [
+    "Rooms": [
       {
         "beds": 58,
         "label": "Massenlager"
@@ -12870,7 +12870,7 @@
     "Lng": 12.65,
     "Altitude": 1966,
     "Beds": 42,
-    "Info": [
+    "Rooms": [
       {
         "beds": 24,
         "label": "Dormitory"
@@ -12892,7 +12892,7 @@
     "Lng": 11.318772,
     "Altitude": 1630,
     "Beds": 41,
-    "Info": [
+    "Rooms": [
       {
         "beds": 16,
         "label": "Dormitory"
@@ -12914,7 +12914,7 @@
     "Lng": 7.379731,
     "Altitude": 2575,
     "Beds": 22,
-    "Info": [
+    "Rooms": [
       {
         "beds": 22,
         "label": "Dortoir"
@@ -12936,7 +12936,7 @@
     "Lng": 10.3987423,
     "Altitude": 2131,
     "Beds": 57,
-    "Info": [
+    "Rooms": [
       {
         "beds": 53,
         "label": "Dormitory"
@@ -12962,7 +12962,7 @@
     "Lng": 9.638081,
     "Altitude": 1680,
     "Beds": 14,
-    "Info": [
+    "Rooms": [
       {
         "beds": 14,
         "label": "Mehrbettzimmer"
@@ -12984,7 +12984,7 @@
     "Lng": 9.551532,
     "Altitude": 1501,
     "Beds": 25,
-    "Info": [
+    "Rooms": [
       {
         "beds": 25,
         "label": "Massenlager"
@@ -13006,7 +13006,7 @@
     "Lng": 8.719669,
     "Altitude": 1987,
     "Beds": 74,
-    "Info": [
+    "Rooms": [
       {
         "beds": 74,
         "label": "Wohnheim"
@@ -13028,7 +13028,7 @@
     "Lng": 8.4641234,
     "Altitude": 1753,
     "Beds": 45,
-    "Info": [
+    "Rooms": [
       {
         "beds": 45,
         "label": "Mehrbettzimmer"
@@ -13046,7 +13046,7 @@
     "Lng": 11.284193,
     "Altitude": 2423,
     "Beds": 40,
-    "Info": [
+    "Rooms": [
       {
         "beds": 16,
         "label": "large rooms"
@@ -13068,7 +13068,7 @@
     "Lng": 8.845722,
     "Altitude": 2272,
     "Beds": 12,
-    "Info": [
+    "Rooms": [
       {
         "beds": 12,
         "label": "Dormitorio"
@@ -13090,7 +13090,7 @@
     "Lng": 8.5619,
     "Altitude": 1764,
     "Beds": 19,
-    "Info": [
+    "Rooms": [
       {
         "beds": 19,
         "label": "Wohnheim"
@@ -13112,7 +13112,7 @@
     "Lng": 8.826148,
     "Altitude": 1581,
     "Beds": 36,
-    "Info": [
+    "Rooms": [
       {
         "beds": 32,
         "label": "Massenlager"
@@ -13134,7 +13134,7 @@
     "Lng": 11.224404,
     "Altitude": 1059,
     "Beds": 14,
-    "Info": [
+    "Rooms": [
       {
         "beds": 14,
         "label": "Beds"
@@ -13152,7 +13152,7 @@
     "Lng": 8.41,
     "Altitude": 2004,
     "Beds": 8,
-    "Info": [
+    "Rooms": [
       {
         "beds": 0,
         "label": "Doppelzimmer"
@@ -13174,7 +13174,7 @@
     "Lng": 10.548333,
     "Altitude": 1910,
     "Beds": 1,
-    "Info": [
+    "Rooms": [
       {
         "beds": 1,
         "label": "Matratzenlager"
@@ -13192,7 +13192,7 @@
     "Lng": 8.041153,
     "Altitude": 2317,
     "Beds": 15,
-    "Info": [
+    "Rooms": [
       {
         "beds": 15,
         "label": "Massenlager"
