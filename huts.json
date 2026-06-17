@@ -2,10 +2,10 @@
   {
     "Id": 1,
     "Name": "Blüemlisalphütte SAC",
-    "Lat": 46.5104276,
-    "Lng": 7.7716226,
+    "Lat": 46.5104,
+    "Lng": 7.7716,
     "Altitude": 2840,
-    "Beds": 100,
+    "Beds": 116,
     "Rooms": [
       {
         "beds": 100,
@@ -24,10 +24,10 @@
   {
     "Id": 2,
     "Name": "Glecksteinhütte SAC",
-    "Lat": 46.625111,
-    "Lng": 8.096502,
+    "Lat": 46.6251,
+    "Lng": 8.0965,
     "Altitude": 2317,
-    "Beds": 88,
+    "Beds": 80,
     "Rooms": [
       {
         "beds": 54,
@@ -50,10 +50,10 @@
   {
     "Id": 3,
     "Name": "Capanna da l'Albigna CAS",
-    "Lat": 46.331205,
-    "Lng": 9.655262,
+    "Lat": 46.3312,
+    "Lng": 9.6553,
     "Altitude": 2336,
-    "Beds": 84,
+    "Beds": 98,
     "Rooms": [
       {
         "beds": 84,
@@ -72,10 +72,10 @@
   {
     "Id": 4,
     "Name": "Kesch-Hütte SAC",
-    "Lat": 46.645157,
-    "Lng": 9.875188,
+    "Lat": 46.6452,
+    "Lng": 9.8752,
     "Altitude": 2625,
-    "Beds": 85,
+    "Beds": 105,
     "Rooms": [
       {
         "beds": 85,
@@ -94,10 +94,10 @@
   {
     "Id": 5,
     "Name": "Lidernenhütte SAC",
-    "Lat": 46.935185,
-    "Lng": 8.69267,
+    "Lat": 46.9352,
+    "Lng": 8.6927,
     "Altitude": 1727,
-    "Beds": 85,
+    "Beds": 112,
     "Rooms": [
       {
         "beds": 85,
@@ -116,10 +116,10 @@
   {
     "Id": 6,
     "Name": "Monte Rosa Hütte SAC",
-    "Lat": 45.95694,
-    "Lng": 7.814543,
+    "Lat": 45.9569,
+    "Lng": 7.8145,
     "Altitude": 2883,
-    "Beds": 120,
+    "Beds": 132,
     "Rooms": [
       {
         "beds": 120,
@@ -138,10 +138,10 @@
   {
     "Id": 7,
     "Name": "Capanna di Sciora CAS",
-    "Lat": 46.30312,
-    "Lng": 9.61635,
+    "Lat": 46.3031,
+    "Lng": 9.6164,
     "Altitude": 2119,
-    "Beds": 29,
+    "Beds": 37,
     "Rooms": [
       {
         "beds": 29,
@@ -160,8 +160,8 @@
   {
     "Id": 8,
     "Name": "Capanna Basòdino (Robiei) CAS",
-    "Lat": 46.439556,
-    "Lng": 8.514077,
+    "Lat": 46.4396,
+    "Lng": 8.5141,
     "Altitude": 1856,
     "Beds": 59,
     "Rooms": [
@@ -178,18 +178,14 @@
   {
     "Id": 9,
     "Name": "Britanniahütte SAC",
-    "Lat": 46.060106,
-    "Lng": 7.93507,
+    "Lat": 46.0601,
+    "Lng": 7.9351,
     "Altitude": 3030,
     "Beds": 101,
     "Rooms": [
       {
         "beds": 101,
         "label": "Massenlager"
-      },
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -200,8 +196,8 @@
   {
     "Id": 10,
     "Name": "Cabane des Dix CAS",
-    "Lat": 46.011066,
-    "Lng": 7.417683,
+    "Lat": 46.0111,
+    "Lng": 7.4177,
     "Altitude": 2928,
     "Beds": 90,
     "Rooms": [
@@ -218,8 +214,8 @@
   {
     "Id": 11,
     "Name": "Doldenhornhütte SAC",
-    "Lat": 46.48704,
-    "Lng": 7.69739,
+    "Lat": 46.487,
+    "Lng": 7.6974,
     "Altitude": 1915,
     "Beds": 40,
     "Rooms": [
@@ -236,10 +232,10 @@
   {
     "Id": 12,
     "Name": "Konkordiahütte SAC",
-    "Lat": 46.500462,
-    "Lng": 8.053198,
+    "Lat": 46.5005,
+    "Lng": 8.0532,
     "Altitude": 2850,
-    "Beds": 159,
+    "Beds": 179,
     "Rooms": [
       {
         "beds": 155,
@@ -262,7 +258,7 @@
   {
     "Id": 13,
     "Name": "Leglerhütte SAC",
-    "Lat": 46.92754,
+    "Lat": 46.9275,
     "Lng": 9.0799,
     "Altitude": 2273,
     "Beds": 66,
@@ -292,10 +288,10 @@
   {
     "Id": 14,
     "Name": "Mutthornhütte SAC",
-    "Lat": 46.486554,
-    "Lng": 7.829508,
+    "Lat": 46.4866,
+    "Lng": 7.8295,
     "Altitude": 2788,
-    "Beds": 60,
+    "Beds": 78,
     "Rooms": [
       {
         "beds": 42,
@@ -322,8 +318,8 @@
   {
     "Id": 15,
     "Name": "Oberaarjochhütte SAC",
-    "Lat": 46.526,
-    "Lng": 8.173,
+    "Lat": 46.5279,
+    "Lng": 8.174,
     "Altitude": 3258,
     "Beds": 30,
     "Rooms": [
@@ -340,10 +336,10 @@
   {
     "Id": 16,
     "Name": "Terrihütte SAC",
-    "Lat": 46.634529,
-    "Lng": 9.005067,
+    "Lat": 46.6345,
+    "Lng": 9.0051,
     "Altitude": 2170,
-    "Beds": 90,
+    "Beds": 92,
     "Rooms": [
       {
         "beds": 80,
@@ -360,10 +356,6 @@
       {
         "beds": 2,
         "label": "Spezialzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -374,10 +366,10 @@
   {
     "Id": 17,
     "Name": "Geltenhütte SAC",
-    "Lat": 46.36,
-    "Lng": 7.33,
+    "Lat": 46.3697,
+    "Lng": 7.3392,
     "Altitude": 2002,
-    "Beds": 85,
+    "Beds": 97,
     "Rooms": [
       {
         "beds": 81,
@@ -400,10 +392,10 @@
   {
     "Id": 18,
     "Name": "Capanna del Forno CAS",
-    "Lat": 46.331498,
-    "Lng": 9.709716,
+    "Lat": 46.3315,
+    "Lng": 9.7097,
     "Altitude": 2574,
-    "Beds": 63,
+    "Beds": 64,
     "Rooms": [
       {
         "beds": 48,
@@ -426,8 +418,8 @@
   {
     "Id": 19,
     "Name": "Fründenhütte SAC",
-    "Lat": 46.4837108,
-    "Lng": 7.7419709,
+    "Lat": 46.4837,
+    "Lng": 7.742,
     "Altitude": 2562,
     "Beds": 58,
     "Rooms": [
@@ -444,8 +436,8 @@
   {
     "Id": 20,
     "Name": "Capanna Cristallina CAS",
-    "Lat": 46.472528,
-    "Lng": 8.526301,
+    "Lat": 46.4725,
+    "Lng": 8.5263,
     "Altitude": 2575,
     "Beds": 108,
     "Rooms": [
@@ -462,8 +454,8 @@
   {
     "Id": 21,
     "Name": "Badushütte",
-    "Lat": 46.636553,
-    "Lng": 8.668352,
+    "Lat": 46.6366,
+    "Lng": 8.6684,
     "Altitude": 2503,
     "Beds": 18,
     "Rooms": [
@@ -480,8 +472,8 @@
   {
     "Id": 22,
     "Name": "Cabane des Diablerets CAS",
-    "Lat": 46.346472,
-    "Lng": 7.214233,
+    "Lat": 46.3465,
+    "Lng": 7.2142,
     "Altitude": 2486,
     "Beds": 32,
     "Rooms": [
@@ -498,10 +490,10 @@
   {
     "Id": 23,
     "Name": "Bächlitalhütte SAC",
-    "Lat": 46.587093,
-    "Lng": 8.2826454,
+    "Lat": 46.5871,
+    "Lng": 8.2826,
     "Altitude": 2328,
-    "Beds": 70,
+    "Beds": 77,
     "Rooms": [
       {
         "beds": 71,
@@ -520,8 +512,8 @@
   {
     "Id": 24,
     "Name": "Hohganthütte",
-    "Lat": 46.78547,
-    "Lng": 7.90609,
+    "Lat": 46.7855,
+    "Lng": 7.9061,
     "Altitude": 1805,
     "Beds": 24,
     "Rooms": [
@@ -538,10 +530,10 @@
   {
     "Id": 25,
     "Name": "Chamanna d'Es-cha CAS",
-    "Lat": 46.61149,
-    "Lng": 9.902741,
+    "Lat": 46.6115,
+    "Lng": 9.9027,
     "Altitude": 2594,
-    "Beds": 42,
+    "Beds": 48,
     "Rooms": [
       {
         "beds": 34,
@@ -568,18 +560,14 @@
   {
     "Id": 26,
     "Name": "Camona da Maighels CAS",
-    "Lat": 46.62547,
-    "Lng": 8.69007,
+    "Lat": 46.6255,
+    "Lng": 8.6901,
     "Altitude": 2310,
-    "Beds": 83,
+    "Beds": 80,
     "Rooms": [
       {
         "beds": 80,
         "label": "Massenlager"
-      },
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -590,10 +578,10 @@
   {
     "Id": 27,
     "Name": "Gaulihütte SAC",
-    "Lat": 46.623745,
-    "Lng": 8.216584,
+    "Lat": 46.6237,
+    "Lng": 8.2166,
     "Altitude": 2205,
-    "Beds": 63,
+    "Beds": 78,
     "Rooms": [
       {
         "beds": 53,
@@ -620,8 +608,8 @@
   {
     "Id": 28,
     "Name": "Trifthütte SAC",
-    "Lat": 46.674023,
-    "Lng": 8.371172,
+    "Lat": 46.674,
+    "Lng": 8.3712,
     "Altitude": 2420,
     "Beds": 62,
     "Rooms": [
@@ -638,8 +626,8 @@
   {
     "Id": 30,
     "Name": "Zwinglipasshütte",
-    "Lat": 47.23,
-    "Lng": 9.37,
+    "Lat": 47.2333,
+    "Lng": 9.3762,
     "Altitude": 1999,
     "Beds": 35,
     "Rooms": [
@@ -656,10 +644,10 @@
   {
     "Id": 31,
     "Name": "Dossenhütte SAC",
-    "Lat": 46.655219,
-    "Lng": 8.169219,
+    "Lat": 46.6552,
+    "Lng": 8.1692,
     "Altitude": 2663,
-    "Beds": 45,
+    "Beds": 54,
     "Rooms": [
       {
         "beds": 42,
@@ -682,10 +670,10 @@
   {
     "Id": 32,
     "Name": "Hundsteinhütte SAC",
-    "Lat": 47.25512,
-    "Lng": 9.42217,
+    "Lat": 47.2551,
+    "Lng": 9.4222,
     "Altitude": 1554,
-    "Beds": 42,
+    "Beds": 54,
     "Rooms": [
       {
         "beds": 42,
@@ -704,10 +692,10 @@
   {
     "Id": 33,
     "Name": "Chamonna Tuoi CAS",
-    "Lat": 46.830744,
-    "Lng": 10.132428,
+    "Lat": 46.8307,
+    "Lng": 10.1324,
     "Altitude": 2250,
-    "Beds": 72,
+    "Beds": 86,
     "Rooms": [
       {
         "beds": 65,
@@ -734,10 +722,10 @@
   {
     "Id": 34,
     "Name": "Capanna Cadlimo CAS",
-    "Lat": 46.57173,
-    "Lng": 8.69484,
+    "Lat": 46.5717,
+    "Lng": 8.6948,
     "Altitude": 2570,
-    "Beds": 53,
+    "Beds": 78,
     "Rooms": [
       {
         "beds": 58,
@@ -750,10 +738,6 @@
       {
         "beds": 4,
         "label": "Spezialzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -764,8 +748,8 @@
   {
     "Id": 36,
     "Name": "Capanna Campo Tencia CAS",
-    "Lat": 46.4442813,
-    "Lng": 8.7327615,
+    "Lat": 46.4443,
+    "Lng": 8.7328,
     "Altitude": 2140,
     "Beds": 50,
     "Rooms": [
@@ -782,8 +766,8 @@
   {
     "Id": 37,
     "Name": "Brunnihütte",
-    "Lat": 46.50273,
-    "Lng": 8.24384,
+    "Lat": 46.5027,
+    "Lng": 8.2438,
     "Altitude": 1860,
     "Beds": 40,
     "Rooms": [
@@ -808,8 +792,8 @@
   {
     "Id": 38,
     "Name": "Capanna Sasc Furä CAS",
-    "Lat": 46.3154687,
-    "Lng": 9.5824966,
+    "Lat": 46.3155,
+    "Lng": 9.5825,
     "Altitude": 1904,
     "Beds": 36,
     "Rooms": [
@@ -826,10 +810,10 @@
   {
     "Id": 39,
     "Name": "Glattalphütte SAC",
-    "Lat": 46.916885,
-    "Lng": 8.875034,
+    "Lat": 46.9169,
+    "Lng": 8.875,
     "Altitude": 1896,
-    "Beds": 51,
+    "Beds": 61,
     "Rooms": [
       {
         "beds": 51,
@@ -848,10 +832,10 @@
   {
     "Id": 41,
     "Name": "Rugghubelhütte SAC",
-    "Lat": 46.846222,
-    "Lng": 8.462765,
+    "Lat": 46.8462,
+    "Lng": 8.4628,
     "Altitude": 2296,
-    "Beds": 85,
+    "Beds": 80,
     "Rooms": [
       {
         "beds": 62,
@@ -868,10 +852,6 @@
       {
         "beds": 2,
         "label": "Spezialzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -883,9 +863,9 @@
     "Id": 42,
     "Name": "Capanna Adula CAS",
     "Lat": 46.4992,
-    "Lng": 8.995615,
+    "Lng": 8.9956,
     "Altitude": 2012,
-    "Beds": 24,
+    "Beds": 33,
     "Rooms": [
       {
         "beds": 20,
@@ -908,8 +888,8 @@
   {
     "Id": 44,
     "Name": "Gspaltenhornhütte SAC",
-    "Lat": 46.5,
-    "Lng": 7.81,
+    "Lat": 46.5128,
+    "Lng": 7.8102,
     "Altitude": 2455,
     "Beds": 60,
     "Rooms": [
@@ -934,8 +914,8 @@
   {
     "Id": 45,
     "Name": "Windgällenhütte AACZ",
-    "Lat": 46.79,
-    "Lng": 8.76,
+    "Lat": 46.7902,
+    "Lng": 8.7555,
     "Altitude": 2032,
     "Beds": 55,
     "Rooms": [
@@ -952,8 +932,8 @@
   {
     "Id": 46,
     "Name": "Carschinahütte SAC",
-    "Lat": 47.007076,
-    "Lng": 9.827356,
+    "Lat": 47.0071,
+    "Lng": 9.8274,
     "Altitude": 2236,
     "Beds": 62,
     "Rooms": [
@@ -978,10 +958,10 @@
   {
     "Id": 47,
     "Name": "Oberaletschhütte SAC",
-    "Lat": 46.425217,
-    "Lng": 7.973875,
+    "Lat": 46.4252,
+    "Lng": 7.9739,
     "Altitude": 2640,
-    "Beds": 58,
+    "Beds": 68,
     "Rooms": [
       {
         "beds": 58,
@@ -1000,8 +980,8 @@
   {
     "Id": 48,
     "Name": "Cabane des Violettes CAS",
-    "Lat": 46.342819,
-    "Lng": 7.498651,
+    "Lat": 46.3428,
+    "Lng": 7.4987,
     "Altitude": 2209,
     "Beds": 26,
     "Rooms": [
@@ -1030,10 +1010,10 @@
   {
     "Id": 49,
     "Name": "Capanna Bovarina",
-    "Lat": 46.56027,
-    "Lng": 8.88841,
+    "Lat": 46.5603,
+    "Lng": 8.8884,
     "Altitude": 1870,
-    "Beds": 35,
+    "Beds": 53,
     "Rooms": [
       {
         "beds": 35,
@@ -1052,8 +1032,8 @@
   {
     "Id": 50,
     "Name": "Chamanna Cluozza",
-    "Lat": 46.662848,
-    "Lng": 10.117651,
+    "Lat": 46.6628,
+    "Lng": 10.1177,
     "Altitude": 1882,
     "Beds": 61,
     "Rooms": [
@@ -1074,10 +1054,10 @@
   {
     "Id": 51,
     "Name": "Täschhütte SAC",
-    "Lat": 46.05159,
-    "Lng": 7.82994,
+    "Lat": 46.0516,
+    "Lng": 7.8299,
     "Altitude": 2701,
-    "Beds": 73,
+    "Beds": 83,
     "Rooms": [
       {
         "beds": 73,
@@ -1096,8 +1076,8 @@
   {
     "Id": 52,
     "Name": "Berghaus Männdlenen",
-    "Lat": 46.66,
-    "Lng": 7.96,
+    "Lat": 46.6691,
+    "Lng": 7.9689,
     "Altitude": 2344,
     "Beds": 34,
     "Rooms": [
@@ -1118,10 +1098,10 @@
   {
     "Id": 53,
     "Name": "Igloo des Pantalons Blancs",
-    "Lat": 46.04055,
-    "Lng": 7.36853,
+    "Lat": 46.0406,
+    "Lng": 7.3685,
     "Altitude": 3285,
-    "Beds": 14,
+    "Beds": 29,
     "Rooms": [
       {
         "beds": 14,
@@ -1140,10 +1120,10 @@
   {
     "Id": 55,
     "Name": "Chelenalphütte SAC",
-    "Lat": 46.67171,
-    "Lng": 8.43984,
+    "Lat": 46.6717,
+    "Lng": 8.4398,
     "Altitude": 2350,
-    "Beds": 40,
+    "Beds": 47,
     "Rooms": [
       {
         "beds": 40,
@@ -1162,8 +1142,8 @@
   {
     "Id": 57,
     "Name": "Spitzsteinhaus",
-    "Lat": 47.70463,
-    "Lng": 12.24388,
+    "Lat": 47.7046,
+    "Lng": 12.2439,
     "Altitude": 1252,
     "Beds": 53,
     "Rooms": [
@@ -1178,14 +1158,6 @@
       {
         "beds": 4,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 1"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -1196,10 +1168,10 @@
   {
     "Id": 58,
     "Name": "Neue Prager Hütte",
-    "Lat": 47.123056,
-    "Lng": 12.392222,
+    "Lat": 47.1231,
+    "Lng": 12.3922,
     "Altitude": 2796,
-    "Beds": 78,
+    "Beds": 70,
     "Rooms": [
       {
         "beds": 48,
@@ -1218,8 +1190,8 @@
   {
     "Id": 62,
     "Name": "Glungezer-Hütte",
-    "Lat": 47.2,
-    "Lng": 11.52,
+    "Lat": 47.21,
+    "Lng": 11.5269,
     "Altitude": 2610,
     "Beds": 48,
     "Rooms": [
@@ -1230,10 +1202,6 @@
       {
         "beds": 8,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 0,
-        "label": "Special category"
       }
     ],
     "Country": "AT",
@@ -1244,8 +1212,8 @@
   {
     "Id": 63,
     "Name": "Ascher Hütte",
-    "Lat": 47.066483,
-    "Lng": 10.504789,
+    "Lat": 47.0665,
+    "Lng": 10.5048,
     "Altitude": 2256,
     "Beds": 26,
     "Rooms": [
@@ -1266,8 +1234,8 @@
   {
     "Id": 64,
     "Name": "La Borbuintze",
-    "Lat": 46.50992,
-    "Lng": 8.366572,
+    "Lat": 46.5099,
+    "Lng": 8.3666,
     "Altitude": 1333,
     "Beds": 33,
     "Rooms": [
@@ -1284,8 +1252,8 @@
   {
     "Id": 65,
     "Name": "Wildstrubelhütte SAC",
-    "Lat": 46.383,
-    "Lng": 7.469,
+    "Lat": 46.3832,
+    "Lng": 7.4678,
     "Altitude": 2789,
     "Beds": 68,
     "Rooms": [
@@ -1306,8 +1274,8 @@
   {
     "Id": 66,
     "Name": "Gelmerhütte SAC",
-    "Lat": 46.631195,
-    "Lng": 8.342758,
+    "Lat": 46.6312,
+    "Lng": 8.3428,
     "Altitude": 2412,
     "Beds": 50,
     "Rooms": [
@@ -1324,15 +1292,11 @@
   {
     "Id": 67,
     "Name": "Cabane Barraud",
-    "Lat": 46.284576,
+    "Lat": 46.2846,
     "Lng": 7.163,
     "Altitude": 1956,
-    "Beds": 28,
+    "Beds": 32,
     "Rooms": [
-      {
-        "beds": 0,
-        "label": "Massenlager"
-      },
       {
         "beds": 32,
         "label": "Schutzraum/Winterraum"
@@ -1346,10 +1310,10 @@
   {
     "Id": 68,
     "Name": "Chalet Lacombe",
-    "Lat": 46.388473,
-    "Lng": 7.042996,
+    "Lat": 46.3885,
+    "Lng": 7.043,
     "Altitude": 1653,
-    "Beds": 22,
+    "Beds": 44,
     "Rooms": [
       {
         "beds": 22,
@@ -1368,8 +1332,8 @@
   {
     "Id": 69,
     "Name": "Rotstockhütte",
-    "Lat": 46.545135,
-    "Lng": 7.838241,
+    "Lat": 46.5451,
+    "Lng": 7.8382,
     "Altitude": 2039,
     "Beds": 43,
     "Rooms": [
@@ -1390,8 +1354,8 @@
   {
     "Id": 72,
     "Name": "Bettelwurf-Hütte",
-    "Lat": 47.339,
-    "Lng": 11.507,
+    "Lat": 47.3387,
+    "Lng": 11.5077,
     "Altitude": 2077,
     "Beds": 60,
     "Rooms": [
@@ -1413,9 +1377,9 @@
     "Id": 73,
     "Name": "Höllentalangerhütte",
     "Lat": 47.438,
-    "Lng": 11.02523,
+    "Lng": 11.0252,
     "Altitude": 1387,
-    "Beds": 108,
+    "Beds": 130,
     "Rooms": [
       {
         "beds": 60,
@@ -1435,9 +1399,9 @@
     "Id": 75,
     "Name": "Schesaplana Hütte",
     "Lat": 47.0442,
-    "Lng": 9.684209,
+    "Lng": 9.6842,
     "Altitude": 1908,
-    "Beds": 63,
+    "Beds": 71,
     "Rooms": [
       {
         "beds": 53,
@@ -1460,8 +1424,8 @@
   {
     "Id": 76,
     "Name": "Refuge des Petoudes",
-    "Lat": 46.020069,
-    "Lng": 7.011175,
+    "Lat": 46.0201,
+    "Lng": 7.0112,
     "Altitude": 2169,
     "Beds": 9,
     "Rooms": [
@@ -1478,8 +1442,8 @@
   {
     "Id": 77,
     "Name": "Mönchsjochhütte",
-    "Lat": 46.554678,
-    "Lng": 8.005589,
+    "Lat": 46.5547,
+    "Lng": 8.0056,
     "Altitude": 3657,
     "Beds": 100,
     "Rooms": [
@@ -1496,10 +1460,10 @@
   {
     "Id": 78,
     "Name": "Chamonna Lischana CAS",
-    "Lat": 46.765583,
-    "Lng": 10.334556,
+    "Lat": 46.7656,
+    "Lng": 10.3346,
     "Altitude": 2500,
-    "Beds": 49,
+    "Beds": 59,
     "Rooms": [
       {
         "beds": 37,
@@ -1530,18 +1494,14 @@
   {
     "Id": 79,
     "Name": "Klostertaler Umwelthütte",
-    "Lat": 46.881097,
-    "Lng": 10.065993,
+    "Lat": 46.8811,
+    "Lng": 10.066,
     "Altitude": 2362,
-    "Beds": 15,
+    "Beds": 30,
     "Rooms": [
       {
         "beds": 15,
         "label": "Dormitory"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       },
       {
         "beds": 15,
@@ -1557,9 +1517,9 @@
     "Id": 80,
     "Name": "Silvrettahütte SAC",
     "Lat": 46.8545,
-    "Lng": 10.041452,
+    "Lng": 10.0415,
     "Altitude": 2341,
-    "Beds": 69,
+    "Beds": 81,
     "Rooms": [
       {
         "beds": 53,
@@ -1608,10 +1568,10 @@
   {
     "Id": 82,
     "Name": "Hallerangerhaus",
-    "Lat": 47.354722,
-    "Lng": 11.477222,
+    "Lat": 47.3547,
+    "Lng": 11.4772,
     "Altitude": 1768,
-    "Beds": 73,
+    "Beds": 68,
     "Rooms": [
       {
         "beds": 23,
@@ -1634,8 +1594,8 @@
   {
     "Id": 83,
     "Name": "Fritz-Putz Hütte",
-    "Lat": 47.53806,
-    "Lng": 10.77347,
+    "Lat": 47.5381,
+    "Lng": 10.7735,
     "Altitude": 1180,
     "Beds": 39,
     "Rooms": [
@@ -1650,10 +1610,6 @@
       {
         "beds": 2,
         "label": "Zweierzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Hundezimmer"
       }
     ],
     "Country": "DE",
@@ -1664,10 +1620,10 @@
   {
     "Id": 84,
     "Name": "Stöhrhaus",
-    "Lat": 47.693111,
-    "Lng": 12.980639,
+    "Lat": 47.6931,
+    "Lng": 12.9806,
     "Altitude": 1894,
-    "Beds": 58,
+    "Beds": 49,
     "Rooms": [
       {
         "beds": 25,
@@ -1680,10 +1636,6 @@
       {
         "beds": 6,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 1"
       }
     ],
     "Country": "DE",
@@ -1694,10 +1646,10 @@
   {
     "Id": 85,
     "Name": "Staufner Haus",
-    "Lat": 47.491583,
-    "Lng": 10.069167,
+    "Lat": 47.4916,
+    "Lng": 10.0692,
     "Altitude": 1634,
-    "Beds": 70,
+    "Beds": 66,
     "Rooms": [
       {
         "beds": 44,
@@ -1720,8 +1672,8 @@
   {
     "Id": 86,
     "Name": "Frassen-Hütte",
-    "Lat": 47.185596,
-    "Lng": 9.828919,
+    "Lat": 47.1856,
+    "Lng": 9.8289,
     "Altitude": 1725,
     "Beds": 50,
     "Rooms": [
@@ -1742,10 +1694,10 @@
   {
     "Id": 87,
     "Name": "Karwendelhaus",
-    "Lat": 47.427447,
-    "Lng": 11.42165,
+    "Lat": 47.4274,
+    "Lng": 11.4216,
     "Altitude": 1765,
-    "Beds": 140,
+    "Beds": 135,
     "Rooms": [
       {
         "beds": 100,
@@ -1768,8 +1720,8 @@
   {
     "Id": 88,
     "Name": "Sarotla-Hütte",
-    "Lat": 47.104134,
-    "Lng": 9.787181,
+    "Lat": 47.1041,
+    "Lng": 9.7872,
     "Altitude": 1611,
     "Beds": 38,
     "Rooms": [
@@ -1791,7 +1743,7 @@
     "Id": 89,
     "Name": "Heinrich-Hueter-Hütte",
     "Lat": 47.0788,
-    "Lng": 9.783688,
+    "Lng": 9.7837,
     "Altitude": 1766,
     "Beds": 80,
     "Rooms": [
@@ -1812,10 +1764,10 @@
   {
     "Id": 90,
     "Name": "Freschen-Haus",
-    "Lat": 47.298512,
-    "Lng": 9.77553,
+    "Lat": 47.2985,
+    "Lng": 9.7755,
     "Altitude": 1846,
-    "Beds": 53,
+    "Beds": 59,
     "Rooms": [
       {
         "beds": 19,
@@ -1842,10 +1794,10 @@
   {
     "Id": 91,
     "Name": "Tilisuna-Hütte",
-    "Lat": 47.024591,
-    "Lng": 9.87261,
+    "Lat": 47.0246,
+    "Lng": 9.8726,
     "Altitude": 2211,
-    "Beds": 110,
+    "Beds": 96,
     "Rooms": [
       {
         "beds": 30,
@@ -1868,8 +1820,8 @@
   {
     "Id": 92,
     "Name": "Totalp-Hütte",
-    "Lat": 47.052701,
-    "Lng": 9.727139,
+    "Lat": 47.0527,
+    "Lng": 9.7271,
     "Altitude": 2385,
     "Beds": 87,
     "Rooms": [
@@ -1893,7 +1845,7 @@
     "Lat": 47.0709,
     "Lng": 10.0836,
     "Altitude": 2089,
-    "Beds": 63,
+    "Beds": 77,
     "Rooms": [
       {
         "beds": 29,
@@ -1908,10 +1860,6 @@
         "label": "Double room"
       },
       {
-        "beds": 0,
-        "label": "Special category 2"
-      },
-      {
         "beds": 14,
         "label": "Unserviced mode"
       }
@@ -1924,10 +1872,10 @@
   {
     "Id": 96,
     "Name": "Neue Reutlinger Hütte",
-    "Lat": 47.07541,
-    "Lng": 10.11565,
+    "Lat": 47.0754,
+    "Lng": 10.1157,
     "Altitude": 2395,
-    "Beds": 12,
+    "Beds": 24,
     "Rooms": [
       {
         "beds": 12,
@@ -1946,8 +1894,8 @@
   {
     "Id": 97,
     "Name": "Freiburgerhütte",
-    "Lat": 47.162723,
-    "Lng": 9.99041,
+    "Lat": 47.1627,
+    "Lng": 9.9904,
     "Altitude": 1918,
     "Beds": 103,
     "Rooms": [
@@ -1972,10 +1920,10 @@
   {
     "Id": 99,
     "Name": "Bergheim Au",
-    "Lat": 47.318,
-    "Lng": 9.963,
+    "Lat": 47.3181,
+    "Lng": 9.9638,
     "Altitude": 824,
-    "Beds": 65,
+    "Beds": 67,
     "Rooms": [
       {
         "beds": 65,
@@ -1994,8 +1942,8 @@
   {
     "Id": 100,
     "Name": "Gaudeamushütte",
-    "Lat": 47.549167,
-    "Lng": 12.324722,
+    "Lat": 47.5492,
+    "Lng": 12.3247,
     "Altitude": 1263,
     "Beds": 43,
     "Rooms": [
@@ -2020,22 +1968,14 @@
   {
     "Id": 101,
     "Name": "Saupsdorfer Hütte",
-    "Lat": 50.9284372,
-    "Lng": 14.3357495,
+    "Lat": 50.9278,
+    "Lng": 14.335,
     "Altitude": 285,
     "Beds": 25,
     "Rooms": [
       {
         "beds": 25,
         "label": "Mehrbettzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Sonderkategorie 1"
-      },
-      {
-        "beds": 0,
-        "label": "Sonderkategorie 2"
       }
     ],
     "Country": "DE",
@@ -2046,10 +1986,10 @@
   {
     "Id": 103,
     "Name": "Neue Heilbronner Hütte",
-    "Lat": 47.007216,
-    "Lng": 10.138827,
+    "Lat": 47.0072,
+    "Lng": 10.1388,
     "Altitude": 2320,
-    "Beds": 104,
+    "Beds": 154,
     "Rooms": [
       {
         "beds": 56,
@@ -2076,8 +2016,8 @@
   {
     "Id": 104,
     "Name": "Rotwandhaus",
-    "Lat": 47.64625,
-    "Lng": 11.935278,
+    "Lat": 47.6463,
+    "Lng": 11.9353,
     "Altitude": 1737,
     "Beds": 69,
     "Rooms": [
@@ -2102,8 +2042,8 @@
   {
     "Id": 105,
     "Name": "Berliner Hütte",
-    "Lat": 47.024515,
-    "Lng": 11.812803,
+    "Lat": 47.0245,
+    "Lng": 11.8128,
     "Altitude": 2042,
     "Beds": 140,
     "Rooms": [
@@ -2132,8 +2072,8 @@
   {
     "Id": 106,
     "Name": "Goiserer Hütte",
-    "Lat": 47.37,
-    "Lng": 13.33,
+    "Lat": 47.6214,
+    "Lng": 13.5614,
     "Altitude": 1592,
     "Beds": 22,
     "Rooms": [
@@ -2150,22 +2090,14 @@
   {
     "Id": 107,
     "Name": "Bergsteigerunterkunft Lauschige Ecke",
-    "Lat": 47.622288,
-    "Lng": 12.976388,
+    "Lat": 47.6223,
+    "Lng": 12.9764,
     "Altitude": 600,
     "Beds": 14,
     "Rooms": [
       {
         "beds": 14,
         "label": "Mehrbettzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Sonderkategorie 1"
-      },
-      {
-        "beds": 0,
-        "label": "Sonderkategorie 2"
       }
     ],
     "Country": "DE",
@@ -2176,10 +2108,10 @@
   {
     "Id": 108,
     "Name": "Gablonzer Hütte",
-    "Lat": 47.53327,
+    "Lat": 47.5333,
     "Lng": 13.4798,
     "Altitude": 1550,
-    "Beds": 69,
+    "Beds": 71,
     "Rooms": [
       {
         "beds": 37,
@@ -2202,8 +2134,8 @@
   {
     "Id": 109,
     "Name": "Zollnersee-Hütte",
-    "Lat": 46.605,
-    "Lng": 13.07,
+    "Lat": 46.6056,
+    "Lng": 13.0709,
     "Altitude": 1750,
     "Beds": 32,
     "Rooms": [
@@ -2214,10 +2146,6 @@
       {
         "beds": 12,
         "label": "Mehrbettzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Sonderkategorie"
       }
     ],
     "Country": "AT",
@@ -2231,7 +2159,7 @@
     "Lat": 47.0236,
     "Lng": 11.3741,
     "Altitude": 2324,
-    "Beds": 70,
+    "Beds": 74,
     "Rooms": [
       {
         "beds": 31,
@@ -2258,10 +2186,10 @@
   {
     "Id": 111,
     "Name": "Hofpürgl-Hütte",
-    "Lat": 47.482214,
-    "Lng": 13.519027,
+    "Lat": 47.4822,
+    "Lng": 13.519,
     "Altitude": 1703,
-    "Beds": 70,
+    "Beds": 71,
     "Rooms": [
       {
         "beds": 55,
@@ -2284,8 +2212,8 @@
   {
     "Id": 114,
     "Name": "Alpenrosenhütte im Brixental",
-    "Lat": 47.419968,
-    "Lng": 12.237699,
+    "Lat": 47.42,
+    "Lng": 12.2377,
     "Altitude": 1555,
     "Beds": 52,
     "Rooms": [
@@ -2310,8 +2238,8 @@
   {
     "Id": 115,
     "Name": "Rüsselsheimer Hütte",
-    "Lat": 46.994137,
-    "Lng": 10.888199,
+    "Lat": 46.9941,
+    "Lng": 10.8882,
     "Altitude": 2323,
     "Beds": 47,
     "Rooms": [
@@ -2336,10 +2264,10 @@
   {
     "Id": 116,
     "Name": "Neue Bamberger Hütte",
-    "Lat": 47.30904,
-    "Lng": 12.15055,
+    "Lat": 47.309,
+    "Lng": 12.1506,
     "Altitude": 1756,
-    "Beds": 74,
+    "Beds": 78,
     "Rooms": [
       {
         "beds": 24,
@@ -2362,10 +2290,10 @@
   {
     "Id": 117,
     "Name": "Mödlinger Hütte",
-    "Lat": 47.52,
-    "Lng": 14.55,
+    "Lat": 47.5294,
+    "Lng": 14.553,
     "Altitude": 1523,
-    "Beds": 50,
+    "Beds": 46,
     "Rooms": [
       {
         "beds": 24,
@@ -2388,10 +2316,10 @@
   {
     "Id": 119,
     "Name": "Olpererhütte",
-    "Lat": 47.04,
-    "Lng": 11.68,
+    "Lat": 47.0421,
+    "Lng": 11.6884,
     "Altitude": 2389,
-    "Beds": 72,
+    "Beds": 52,
     "Rooms": [
       {
         "beds": 40,
@@ -2410,10 +2338,10 @@
   {
     "Id": 121,
     "Name": "Hannoverhaus",
-    "Lat": 47.040684,
-    "Lng": 13.215527,
+    "Lat": 47.0407,
+    "Lng": 13.2155,
     "Altitude": 2565,
-    "Beds": 50,
+    "Beds": 40,
     "Rooms": [
       {
         "beds": 35,
@@ -2426,14 +2354,6 @@
       {
         "beds": 1,
         "label": "Dog room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 1"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -2470,10 +2390,10 @@
   {
     "Id": 124,
     "Name": "Nürnberger Hütte",
-    "Lat": 46.994374,
-    "Lng": 11.218299,
+    "Lat": 46.9944,
+    "Lng": 11.2183,
     "Altitude": 2278,
-    "Beds": 120,
+    "Beds": 126,
     "Rooms": [
       {
         "beds": 75,
@@ -2496,10 +2416,10 @@
   {
     "Id": 125,
     "Name": "Edelweiss-Hütte am Schneeberg",
-    "Lat": 47.7923488,
-    "Lng": 15.815074,
+    "Lat": 47.7923,
+    "Lng": 15.8151,
     "Altitude": 1235,
-    "Beds": 25,
+    "Beds": 23,
     "Rooms": [
       {
         "beds": 12,
@@ -2512,10 +2432,6 @@
       {
         "beds": 2,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category"
       }
     ],
     "Country": "AT",
@@ -2526,10 +2442,10 @@
   {
     "Id": 126,
     "Name": "Meraner Hütte",
-    "Lat": 46.683048,
-    "Lng": 11.281955,
+    "Lat": 46.683,
+    "Lng": 11.282,
     "Altitude": 1960,
-    "Beds": 59,
+    "Beds": 48,
     "Rooms": [
       {
         "beds": 14,
@@ -2546,10 +2462,6 @@
       {
         "beds": 6,
         "label": "triple rooms"
-      },
-      {
-        "beds": 0,
-        "label": "four bed room"
       }
     ],
     "Country": "IT",
@@ -2560,8 +2472,8 @@
   {
     "Id": 128,
     "Name": "Reintalangerhütte",
-    "Lat": 47.405306,
-    "Lng": 11.035667,
+    "Lat": 47.4053,
+    "Lng": 11.0357,
     "Altitude": 1370,
     "Beds": 91,
     "Rooms": [
@@ -2586,8 +2498,8 @@
   {
     "Id": 129,
     "Name": "Neue Magdeburger Hütte",
-    "Lat": 47.288944,
-    "Lng": 11.296524,
+    "Lat": 47.2889,
+    "Lng": 11.2965,
     "Altitude": 1633,
     "Beds": 50,
     "Rooms": [
@@ -2609,9 +2521,9 @@
     "Id": 130,
     "Name": "Hochrieshütte",
     "Lat": 47.7475,
-    "Lng": 12.248889,
+    "Lng": 12.2489,
     "Altitude": 1569,
-    "Beds": 39,
+    "Beds": 36,
     "Rooms": [
       {
         "beds": 13,
@@ -2634,8 +2546,8 @@
   {
     "Id": 131,
     "Name": "Dessauer Hütte",
-    "Lat": 50.8977029,
-    "Lng": 14.1365985,
+    "Lat": 50.8973,
+    "Lng": 14.1358,
     "Altitude": 281,
     "Beds": 30,
     "Rooms": [
@@ -2652,10 +2564,10 @@
   {
     "Id": 132,
     "Name": "Clarahütte",
-    "Lat": 47.01,
-    "Lng": 12.14,
+    "Lat": 47.0159,
+    "Lng": 12.2461,
     "Altitude": 2038,
-    "Beds": 47,
+    "Beds": 49,
     "Rooms": [
       {
         "beds": 8,
@@ -2687,9 +2599,9 @@
     "Id": 133,
     "Name": "Essener und Rostocker Hütte",
     "Lat": 47.055,
-    "Lng": 12.297778,
+    "Lng": 12.2978,
     "Altitude": 2208,
-    "Beds": 106,
+    "Beds": 123,
     "Rooms": [
       {
         "beds": 16,
@@ -2704,16 +2616,8 @@
         "label": "Double room"
       },
       {
-        "beds": 0,
-        "label": "Dog room"
-      },
-      {
         "beds": 12,
         "label": "Special category 1"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       },
       {
         "beds": 12,
@@ -2728,18 +2632,14 @@
   {
     "Id": 135,
     "Name": "Capanna Scaletta",
-    "Lat": 46.6079236,
-    "Lng": 8.9402977,
+    "Lat": 46.6079,
+    "Lng": 8.9403,
     "Altitude": 2205,
     "Beds": 54,
     "Rooms": [
       {
         "beds": 54,
         "label": "Mehrbettzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -2750,8 +2650,8 @@
   {
     "Id": 136,
     "Name": "Richterhütte",
-    "Lat": 47.123845,
-    "Lng": 12.133851,
+    "Lat": 47.1238,
+    "Lng": 12.1339,
     "Altitude": 2374,
     "Beds": 44,
     "Rooms": [
@@ -2776,10 +2676,10 @@
   {
     "Id": 138,
     "Name": "Oberlandhütte",
-    "Lat": 47.37979,
-    "Lng": 12.30752,
+    "Lat": 47.3798,
+    "Lng": 12.3075,
     "Altitude": 1014,
-    "Beds": 65,
+    "Beds": 61,
     "Rooms": [
       {
         "beds": 36,
@@ -2802,8 +2702,8 @@
   {
     "Id": 139,
     "Name": "Lenggrieser Hütte",
-    "Lat": 47.65,
-    "Lng": 11.63,
+    "Lat": 47.6519,
+    "Lng": 11.6311,
     "Altitude": 1338,
     "Beds": 47,
     "Rooms": [
@@ -2820,10 +2720,10 @@
   {
     "Id": 141,
     "Name": "Peter-Wiechenthaler-Hütte",
-    "Lat": 47.463,
-    "Lng": 12.875,
+    "Lat": 47.4638,
+    "Lng": 12.8753,
     "Altitude": 1752,
-    "Beds": 68,
+    "Beds": 70,
     "Rooms": [
       {
         "beds": 24,
@@ -2842,8 +2742,8 @@
   {
     "Id": 143,
     "Name": "Bremer Hütte",
-    "Lat": 46.994893,
-    "Lng": 11.263324,
+    "Lat": 46.9949,
+    "Lng": 11.2633,
     "Altitude": 2413,
     "Beds": 69,
     "Rooms": [
@@ -2865,7 +2765,7 @@
     "Id": 144,
     "Name": "Ingolstädter Haus",
     "Lat": 47.5017,
-    "Lng": 12.88744,
+    "Lng": 12.8874,
     "Altitude": 2119,
     "Beds": 109,
     "Rooms": [
@@ -2886,8 +2786,8 @@
   {
     "Id": 145,
     "Name": "Riemannhaus",
-    "Lat": 47.45802,
-    "Lng": 12.91458,
+    "Lat": 47.458,
+    "Lng": 12.9146,
     "Altitude": 2177,
     "Beds": 82,
     "Rooms": [
@@ -2916,8 +2816,8 @@
   {
     "Id": 146,
     "Name": "Annaberger Haus",
-    "Lat": 47.873668,
-    "Lng": 15.421109,
+    "Lat": 47.8737,
+    "Lng": 15.4211,
     "Altitude": 1377,
     "Beds": 40,
     "Rooms": [
@@ -2942,8 +2842,8 @@
   {
     "Id": 147,
     "Name": "Julius-Seitner-Hütte",
-    "Lat": 47.96049,
-    "Lng": 15.441089,
+    "Lat": 47.9605,
+    "Lng": 15.4411,
     "Altitude": 1185,
     "Beds": 26,
     "Rooms": [
@@ -2964,8 +2864,8 @@
   {
     "Id": 148,
     "Name": "Gufferthütte",
-    "Lat": 47.58,
-    "Lng": 11.79,
+    "Lat": 47.5817,
+    "Lng": 11.7995,
     "Altitude": 1475,
     "Beds": 64,
     "Rooms": [
@@ -2980,10 +2880,6 @@
       {
         "beds": 8,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -2994,10 +2890,10 @@
   {
     "Id": 149,
     "Name": "Knorrhütte",
-    "Lat": 47.410012,
-    "Lng": 11.012802,
+    "Lat": 47.41,
+    "Lng": 11.0128,
     "Altitude": 2051,
-    "Beds": 116,
+    "Beds": 108,
     "Rooms": [
       {
         "beds": 80,
@@ -3016,8 +2912,8 @@
   {
     "Id": 150,
     "Name": "Münchner Haus",
-    "Lat": 47.42119,
-    "Lng": 10.98492,
+    "Lat": 47.4212,
+    "Lng": 10.9849,
     "Altitude": 2959,
     "Beds": 10,
     "Rooms": [
@@ -3034,10 +2930,10 @@
   {
     "Id": 151,
     "Name": "Watzmannhaus",
-    "Lat": 47.57133,
-    "Lng": 12.93399,
+    "Lat": 47.5713,
+    "Lng": 12.934,
     "Altitude": 1930,
-    "Beds": 160,
+    "Beds": 102,
     "Rooms": [
       {
         "beds": 50,
@@ -3050,14 +2946,6 @@
       {
         "beds": 8,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced mode"
       }
     ],
     "Country": "DE",
@@ -3068,10 +2956,10 @@
   {
     "Id": 152,
     "Name": "Heinrich-Schwaiger-Haus",
-    "Lat": 47.162783,
-    "Lng": 12.738883,
+    "Lat": 47.1628,
+    "Lng": 12.7389,
     "Altitude": 2802,
-    "Beds": 71,
+    "Beds": 56,
     "Rooms": [
       {
         "beds": 40,
@@ -3090,10 +2978,10 @@
   {
     "Id": 154,
     "Name": "Gruttenhütte",
-    "Lat": 47.55363,
-    "Lng": 12.31104,
+    "Lat": 47.5536,
+    "Lng": 12.311,
     "Altitude": 1620,
-    "Beds": 90,
+    "Beds": 74,
     "Rooms": [
       {
         "beds": 16,
@@ -3116,10 +3004,10 @@
   {
     "Id": 156,
     "Name": "Bordierhütte SAC",
-    "Lat": 46.14465,
+    "Lat": 46.1446,
     "Lng": 7.8498,
     "Altitude": 2886,
-    "Beds": 44,
+    "Beds": 53,
     "Rooms": [
       {
         "beds": 44,
@@ -3138,10 +3026,10 @@
   {
     "Id": 157,
     "Name": "Chamanna Jenatsch CAS",
-    "Lat": 46.530168,
-    "Lng": 9.720377,
+    "Lat": 46.5302,
+    "Lng": 9.7204,
     "Altitude": 2652,
-    "Beds": 70,
+    "Beds": 85,
     "Rooms": [
       {
         "beds": 65,
@@ -3168,10 +3056,10 @@
   {
     "Id": 159,
     "Name": "Salm-Hütte",
-    "Lat": 47.046972,
-    "Lng": 12.720417,
+    "Lat": 47.047,
+    "Lng": 12.7204,
     "Altitude": 2644,
-    "Beds": 50,
+    "Beds": 30,
     "Rooms": [
       {
         "beds": 14,
@@ -3180,10 +3068,6 @@
       {
         "beds": 16,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 0,
-        "label": "Special category"
       }
     ],
     "Country": "AT",
@@ -3194,8 +3078,8 @@
   {
     "Id": 160,
     "Name": "Muttekopf-Hütte",
-    "Lat": 47.26259,
-    "Lng": 10.66983,
+    "Lat": 47.2626,
+    "Lng": 10.6698,
     "Altitude": 1934,
     "Beds": 53,
     "Rooms": [
@@ -3216,8 +3100,8 @@
   {
     "Id": 161,
     "Name": "Berglihütte SAC",
-    "Lat": 46.566799,
-    "Lng": 8.020535,
+    "Lat": 46.5668,
+    "Lng": 8.0205,
     "Altitude": 3299,
     "Beds": 20,
     "Rooms": [
@@ -3234,22 +3118,14 @@
   {
     "Id": 162,
     "Name": "Neue Bonner Hütte",
-    "Lat": 47.037222,
-    "Lng": 13.68,
+    "Lat": 47.0372,
+    "Lng": 13.6799,
     "Altitude": 1712,
     "Beds": 29,
     "Rooms": [
       {
         "beds": 29,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 1"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -3260,8 +3136,8 @@
   {
     "Id": 163,
     "Name": "Tölzer Hütte am Schafreuter",
-    "Lat": 47.505092,
-    "Lng": 11.491381,
+    "Lat": 47.5051,
+    "Lng": 11.4914,
     "Altitude": 1825,
     "Beds": 68,
     "Rooms": [
@@ -3286,8 +3162,8 @@
   {
     "Id": 164,
     "Name": "Wildhornhütte SAC",
-    "Lat": 46.37929,
-    "Lng": 7.38801,
+    "Lat": 46.3793,
+    "Lng": 7.388,
     "Altitude": 2303,
     "Beds": 79,
     "Rooms": [
@@ -3304,10 +3180,10 @@
   {
     "Id": 165,
     "Name": "Cufercalhütte SAC",
-    "Lat": 46.593356,
-    "Lng": 9.359021,
+    "Lat": 46.5934,
+    "Lng": 9.359,
     "Altitude": 2385,
-    "Beds": 23,
+    "Beds": 26,
     "Rooms": [
       {
         "beds": 20,
@@ -3326,8 +3202,8 @@
   {
     "Id": 166,
     "Name": "Topalihütte SAC",
-    "Lat": 46.15717,
-    "Lng": 7.76206,
+    "Lat": 46.1572,
+    "Lng": 7.7621,
     "Altitude": 2674,
     "Beds": 38,
     "Rooms": [
@@ -3344,8 +3220,8 @@
   {
     "Id": 168,
     "Name": "Capanna Monte Bar",
-    "Lat": 46.099995,
-    "Lng": 9.013999,
+    "Lat": 46.1,
+    "Lng": 9.014,
     "Altitude": 1602,
     "Beds": 40,
     "Rooms": [
@@ -3374,8 +3250,8 @@
   {
     "Id": 169,
     "Name": "Gamshütte",
-    "Lat": 47.130481,
-    "Lng": 11.807152,
+    "Lat": 47.1305,
+    "Lng": 11.8072,
     "Altitude": 1921,
     "Beds": 38,
     "Rooms": [
@@ -3392,8 +3268,8 @@
   {
     "Id": 170,
     "Name": "Friesenberghaus",
-    "Lat": 47.067386,
-    "Lng": 11.702097,
+    "Lat": 47.0674,
+    "Lng": 11.7021,
     "Altitude": 2498,
     "Beds": 56,
     "Rooms": [
@@ -3414,7 +3290,7 @@
   {
     "Id": 171,
     "Name": "Riffelseehütte",
-    "Lat": 46.96112,
+    "Lat": 46.9611,
     "Lng": 10.8575,
     "Altitude": 2293,
     "Beds": 44,
@@ -3436,8 +3312,8 @@
   {
     "Id": 172,
     "Name": "Anton-Karg-Haus",
-    "Lat": 47.580049,
-    "Lng": 12.277278,
+    "Lat": 47.58,
+    "Lng": 12.2773,
     "Altitude": 829,
     "Beds": 91,
     "Rooms": [
@@ -3462,7 +3338,7 @@
   {
     "Id": 173,
     "Name": "Gepatschhaus",
-    "Lat": 46.901389,
+    "Lat": 46.9014,
     "Lng": 10.7375,
     "Altitude": 1928,
     "Beds": 87,
@@ -3488,10 +3364,10 @@
   {
     "Id": 174,
     "Name": "Bad Kissinger Hütte",
-    "Lat": 47.534444,
-    "Lng": 10.562778,
+    "Lat": 47.5344,
+    "Lng": 10.5628,
     "Altitude": 1788,
-    "Beds": 50,
+    "Beds": 57,
     "Rooms": [
       {
         "beds": 22,
@@ -3508,10 +3384,6 @@
       {
         "beds": 2,
         "label": "Dog room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -3522,8 +3394,8 @@
   {
     "Id": 176,
     "Name": "Calandahütte SAC",
-    "Lat": 46.883185,
-    "Lng": 9.482227,
+    "Lat": 46.8832,
+    "Lng": 9.4822,
     "Altitude": 2073,
     "Beds": 29,
     "Rooms": [
@@ -3540,18 +3412,14 @@
   {
     "Id": 177,
     "Name": "Kampthaler-Hütte",
-    "Lat": 48.3622794,
-    "Lng": 16.3993518,
+    "Lat": 48.3623,
+    "Lng": 16.3994,
     "Altitude": 313,
     "Beds": 1,
     "Rooms": [
       {
         "beds": 1,
         "label": "Matratzenlager"
-      },
-      {
-        "beds": 0,
-        "label": "Sonderkategorie"
       }
     ],
     "Country": "AT",
@@ -3562,10 +3430,10 @@
   {
     "Id": 178,
     "Name": "Kasseler Hütte (im Zillertal)",
-    "Lat": 47.06,
-    "Lng": 11.95,
+    "Lat": 47.0594,
+    "Lng": 11.9491,
     "Altitude": 2177,
-    "Beds": 85,
+    "Beds": 87,
     "Rooms": [
       {
         "beds": 66,
@@ -3588,8 +3456,8 @@
   {
     "Id": 179,
     "Name": "Pfeis-Hütte",
-    "Lat": 47.330036,
-    "Lng": 11.425489,
+    "Lat": 47.33,
+    "Lng": 11.4255,
     "Altitude": 1922,
     "Beds": 60,
     "Rooms": [
@@ -3632,8 +3500,8 @@
   {
     "Id": 181,
     "Name": "Brandenburger Haus",
-    "Lat": 46.84445,
-    "Lng": 10.77805,
+    "Lat": 46.8445,
+    "Lng": 10.7781,
     "Altitude": 3277,
     "Beds": 60,
     "Rooms": [
@@ -3654,8 +3522,8 @@
   {
     "Id": 182,
     "Name": "Chamonas d'Ela CAS",
-    "Lat": 46.618768,
-    "Lng": 9.691876,
+    "Lat": 46.6188,
+    "Lng": 9.6919,
     "Altitude": 2252,
     "Beds": 26,
     "Rooms": [
@@ -3672,10 +3540,10 @@
   {
     "Id": 183,
     "Name": "Göppinger Hütte",
-    "Lat": 47.214813,
-    "Lng": 10.045557,
+    "Lat": 47.2148,
+    "Lng": 10.0456,
     "Altitude": 2245,
-    "Beds": 69,
+    "Beds": 65,
     "Rooms": [
       {
         "beds": 38,
@@ -3694,10 +3562,10 @@
   {
     "Id": 184,
     "Name": "Stripsenjoch-Haus",
-    "Lat": 47.34,
-    "Lng": 12.18,
+    "Lat": 47.5772,
+    "Lng": 12.3107,
     "Altitude": 1580,
-    "Beds": 126,
+    "Beds": 136,
     "Rooms": [
       {
         "beds": 60,
@@ -3720,8 +3588,8 @@
   {
     "Id": 185,
     "Name": "Porze-Hütte",
-    "Lat": 46.659,
-    "Lng": 12.581,
+    "Lat": 46.6598,
+    "Lng": 12.5822,
     "Altitude": 1942,
     "Beds": 64,
     "Rooms": [
@@ -3742,10 +3610,10 @@
   {
     "Id": 188,
     "Name": "Barmer Hütte",
-    "Lat": 46.91722,
-    "Lng": 12.16904,
+    "Lat": 46.9172,
+    "Lng": 12.169,
     "Altitude": 2610,
-    "Beds": 38,
+    "Beds": 39,
     "Rooms": [
       {
         "beds": 24,
@@ -3764,8 +3632,8 @@
   {
     "Id": 190,
     "Name": "Sudetendeutsche Hütte",
-    "Lat": 47.049352,
-    "Lng": 12.576295,
+    "Lat": 47.0494,
+    "Lng": 12.5763,
     "Altitude": 2656,
     "Beds": 47,
     "Rooms": [
@@ -3790,10 +3658,10 @@
   {
     "Id": 191,
     "Name": "Jamtalhütte",
-    "Lat": 46.88676,
-    "Lng": 10.17645,
+    "Lat": 46.8868,
+    "Lng": 10.1765,
     "Altitude": 2165,
-    "Beds": 180,
+    "Beds": 182,
     "Rooms": [
       {
         "beds": 42,
@@ -3816,7 +3684,7 @@
   {
     "Id": 192,
     "Name": "Stuttgarter Hütte",
-    "Lat": 47.18041,
+    "Lat": 47.1804,
     "Lng": 10.2046,
     "Altitude": 2310,
     "Beds": 54,
@@ -3832,14 +3700,6 @@
       {
         "beds": 12,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 1"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -3850,8 +3710,8 @@
   {
     "Id": 195,
     "Name": "Kärlingerhaus",
-    "Lat": 47.495556,
-    "Lng": 12.937222,
+    "Lat": 47.4956,
+    "Lng": 12.9372,
     "Altitude": 1631,
     "Beds": 160,
     "Rooms": [
@@ -3876,8 +3736,8 @@
   {
     "Id": 196,
     "Name": "Grubenberghütte",
-    "Lat": 46.54939,
-    "Lng": 7.0,
+    "Lat": 46.5495,
+    "Lng": 7.2518,
     "Altitude": 1840,
     "Beds": 23,
     "Rooms": [
@@ -3894,18 +3754,14 @@
   {
     "Id": 197,
     "Name": "Capanna Corno-Gries CAS",
-    "Lat": 46.467017,
-    "Lng": 8.409994,
+    "Lat": 46.467,
+    "Lng": 8.41,
     "Altitude": 2338,
     "Beds": 46,
     "Rooms": [
       {
         "beds": 46,
         "label": "Massenlager"
-      },
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -3916,10 +3772,10 @@
   {
     "Id": 198,
     "Name": "Capanna Alzasca CAS",
-    "Lat": 46.271332,
-    "Lng": 8.589253,
+    "Lat": 46.2713,
+    "Lng": 8.5893,
     "Altitude": 1734,
-    "Beds": 20,
+    "Beds": 30,
     "Rooms": [
       {
         "beds": 20,
@@ -3938,8 +3794,8 @@
   {
     "Id": 200,
     "Name": "Straubinger Haus",
-    "Lat": 47.620128,
-    "Lng": 12.499493,
+    "Lat": 47.6201,
+    "Lng": 12.4995,
     "Altitude": 1558,
     "Beds": 50,
     "Rooms": [
@@ -3954,10 +3810,6 @@
       {
         "beds": 4,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -3968,10 +3820,10 @@
   {
     "Id": 201,
     "Name": "Bayreuther Hütte",
-    "Lat": 47.444722,
-    "Lng": 11.820833,
+    "Lat": 47.4447,
+    "Lng": 11.8208,
     "Altitude": 1576,
-    "Beds": 54,
+    "Beds": 49,
     "Rooms": [
       {
         "beds": 29,
@@ -3990,8 +3842,8 @@
   {
     "Id": 202,
     "Name": "Nördlinger Hütte",
-    "Lat": 47.320786,
-    "Lng": 11.236693,
+    "Lat": 47.3208,
+    "Lng": 11.2367,
     "Altitude": 2238,
     "Beds": 58,
     "Rooms": [
@@ -4002,14 +3854,6 @@
       {
         "beds": 24,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 1"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -4020,8 +3864,8 @@
   {
     "Id": 203,
     "Name": "Karl-von-Edel-Hütte",
-    "Lat": 47.07,
-    "Lng": 11.03,
+    "Lat": 47.1305,
+    "Lng": 11.8975,
     "Altitude": 2238,
     "Beds": 60,
     "Rooms": [
@@ -4032,10 +3876,6 @@
       {
         "beds": 20,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -4046,10 +3886,10 @@
   {
     "Id": 204,
     "Name": "Schreckhornhütte SAC",
-    "Lat": 46.582222,
-    "Lng": 8.098848,
+    "Lat": 46.5822,
+    "Lng": 8.0988,
     "Altitude": 2530,
-    "Beds": 56,
+    "Beds": 72,
     "Rooms": [
       {
         "beds": 56,
@@ -4068,10 +3908,10 @@
   {
     "Id": 205,
     "Name": "Rastkogelhütte",
-    "Lat": 47.232162,
-    "Lng": 11.788416,
+    "Lat": 47.2322,
+    "Lng": 11.7884,
     "Altitude": 2124,
-    "Beds": 58,
+    "Beds": 54,
     "Rooms": [
       {
         "beds": 32,
@@ -4094,10 +3934,10 @@
   {
     "Id": 206,
     "Name": "Brochhütte",
-    "Lat": 46.68073,
-    "Lng": 8.13902,
+    "Lat": 46.6807,
+    "Lng": 8.139,
     "Altitude": 1499,
-    "Beds": 43,
+    "Beds": 41,
     "Rooms": [
       {
         "beds": 23,
@@ -4124,10 +3964,10 @@
   {
     "Id": 207,
     "Name": "Plauener Hütte",
-    "Lat": 47.118333,
-    "Lng": 12.096111,
+    "Lat": 47.1183,
+    "Lng": 12.0961,
     "Altitude": 2363,
-    "Beds": 71,
+    "Beds": 75,
     "Rooms": [
       {
         "beds": 43,
@@ -4154,10 +3994,10 @@
   {
     "Id": 208,
     "Name": "Almagellerhütte SAC",
-    "Lat": 46.107616,
-    "Lng": 8.007675,
+    "Lat": 46.1076,
+    "Lng": 8.0077,
     "Altitude": 2894,
-    "Beds": 120,
+    "Beds": 129,
     "Rooms": [
       {
         "beds": 120,
@@ -4176,10 +4016,10 @@
   {
     "Id": 209,
     "Name": "Weissmieshütten SAC",
-    "Lat": 46.143814,
-    "Lng": 7.977938,
+    "Lat": 46.1438,
+    "Lng": 7.9779,
     "Altitude": 2726,
-    "Beds": 99,
+    "Beds": 90,
     "Rooms": [
       {
         "beds": 90,
@@ -4195,7 +4035,7 @@
     "Id": 210,
     "Name": "Brünnsteinhaus",
     "Lat": 47.6446,
-    "Lng": 12.09845,
+    "Lng": 12.0984,
     "Altitude": 1360,
     "Beds": 48,
     "Rooms": [
@@ -4220,8 +4060,8 @@
   {
     "Id": 211,
     "Name": "Zeller-Hütte",
-    "Lat": 47.678,
-    "Lng": 14.226,
+    "Lat": 47.6785,
+    "Lng": 14.2268,
     "Altitude": 1575,
     "Beds": 28,
     "Rooms": [
@@ -4242,10 +4082,10 @@
   {
     "Id": 212,
     "Name": "Tutzinger Hütte",
-    "Lat": 47.657722,
-    "Lng": 11.462417,
+    "Lat": 47.6577,
+    "Lng": 11.4624,
     "Altitude": 1327,
-    "Beds": 91,
+    "Beds": 104,
     "Rooms": [
       {
         "beds": 33,
@@ -4268,10 +4108,10 @@
   {
     "Id": 213,
     "Name": "Finsteraarhornhütte SAC",
-    "Lat": 46.52,
-    "Lng": 8.11,
+    "Lat": 46.5221,
+    "Lng": 8.1145,
     "Altitude": 3048,
-    "Beds": 116,
+    "Beds": 126,
     "Rooms": [
       {
         "beds": 116,
@@ -4291,9 +4131,9 @@
     "Id": 214,
     "Name": "Windegghütte SAC",
     "Lat": 46.695,
-    "Lng": 8.34803,
+    "Lng": 8.348,
     "Altitude": 1887,
-    "Beds": 36,
+    "Beds": 45,
     "Rooms": [
       {
         "beds": 36,
@@ -4313,9 +4153,9 @@
     "Id": 215,
     "Name": "Landsberger Hütte",
     "Lat": 47.4451,
-    "Lng": 10.51438,
+    "Lng": 10.5144,
     "Altitude": 1810,
-    "Beds": 135,
+    "Beds": 128,
     "Rooms": [
       {
         "beds": 95,
@@ -4334,8 +4174,8 @@
   {
     "Id": 216,
     "Name": "Weidener Hütte",
-    "Lat": 47.223772,
-    "Lng": 11.708977,
+    "Lat": 47.2238,
+    "Lng": 11.709,
     "Altitude": 1799,
     "Beds": 56,
     "Rooms": [
@@ -4360,8 +4200,8 @@
   {
     "Id": 217,
     "Name": "Friedrichshafener Hütte",
-    "Lat": 46.994722,
-    "Lng": 10.215833,
+    "Lat": 46.9947,
+    "Lng": 10.2158,
     "Altitude": 2138,
     "Beds": 55,
     "Rooms": [
@@ -4378,8 +4218,8 @@
   {
     "Id": 218,
     "Name": "Bodenschneidhaus",
-    "Lat": 47.67891,
-    "Lng": 11.84845,
+    "Lat": 47.6789,
+    "Lng": 11.8484,
     "Altitude": 1365,
     "Beds": 48,
     "Rooms": [
@@ -4404,10 +4244,10 @@
   {
     "Id": 219,
     "Name": "Simony-Hütte",
-    "Lat": 47.5,
-    "Lng": 13.62,
+    "Lat": 47.5009,
+    "Lng": 13.6241,
     "Altitude": 2203,
-    "Beds": 94,
+    "Beds": 77,
     "Rooms": [
       {
         "beds": 59,
@@ -4420,10 +4260,6 @@
       {
         "beds": 10,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category"
       }
     ],
     "Country": "AT",
@@ -4434,18 +4270,14 @@
   {
     "Id": 220,
     "Name": "Stüdlhütte",
-    "Lat": 47.05494,
-    "Lng": 12.68159,
+    "Lat": 47.0549,
+    "Lng": 12.6816,
     "Altitude": 2802,
     "Beds": 118,
     "Rooms": [
       {
         "beds": 118,
         "label": "Dormitory"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced mode"
       }
     ],
     "Country": "DE",
@@ -4456,10 +4288,10 @@
   {
     "Id": 221,
     "Name": "Capanna Motterascio CAS",
-    "Lat": 46.594167,
+    "Lat": 46.5942,
     "Lng": 9.0005,
     "Altitude": 2172,
-    "Beds": 70,
+    "Beds": 80,
     "Rooms": [
       {
         "beds": 70,
@@ -4478,8 +4310,8 @@
   {
     "Id": 222,
     "Name": "Biberacher Hütte",
-    "Lat": 47.257716,
-    "Lng": 10.02868,
+    "Lat": 47.2577,
+    "Lng": 10.0287,
     "Altitude": 1846,
     "Beds": 70,
     "Rooms": [
@@ -4500,7 +4332,7 @@
   {
     "Id": 223,
     "Name": "Gleiwitzer Hütte",
-    "Lat": 47.21827,
+    "Lat": 47.2183,
     "Lng": 12.769,
     "Altitude": 2176,
     "Beds": 45,
@@ -4516,10 +4348,6 @@
       {
         "beds": 2,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Dog room"
       }
     ],
     "Country": "DE",
@@ -4530,10 +4358,10 @@
   {
     "Id": 224,
     "Name": "Wanderheim Kreuzmoos",
-    "Lat": 48.18936,
-    "Lng": 7.97712,
+    "Lat": 48.1894,
+    "Lng": 7.9771,
     "Altitude": 725,
-    "Beds": 50,
+    "Beds": 49,
     "Rooms": [
       {
         "beds": 22,
@@ -4560,10 +4388,10 @@
   {
     "Id": 226,
     "Name": "Cabane des Vignettes CAS",
-    "Lat": 45.989976,
-    "Lng": 7.474725,
+    "Lat": 45.99,
+    "Lng": 7.4747,
     "Altitude": 3160,
-    "Beds": 100,
+    "Beds": 114,
     "Rooms": [
       {
         "beds": 100,
@@ -4586,10 +4414,10 @@
   {
     "Id": 227,
     "Name": "Salbithütte SAC",
-    "Lat": 46.676423,
-    "Lng": 8.551785,
+    "Lat": 46.6764,
+    "Lng": 8.5518,
     "Altitude": 2105,
-    "Beds": 56,
+    "Beds": 66,
     "Rooms": [
       {
         "beds": 56,
@@ -4608,10 +4436,10 @@
   {
     "Id": 228,
     "Name": "Dammahütte SAC",
-    "Lat": 46.644864,
-    "Lng": 8.457761,
+    "Lat": 46.6449,
+    "Lng": 8.4578,
     "Altitude": 2439,
-    "Beds": 19,
+    "Beds": 29,
     "Rooms": [
       {
         "beds": 19,
@@ -4631,9 +4459,9 @@
     "Id": 229,
     "Name": "Muttseehütte SAC",
     "Lat": 46.8575,
-    "Lng": 9.01875,
+    "Lng": 9.0188,
     "Altitude": 2501,
-    "Beds": 76,
+    "Beds": 50,
     "Rooms": [
       {
         "beds": 42,
@@ -4660,10 +4488,10 @@
   {
     "Id": 230,
     "Name": "Oberetteshütte",
-    "Lat": 46.764801,
-    "Lng": 10.711189,
+    "Lat": 46.7648,
+    "Lng": 10.7112,
     "Altitude": 2670,
-    "Beds": 80,
+    "Beds": 56,
     "Rooms": [
       {
         "beds": 23,
@@ -4682,7 +4510,7 @@
   {
     "Id": 231,
     "Name": "Taschachhaus",
-    "Lat": 46.90985,
+    "Lat": 46.9098,
     "Lng": 10.8176,
     "Altitude": 2434,
     "Beds": 154,
@@ -4690,18 +4518,6 @@
       {
         "beds": 154,
         "label": "Dormitory"
-      },
-      {
-        "beds": 0,
-        "label": "Shared bedroom"
-      },
-      {
-        "beds": 0,
-        "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -4713,7 +4529,7 @@
     "Id": 232,
     "Name": "Passauer Hütte",
     "Lat": 47.4742,
-    "Lng": 12.750405,
+    "Lng": 12.7504,
     "Altitude": 2051,
     "Beds": 50,
     "Rooms": [
@@ -4737,7 +4553,7 @@
     "Lat": 46.8684,
     "Lng": 10.1161,
     "Altitude": 2443,
-    "Beds": 160,
+    "Beds": 150,
     "Rooms": [
       {
         "beds": 80,
@@ -4756,10 +4572,10 @@
   {
     "Id": 235,
     "Name": "Augsburger Hütte",
-    "Lat": 47.16,
-    "Lng": 10.49,
+    "Lat": 47.1666,
+    "Lng": 10.4938,
     "Altitude": 2298,
-    "Beds": 54,
+    "Beds": 48,
     "Rooms": [
       {
         "beds": 36,
@@ -4778,10 +4594,10 @@
   {
     "Id": 236,
     "Name": "Tübinger Hütte",
-    "Lat": 46.911669,
-    "Lng": 10.003486,
+    "Lat": 46.9117,
+    "Lng": 10.0035,
     "Altitude": 2193,
-    "Beds": 80,
+    "Beds": 84,
     "Rooms": [
       {
         "beds": 35,
@@ -4790,14 +4606,6 @@
       {
         "beds": 49,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 1"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -4808,10 +4616,10 @@
   {
     "Id": 237,
     "Name": "Neue Thüringer Hütte",
-    "Lat": 47.172778,
-    "Lng": 12.383333,
+    "Lat": 47.1728,
+    "Lng": 12.3833,
     "Altitude": 2240,
-    "Beds": 71,
+    "Beds": 76,
     "Rooms": [
       {
         "beds": 50,
@@ -4834,8 +4642,8 @@
   {
     "Id": 238,
     "Name": "Vernagthütte",
-    "Lat": 46.853611,
-    "Lng": 10.823889,
+    "Lat": 46.8536,
+    "Lng": 10.8239,
     "Altitude": 2755,
     "Beds": 74,
     "Rooms": [
@@ -4856,7 +4664,7 @@
   {
     "Id": 239,
     "Name": "Pforzheimer Hütte",
-    "Lat": 47.09283,
+    "Lat": 47.0928,
     "Lng": 11.0435,
     "Altitude": 2308,
     "Beds": 53,
@@ -4886,10 +4694,10 @@
   {
     "Id": 240,
     "Name": "Camona da Punteglias CAS",
-    "Lat": 46.77722,
-    "Lng": 8.95607,
+    "Lat": 46.7772,
+    "Lng": 8.9561,
     "Altitude": 2311,
-    "Beds": 26,
+    "Beds": 44,
     "Rooms": [
       {
         "beds": 26,
@@ -4908,8 +4716,8 @@
   {
     "Id": 241,
     "Name": "Fergenhütte SAC",
-    "Lat": 46.86,
-    "Lng": 9.96,
+    "Lat": 46.869,
+    "Lng": 9.9648,
     "Altitude": 2141,
     "Beds": 21,
     "Rooms": [
@@ -4944,8 +4752,8 @@
   {
     "Id": 243,
     "Name": "Lobhornhütte",
-    "Lat": 46.618478,
-    "Lng": 7.868928,
+    "Lat": 46.6185,
+    "Lng": 7.8689,
     "Altitude": 1955,
     "Beds": 24,
     "Rooms": [
@@ -4962,10 +4770,10 @@
   {
     "Id": 244,
     "Name": "Spannorthütte SAC",
-    "Lat": 46.799824,
-    "Lng": 8.509767,
+    "Lat": 46.7998,
+    "Lng": 8.5098,
     "Altitude": 1956,
-    "Beds": 40,
+    "Beds": 45,
     "Rooms": [
       {
         "beds": 36,
@@ -4984,8 +4792,8 @@
   {
     "Id": 246,
     "Name": "Ramozhütte SAC",
-    "Lat": 46.73109,
-    "Lng": 9.64372,
+    "Lat": 46.7311,
+    "Lng": 9.6437,
     "Altitude": 2293,
     "Beds": 23,
     "Rooms": [
@@ -5002,8 +4810,8 @@
   {
     "Id": 248,
     "Name": "Rieder Hütte",
-    "Lat": 47.804032,
-    "Lng": 13.676637,
+    "Lat": 47.804,
+    "Lng": 13.6766,
     "Altitude": 1765,
     "Beds": 32,
     "Rooms": [
@@ -5028,10 +4836,10 @@
   {
     "Id": 253,
     "Name": "Ybbstaler-Hütte",
-    "Lat": 47.80724,
-    "Lng": 15.025475,
+    "Lat": 47.8072,
+    "Lng": 15.0255,
     "Altitude": 1343,
-    "Beds": 43,
+    "Beds": 45,
     "Rooms": [
       {
         "beds": 12,
@@ -5058,8 +4866,8 @@
   {
     "Id": 254,
     "Name": "Bifertenhütte AACB",
-    "Lat": 46.814491,
-    "Lng": 9.026486,
+    "Lat": 46.8145,
+    "Lng": 9.0265,
     "Altitude": 2482,
     "Beds": 23,
     "Rooms": [
@@ -5076,8 +4884,8 @@
   {
     "Id": 256,
     "Name": "DAV-Haus-Spitzingsee",
-    "Lat": 47.669957,
-    "Lng": 11.882484,
+    "Lat": 47.67,
+    "Lng": 11.8825,
     "Altitude": 1124,
     "Beds": 88,
     "Rooms": [
@@ -5102,7 +4910,7 @@
   {
     "Id": 257,
     "Name": "Hochfeilerhütte",
-    "Lat": 46.962,
+    "Lat": 46.9624,
     "Lng": 11.7085,
     "Altitude": 2715,
     "Beds": 88,
@@ -5124,8 +4932,8 @@
   {
     "Id": 258,
     "Name": "Jonsdorfer Hütte",
-    "Lat": 50.8594403,
-    "Lng": 14.6997074,
+    "Lat": 50.8594,
+    "Lng": 14.6997,
     "Altitude": 452,
     "Beds": 21,
     "Rooms": [
@@ -5150,10 +4958,10 @@
   {
     "Id": 259,
     "Name": "Voralphütte SAC",
-    "Lat": 46.690552,
-    "Lng": 8.487712,
+    "Lat": 46.6906,
+    "Lng": 8.4877,
     "Altitude": 2126,
-    "Beds": 40,
+    "Beds": 58,
     "Rooms": [
       {
         "beds": 40,
@@ -5172,10 +4980,10 @@
   {
     "Id": 260,
     "Name": "Guttenberg-Haus",
-    "Lat": 47.450945,
-    "Lng": 13.683718,
+    "Lat": 47.4509,
+    "Lng": 13.6837,
     "Altitude": 2146,
-    "Beds": 65,
+    "Beds": 49,
     "Rooms": [
       {
         "beds": 27,
@@ -5192,10 +5000,6 @@
       {
         "beds": 1,
         "label": "Hundezimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Unbewirtschafteter Modus"
       }
     ],
     "Country": "AT",
@@ -5206,8 +5010,8 @@
   {
     "Id": 261,
     "Name": "Seethalerhütte",
-    "Lat": 47.473614,
-    "Lng": 13.612779,
+    "Lat": 47.4736,
+    "Lng": 13.6128,
     "Altitude": 2740,
     "Beds": 21,
     "Rooms": [
@@ -5218,10 +5022,6 @@
       {
         "beds": 6,
         "label": "Mehrbettzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Unbewirtschafteter Modus"
       }
     ],
     "Country": "AT",
@@ -5262,8 +5062,8 @@
   {
     "Id": 263,
     "Name": "Winteregghütte",
-    "Lat": 46.460438,
-    "Lng": 7.649975,
+    "Lat": 46.4604,
+    "Lng": 7.65,
     "Altitude": 1897,
     "Beds": 30,
     "Rooms": [
@@ -5280,10 +5080,10 @@
   {
     "Id": 264,
     "Name": "Binntalhütte SAC",
-    "Lat": 46.374922,
-    "Lng": 8.291807,
+    "Lat": 46.3749,
+    "Lng": 8.2918,
     "Altitude": 2265,
-    "Beds": 50,
+    "Beds": 98,
     "Rooms": [
       {
         "beds": 48,
@@ -5306,8 +5106,8 @@
   {
     "Id": 266,
     "Name": "Zittauer Hütte",
-    "Lat": 47.163473,
-    "Lng": 12.124178,
+    "Lat": 47.1635,
+    "Lng": 12.1242,
     "Altitude": 2328,
     "Beds": 59,
     "Rooms": [
@@ -5335,7 +5135,7 @@
     "Lat": 46.6124,
     "Lng": 12.867,
     "Altitude": 1960,
-    "Beds": 64,
+    "Beds": 55,
     "Rooms": [
       {
         "beds": 34,
@@ -5348,10 +5148,6 @@
       {
         "beds": 2,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -5362,8 +5158,8 @@
   {
     "Id": 268,
     "Name": "Obstansersee-Hütte",
-    "Lat": 46.684367,
-    "Lng": 12.493746,
+    "Lat": 46.6844,
+    "Lng": 12.4937,
     "Altitude": 2304,
     "Beds": 60,
     "Rooms": [
@@ -5384,10 +5180,10 @@
   {
     "Id": 269,
     "Name": "Sewenhütte SAC",
-    "Lat": 46.74,
-    "Lng": 8.52,
+    "Lat": 46.7467,
+    "Lng": 8.5212,
     "Altitude": 2150,
-    "Beds": 58,
+    "Beds": 73,
     "Rooms": [
       {
         "beds": 56,
@@ -5406,10 +5202,10 @@
   {
     "Id": 270,
     "Name": "Prinz-Luitpoldhaus",
-    "Lat": 47.392477,
-    "Lng": 10.420012,
+    "Lat": 47.3925,
+    "Lng": 10.42,
     "Altitude": 1846,
-    "Beds": 160,
+    "Beds": 150,
     "Rooms": [
       {
         "beds": 104,
@@ -5418,10 +5214,6 @@
       {
         "beds": 46,
         "label": "Mehrbettzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Sonderkategorie 2"
       }
     ],
     "Country": "DE",
@@ -5432,10 +5224,10 @@
   {
     "Id": 271,
     "Name": "Kaunergrathütte",
-    "Lat": 46.993889,
-    "Lng": 10.806944,
+    "Lat": 46.9939,
+    "Lng": 10.8069,
     "Altitude": 2817,
-    "Beds": 59,
+    "Beds": 67,
     "Rooms": [
       {
         "beds": 36,
@@ -5463,9 +5255,9 @@
     "Id": 272,
     "Name": "Otto- Mayr-Hütte",
     "Lat": 47.5931,
-    "Lng": 10.61855,
+    "Lng": 10.6186,
     "Altitude": 1530,
-    "Beds": 60,
+    "Beds": 58,
     "Rooms": [
       {
         "beds": 19,
@@ -5507,9 +5299,9 @@
     "Id": 274,
     "Name": "Kröntenhütte SAC",
     "Lat": 46.8001,
-    "Lng": 8.57543,
+    "Lng": 8.5754,
     "Altitude": 1903,
-    "Beds": 70,
+    "Beds": 94,
     "Rooms": [
       {
         "beds": 76,
@@ -5528,10 +5320,10 @@
   {
     "Id": 275,
     "Name": "Neue Regensburger Hütte",
-    "Lat": 47.054707,
-    "Lng": 11.198342,
+    "Lat": 47.0547,
+    "Lng": 11.1983,
     "Altitude": 2286,
-    "Beds": 101,
+    "Beds": 104,
     "Rooms": [
       {
         "beds": 39,
@@ -5558,18 +5350,14 @@
   {
     "Id": 276,
     "Name": "Sesvennahütte",
-    "Lat": 46.73449,
-    "Lng": 10.43552,
+    "Lat": 46.7345,
+    "Lng": 10.4355,
     "Altitude": 2256,
-    "Beds": 58,
+    "Beds": 48,
     "Rooms": [
       {
         "beds": 48,
         "label": "shared bedrooms"
-      },
-      {
-        "beds": 0,
-        "label": "Unbewirtschafteter Betrieb"
       }
     ],
     "Country": "IT",
@@ -5580,8 +5368,8 @@
   {
     "Id": 277,
     "Name": "Cabane de l'A Neuve CAS",
-    "Lat": 45.949231,
-    "Lng": 7.066975,
+    "Lat": 45.9492,
+    "Lng": 7.067,
     "Altitude": 2735,
     "Beds": 20,
     "Rooms": [
@@ -5598,10 +5386,10 @@
   {
     "Id": 278,
     "Name": "Cabane du Mountet CAS",
-    "Lat": 46.060689,
-    "Lng": 7.653619,
+    "Lat": 46.0607,
+    "Lng": 7.6536,
     "Altitude": 2886,
-    "Beds": 90,
+    "Beds": 95,
     "Rooms": [
       {
         "beds": 75,
@@ -5620,8 +5408,8 @@
   {
     "Id": 279,
     "Name": "Cabane d'Orny CAS",
-    "Lat": 46.000705,
-    "Lng": 7.034627,
+    "Lat": 46.0007,
+    "Lng": 7.0346,
     "Altitude": 2831,
     "Beds": 80,
     "Rooms": [
@@ -5638,8 +5426,8 @@
   {
     "Id": 280,
     "Name": "Cabane Rambert CAS",
-    "Lat": 46.230205,
-    "Lng": 7.134205,
+    "Lat": 46.2302,
+    "Lng": 7.1342,
     "Altitude": 2582,
     "Beds": 38,
     "Rooms": [
@@ -5656,8 +5444,8 @@
   {
     "Id": 281,
     "Name": "Cabane du Trient CAS",
-    "Lat": 46.000063,
-    "Lng": 7.043639,
+    "Lat": 46.0001,
+    "Lng": 7.0436,
     "Altitude": 3170,
     "Beds": 90,
     "Rooms": [
@@ -5674,10 +5462,10 @@
   {
     "Id": 282,
     "Name": "Haus und Hütte Hammer",
-    "Lat": 47.70373,
-    "Lng": 11.94016,
+    "Lat": 47.7037,
+    "Lng": 11.9402,
     "Altitude": 750,
-    "Beds": 81,
+    "Beds": 95,
     "Rooms": [
       {
         "beds": 14,
@@ -5700,8 +5488,8 @@
   {
     "Id": 283,
     "Name": "Potsdamer Hütte",
-    "Lat": 47.14,
-    "Lng": 11.2,
+    "Lat": 47.1432,
+    "Lng": 11.2083,
     "Altitude": 2020,
     "Beds": 40,
     "Rooms": [
@@ -5730,8 +5518,8 @@
   {
     "Id": 284,
     "Name": "Schlernbödelehütte",
-    "Lat": 46.52,
-    "Lng": 11.58,
+    "Lat": 46.5223,
+    "Lng": 11.5836,
     "Altitude": 1693,
     "Beds": 20,
     "Rooms": [
@@ -5748,10 +5536,10 @@
   {
     "Id": 285,
     "Name": "Radlseehütte",
-    "Lat": 46.707917,
-    "Lng": 11.580207,
+    "Lat": 46.7079,
+    "Lng": 11.5802,
     "Altitude": 2284,
-    "Beds": 40,
+    "Beds": 39,
     "Rooms": [
       {
         "beds": 15,
@@ -5778,8 +5566,8 @@
   {
     "Id": 286,
     "Name": "Brunnenkopfhäuser",
-    "Lat": 47.581269,
-    "Lng": 10.927067,
+    "Lat": 47.5813,
+    "Lng": 10.9271,
     "Altitude": 1602,
     "Beds": 26,
     "Rooms": [
@@ -5796,8 +5584,8 @@
   {
     "Id": 287,
     "Name": "Soiernhaus",
-    "Lat": 47.49,
-    "Lng": 11.35,
+    "Lat": 47.4939,
+    "Lng": 11.3485,
     "Altitude": 1616,
     "Beds": 45,
     "Rooms": [
@@ -5814,8 +5602,8 @@
   {
     "Id": 288,
     "Name": "Bivouac de l'Envers des Dorées",
-    "Lat": 45.979796,
-    "Lng": 7.048766,
+    "Lat": 45.9798,
+    "Lng": 7.0488,
     "Altitude": 2983,
     "Beds": 18,
     "Rooms": [
@@ -5832,8 +5620,8 @@
   {
     "Id": 290,
     "Name": "Chamanna Georgy",
-    "Lat": 46.487882,
-    "Lng": 9.955766,
+    "Lat": 46.4879,
+    "Lng": 9.9558,
     "Altitude": 3175,
     "Beds": 20,
     "Rooms": [
@@ -5850,10 +5638,10 @@
   {
     "Id": 292,
     "Name": "Kürsinger-Hütte",
-    "Lat": 47.122847,
-    "Lng": 12.300099,
+    "Lat": 47.1228,
+    "Lng": 12.3001,
     "Altitude": 2558,
-    "Beds": 140,
+    "Beds": 112,
     "Rooms": [
       {
         "beds": 65,
@@ -5876,8 +5664,8 @@
   {
     "Id": 293,
     "Name": "Carl-von-Stahl-Haus",
-    "Lat": 47.57475,
-    "Lng": 13.042617,
+    "Lat": 47.5748,
+    "Lng": 13.0426,
     "Altitude": 1736,
     "Beds": 113,
     "Rooms": [
@@ -5892,10 +5680,6 @@
       {
         "beds": 10,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category"
       }
     ],
     "Country": "AT",
@@ -5906,8 +5690,8 @@
   {
     "Id": 294,
     "Name": "Sölden-Hütte",
-    "Lat": 47.484067,
-    "Lng": 13.290367,
+    "Lat": 47.4841,
+    "Lng": 13.2904,
     "Altitude": 1550,
     "Beds": 24,
     "Rooms": [
@@ -5922,10 +5706,6 @@
       {
         "beds": 2,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -5936,8 +5716,8 @@
   {
     "Id": 295,
     "Name": "Zeppezauer-Haus",
-    "Lat": 47.724573,
-    "Lng": 13.007448,
+    "Lat": 47.7246,
+    "Lng": 13.0074,
     "Altitude": 1663,
     "Beds": 34,
     "Rooms": [
@@ -5962,10 +5742,10 @@
   {
     "Id": 297,
     "Name": "Lindauer Hütte",
-    "Lat": 47.034547,
-    "Lng": 9.835456,
+    "Lat": 47.0345,
+    "Lng": 9.8355,
     "Altitude": 1744,
-    "Beds": 164,
+    "Beds": 167,
     "Rooms": [
       {
         "beds": 66,
@@ -5978,10 +5758,6 @@
       {
         "beds": 11,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced mode"
       }
     ],
     "Country": "DE",
@@ -5992,8 +5768,8 @@
   {
     "Id": 298,
     "Name": "Württembergerhaus",
-    "Lat": 47.210277,
-    "Lng": 10.535555,
+    "Lat": 47.2103,
+    "Lng": 10.5356,
     "Altitude": 2220,
     "Beds": 59,
     "Rooms": [
@@ -6018,8 +5794,8 @@
   {
     "Id": 299,
     "Name": "Sepp-Sollner-Hütte",
-    "Lat": 47.52348,
-    "Lng": 10.768112,
+    "Lat": 47.5235,
+    "Lng": 10.7681,
     "Altitude": 1600,
     "Beds": 8,
     "Rooms": [
@@ -6036,10 +5812,10 @@
   {
     "Id": 300,
     "Name": "Oberwalder-Hütte",
-    "Lat": 47.105367,
-    "Lng": 12.715533,
+    "Lat": 47.1054,
+    "Lng": 12.7155,
     "Altitude": 2973,
-    "Beds": 110,
+    "Beds": 95,
     "Rooms": [
       {
         "beds": 65,
@@ -6052,10 +5828,6 @@
       {
         "beds": 10,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category"
       }
     ],
     "Country": "AT",
@@ -6066,10 +5838,10 @@
   {
     "Id": 301,
     "Name": "Tiefrastenhütte",
-    "Lat": 46.87628,
-    "Lng": 11.78159,
+    "Lat": 46.8763,
+    "Lng": 11.7816,
     "Altitude": 2312,
-    "Beds": 50,
+    "Beds": 20,
     "Rooms": [
       {
         "beds": 20,
@@ -6084,10 +5856,10 @@
   {
     "Id": 303,
     "Name": "Alpenrose-Hütte Zillertal",
-    "Lat": 47.025345,
-    "Lng": 11.801511,
+    "Lat": 47.0253,
+    "Lng": 11.8015,
     "Altitude": 1878,
-    "Beds": 73,
+    "Beds": 74,
     "Rooms": [
       {
         "beds": 20,
@@ -6104,10 +5876,6 @@
       {
         "beds": 5,
         "label": "Single room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category"
       }
     ],
     "Country": "AT",
@@ -6121,7 +5889,7 @@
     "Lat": 46.596,
     "Lng": 7.4996,
     "Altitude": 1120,
-    "Beds": 38,
+    "Beds": 76,
     "Rooms": [
       {
         "beds": 38,
@@ -6140,8 +5908,8 @@
   {
     "Id": 305,
     "Name": "Tierberglihütte SAC",
-    "Lat": 46.702072,
-    "Lng": 8.414224,
+    "Lat": 46.7021,
+    "Lng": 8.4142,
     "Altitude": 2795,
     "Beds": 78,
     "Rooms": [
@@ -6158,8 +5926,8 @@
   {
     "Id": 306,
     "Name": "Hess-Hütte",
-    "Lat": 47.56,
-    "Lng": 14.65,
+    "Lat": 47.5561,
+    "Lng": 14.6605,
     "Altitude": 1699,
     "Beds": 99,
     "Rooms": [
@@ -6184,8 +5952,8 @@
   {
     "Id": 308,
     "Name": "Schönbielhütte SAC",
-    "Lat": 46.00198,
-    "Lng": 7.628976,
+    "Lat": 46.002,
+    "Lng": 7.629,
     "Altitude": 2694,
     "Beds": 45,
     "Rooms": [
@@ -6202,10 +5970,10 @@
   {
     "Id": 309,
     "Name": "Saarbrücker Hütte",
-    "Lat": 46.89845,
-    "Lng": 10.03605,
+    "Lat": 46.8984,
+    "Lng": 10.036,
     "Altitude": 2538,
-    "Beds": 74,
+    "Beds": 64,
     "Rooms": [
       {
         "beds": 30,
@@ -6224,10 +5992,10 @@
   {
     "Id": 310,
     "Name": "Dreischusterhütte",
-    "Lat": 46.67453,
-    "Lng": 12.29722,
+    "Lat": 46.6745,
+    "Lng": 12.2972,
     "Altitude": 1639,
-    "Beds": 47,
+    "Beds": 50,
     "Rooms": [
       {
         "beds": 27,
@@ -6240,10 +6008,6 @@
       {
         "beds": 8,
         "label": "Zweierzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Vierbettzimmer"
       }
     ],
     "Country": "IT",
@@ -6254,8 +6018,8 @@
   {
     "Id": 311,
     "Name": "Cabane du Mont d’Or",
-    "Lat": 46.722757,
-    "Lng": 6.336052,
+    "Lat": 46.7228,
+    "Lng": 6.3361,
     "Altitude": 1377,
     "Beds": 20,
     "Rooms": [
@@ -6272,8 +6036,8 @@
   {
     "Id": 312,
     "Name": "Gruebenhütte AACBs",
-    "Lat": 46.60589,
-    "Lng": 8.259318,
+    "Lat": 46.6059,
+    "Lng": 8.2593,
     "Altitude": 2512,
     "Beds": 16,
     "Rooms": [
@@ -6294,8 +6058,8 @@
   {
     "Id": 316,
     "Name": "Fraganter Schutzhaus",
-    "Lat": 46.950921,
-    "Lng": 13.027661,
+    "Lat": 46.9509,
+    "Lng": 13.0277,
     "Altitude": 1810,
     "Beds": 72,
     "Rooms": [
@@ -6320,8 +6084,8 @@
   {
     "Id": 317,
     "Name": "Franz-Fischer-Hütte",
-    "Lat": 47.200214,
-    "Lng": 13.36455,
+    "Lat": 47.2002,
+    "Lng": 13.3645,
     "Altitude": 2020,
     "Beds": 45,
     "Rooms": [
@@ -6338,8 +6102,8 @@
   {
     "Id": 318,
     "Name": "Vermigelhütte",
-    "Lat": 46.59709,
-    "Lng": 8.65678,
+    "Lat": 46.5971,
+    "Lng": 8.6568,
     "Altitude": 2042,
     "Beds": 34,
     "Rooms": [
@@ -6356,8 +6120,8 @@
   {
     "Id": 319,
     "Name": "Niedersachsenhaus",
-    "Lat": 47.060278,
-    "Lng": 13.010278,
+    "Lat": 47.0603,
+    "Lng": 13.0103,
     "Altitude": 2471,
     "Beds": 54,
     "Rooms": [
@@ -6382,8 +6146,8 @@
   {
     "Id": 320,
     "Name": "Innsbrucker Hütte",
-    "Lat": 47.043137,
-    "Lng": 11.310835,
+    "Lat": 47.0431,
+    "Lng": 11.3108,
     "Altitude": 2369,
     "Beds": 98,
     "Rooms": [
@@ -6404,10 +6168,10 @@
   {
     "Id": 323,
     "Name": "Erfurter Hütte",
-    "Lat": 47.441667,
-    "Lng": 11.763056,
+    "Lat": 47.4417,
+    "Lng": 11.7631,
     "Altitude": 1834,
-    "Beds": 83,
+    "Beds": 85,
     "Rooms": [
       {
         "beds": 50,
@@ -6424,14 +6188,6 @@
       {
         "beds": 2,
         "label": "Dog room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 1"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -6442,8 +6198,8 @@
   {
     "Id": 324,
     "Name": "Traunsteiner Skihütte/ Winklmoosalm",
-    "Lat": 47.65,
-    "Lng": 12.58,
+    "Lat": 47.658,
+    "Lng": 12.5845,
     "Altitude": 1160,
     "Beds": 25,
     "Rooms": [
@@ -6468,8 +6224,8 @@
   {
     "Id": 326,
     "Name": "Sunnehüsi",
-    "Lat": 46.64372,
-    "Lng": 7.44615,
+    "Lat": 46.6437,
+    "Lng": 7.4462,
     "Altitude": 1125,
     "Beds": 15,
     "Rooms": [
@@ -6494,10 +6250,10 @@
   {
     "Id": 327,
     "Name": "Schneibsteinhaus",
-    "Lat": 47.572147,
-    "Lng": 13.039249,
+    "Lat": 47.5721,
+    "Lng": 13.0392,
     "Altitude": 1670,
-    "Beds": 66,
+    "Beds": 24,
     "Rooms": [
       {
         "beds": 8,
@@ -6520,7 +6276,7 @@
   {
     "Id": 328,
     "Name": "Hochweißstein-Haus",
-    "Lat": 46.64307,
+    "Lat": 46.6431,
     "Lng": 12.7401,
     "Altitude": 1868,
     "Beds": 52,
@@ -6542,8 +6298,8 @@
   {
     "Id": 330,
     "Name": "Clubhaus Metsch",
-    "Lat": 46.44,
-    "Lng": 7.46,
+    "Lat": 46.5092,
+    "Lng": 7.6117,
     "Altitude": 1775,
     "Beds": 16,
     "Rooms": [
@@ -6560,10 +6316,10 @@
   {
     "Id": 332,
     "Name": "Medelserhütte SAC",
-    "Lat": 46.640545,
-    "Lng": 8.913761,
+    "Lat": 46.6405,
+    "Lng": 8.9138,
     "Altitude": 2524,
-    "Beds": 51,
+    "Beds": 61,
     "Rooms": [
       {
         "beds": 51,
@@ -6582,10 +6338,10 @@
   {
     "Id": 333,
     "Name": "Cabane du Fenestral",
-    "Lat": 46.189072,
-    "Lng": 7.100621,
+    "Lat": 46.1891,
+    "Lng": 7.1006,
     "Altitude": 2453,
-    "Beds": 31,
+    "Beds": 48,
     "Rooms": [
       {
         "beds": 31,
@@ -6604,10 +6360,10 @@
   {
     "Id": 334,
     "Name": "Rothornhütte SAC",
-    "Lat": 46.04858,
-    "Lng": 7.697374,
+    "Lat": 46.0486,
+    "Lng": 7.6974,
     "Altitude": 3180,
-    "Beds": 54,
+    "Beds": 59,
     "Rooms": [
       {
         "beds": 54,
@@ -6626,8 +6382,8 @@
   {
     "Id": 335,
     "Name": "Refuge Giacomini",
-    "Lat": 46.288302,
-    "Lng": 7.162045,
+    "Lat": 46.2883,
+    "Lng": 7.162,
     "Altitude": 1893,
     "Beds": 56,
     "Rooms": [
@@ -6656,10 +6412,10 @@
   {
     "Id": 336,
     "Name": "Priel-Schutzhaus",
-    "Lat": 47.704935,
-    "Lng": 14.081894,
+    "Lat": 47.7049,
+    "Lng": 14.0819,
     "Altitude": 1420,
-    "Beds": 150,
+    "Beds": 125,
     "Rooms": [
       {
         "beds": 70,
@@ -6690,10 +6446,10 @@
   {
     "Id": 337,
     "Name": "Zsigmondyhütte (Rif. Comici)",
-    "Lat": 46.62853,
-    "Lng": 12.357851,
+    "Lat": 46.6285,
+    "Lng": 12.3579,
     "Altitude": 2224,
-    "Beds": 62,
+    "Beds": 72,
     "Rooms": [
       {
         "beds": 38,
@@ -6716,10 +6472,10 @@
   {
     "Id": 338,
     "Name": "Mittellegihütte",
-    "Lat": 46.583412,
-    "Lng": 8.022527,
+    "Lat": 46.5834,
+    "Lng": 8.0225,
     "Altitude": 3355,
-    "Beds": 38,
+    "Beds": 46,
     "Rooms": [
       {
         "beds": 38,
@@ -6738,10 +6494,10 @@
   {
     "Id": 340,
     "Name": "Monte-Leone-Hütte SAC",
-    "Lat": 46.26,
-    "Lng": 8.079,
+    "Lat": 46.261,
+    "Lng": 8.0801,
     "Altitude": 2848,
-    "Beds": 20,
+    "Beds": 32,
     "Rooms": [
       {
         "beds": 20,
@@ -6760,8 +6516,8 @@
   {
     "Id": 341,
     "Name": "Rifugio Saoseo CAS",
-    "Lat": 46.39849,
-    "Lng": 10.11739,
+    "Lat": 46.3985,
+    "Lng": 10.1174,
     "Altitude": 1985,
     "Beds": 50,
     "Rooms": [
@@ -6786,8 +6542,8 @@
   {
     "Id": 342,
     "Name": "Glorer Hütte",
-    "Lat": 47.030833,
-    "Lng": 12.715556,
+    "Lat": 47.0308,
+    "Lng": 12.7156,
     "Altitude": 2642,
     "Beds": 39,
     "Rooms": [
@@ -6802,10 +6558,6 @@
       {
         "beds": 4,
         "label": "Zweierzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Unbewirtschafteter Modus"
       }
     ],
     "Country": "DE",
@@ -6816,10 +6568,10 @@
   {
     "Id": 343,
     "Name": "Hochlecken-Haus",
-    "Lat": 47.828875,
-    "Lng": 13.605526,
+    "Lat": 47.8289,
+    "Lng": 13.6055,
     "Altitude": 1572,
-    "Beds": 45,
+    "Beds": 41,
     "Rooms": [
       {
         "beds": 21,
@@ -6838,18 +6590,14 @@
   {
     "Id": 344,
     "Name": "Jugendbildungsstätte Winterraum",
-    "Lat": 47.506154,
-    "Lng": 10.385326,
+    "Lat": 47.5062,
+    "Lng": 10.3853,
     "Altitude": 857,
     "Beds": 8,
     "Rooms": [
       {
         "beds": 8,
         "label": "Matratzenlager"
-      },
-      {
-        "beds": 0,
-        "label": "Sonderkategorie 2"
       }
     ],
     "Country": "DE",
@@ -6860,10 +6608,10 @@
   {
     "Id": 346,
     "Name": "ZZZ TEST Monbijouhütte",
-    "Lat": 46.944618,
-    "Lng": 7.435092,
+    "Lat": 46.9446,
+    "Lng": 7.4351,
     "Altitude": 1256,
-    "Beds": 40,
+    "Beds": 36,
     "Rooms": [
       {
         "beds": 20,
@@ -6886,10 +6634,10 @@
   {
     "Id": 347,
     "Name": "Berghaus Alpenrösli",
-    "Lat": 46.998388,
-    "Lng": 9.8583076,
+    "Lat": 46.9984,
+    "Lng": 9.8583,
     "Altitude": 1775,
-    "Beds": 60,
+    "Beds": 53,
     "Rooms": [
       {
         "beds": 30,
@@ -6916,8 +6664,8 @@
   {
     "Id": 348,
     "Name": "Schalijochbiwak SAC",
-    "Lat": 46.093315,
-    "Lng": 7.709522,
+    "Lat": 46.0933,
+    "Lng": 7.7095,
     "Altitude": 3786,
     "Beds": 8,
     "Rooms": [
@@ -6934,10 +6682,10 @@
   {
     "Id": 349,
     "Name": "Baltschiederklause SAC",
-    "Lat": 46.395051,
-    "Lng": 7.889815,
+    "Lat": 46.3951,
+    "Lng": 7.8898,
     "Altitude": 2783,
-    "Beds": 50,
+    "Beds": 60,
     "Rooms": [
       {
         "beds": 50,
@@ -6956,18 +6704,14 @@
   {
     "Id": 350,
     "Name": "Fromatthütte",
-    "Lat": 46.54601,
-    "Lng": 7.43279,
+    "Lat": 46.546,
+    "Lng": 7.4328,
     "Altitude": 1800,
     "Beds": 20,
     "Rooms": [
       {
         "beds": 20,
         "label": "Massenlager"
-      },
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -6978,8 +6722,8 @@
   {
     "Id": 353,
     "Name": "Schneealpen-Haus",
-    "Lat": 47.696318,
-    "Lng": 15.609628,
+    "Lat": 47.6963,
+    "Lng": 15.6096,
     "Altitude": 1788,
     "Beds": 34,
     "Rooms": [
@@ -6994,10 +6738,6 @@
       {
         "beds": 2,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category"
       }
     ],
     "Country": "AT",
@@ -7008,10 +6748,10 @@
   {
     "Id": 354,
     "Name": "Falkenhütte",
-    "Lat": 47.400031,
-    "Lng": 11.498835,
+    "Lat": 47.4,
+    "Lng": 11.4988,
     "Altitude": 1848,
-    "Beds": 120,
+    "Beds": 100,
     "Rooms": [
       {
         "beds": 50,
@@ -7034,10 +6774,10 @@
   {
     "Id": 355,
     "Name": "Ennstaler-Hütte",
-    "Lat": 47.619119,
-    "Lng": 14.676403,
+    "Lat": 47.6191,
+    "Lng": 14.6764,
     "Altitude": 1543,
-    "Beds": 38,
+    "Beds": 41,
     "Rooms": [
       {
         "beds": 38,
@@ -7056,8 +6796,8 @@
   {
     "Id": 363,
     "Name": "Clubheim Fälensee",
-    "Lat": 47.25,
-    "Lng": 9.42,
+    "Lat": 47.2545,
+    "Lng": 9.4255,
     "Altitude": 1527,
     "Beds": 35,
     "Rooms": [
@@ -7081,7 +6821,7 @@
     "Lat": 46.8288,
     "Lng": 10.9919,
     "Altitude": 2480,
-    "Beds": 65,
+    "Beds": 46,
     "Rooms": [
       {
         "beds": 22,
@@ -7105,7 +6845,7 @@
     "Id": 366,
     "Name": "Braunschweiger Hütte",
     "Lat": 46.9354,
-    "Lng": 10.91048,
+    "Lng": 10.9105,
     "Altitude": 2759,
     "Beds": 158,
     "Rooms": [
@@ -7116,14 +6856,6 @@
       {
         "beds": 36,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 1"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -7134,10 +6866,10 @@
   {
     "Id": 369,
     "Name": "Hildesheimer Hütte",
-    "Lat": 46.966545,
-    "Lng": 11.117297,
+    "Lat": 46.9665,
+    "Lng": 11.1173,
     "Altitude": 2899,
-    "Beds": 70,
+    "Beds": 66,
     "Rooms": [
       {
         "beds": 38,
@@ -7164,8 +6896,8 @@
   {
     "Id": 370,
     "Name": "Hochjoch Hospiz",
-    "Lat": 46.82516,
-    "Lng": 10.83393,
+    "Lat": 46.8252,
+    "Lng": 10.8339,
     "Altitude": 2413,
     "Beds": 65,
     "Rooms": [
@@ -7187,7 +6919,7 @@
     "Id": 371,
     "Name": "Zapporthütte SAC",
     "Lat": 46.5,
-    "Lng": 9.09393,
+    "Lng": 9.0939,
     "Altitude": 2276,
     "Beds": 24,
     "Rooms": [
@@ -7204,8 +6936,8 @@
   {
     "Id": 372,
     "Name": "Wolfratshauser Hütte",
-    "Lat": 47.39111,
-    "Lng": 10.84861,
+    "Lat": 47.3911,
+    "Lng": 10.8486,
     "Altitude": 1752,
     "Beds": 42,
     "Rooms": [
@@ -7226,10 +6958,10 @@
   {
     "Id": 373,
     "Name": "Kreuzeckhaus",
-    "Lat": 47.45216,
+    "Lat": 47.4522,
     "Lng": 11.0661,
     "Altitude": 1652,
-    "Beds": 80,
+    "Beds": 90,
     "Rooms": [
       {
         "beds": 36,
@@ -7255,7 +6987,7 @@
     "Lat": 46.4753,
     "Lng": 7.9603,
     "Altitude": 3238,
-    "Beds": 72,
+    "Beds": 84,
     "Rooms": [
       {
         "beds": 72,
@@ -7274,8 +7006,8 @@
   {
     "Id": 377,
     "Name": "Hexenseehütte",
-    "Lat": 47.018826,
-    "Lng": 10.481156,
+    "Lat": 47.0188,
+    "Lng": 10.4812,
     "Altitude": 2588,
     "Beds": 18,
     "Rooms": [
@@ -7292,8 +7024,8 @@
   {
     "Id": 378,
     "Name": "Mischabeljochbiwak SAC",
-    "Lat": 46.07421,
-    "Lng": 7.865815,
+    "Lat": 46.0742,
+    "Lng": 7.8658,
     "Altitude": 3855,
     "Beds": 24,
     "Rooms": [
@@ -7310,8 +7042,8 @@
   {
     "Id": 379,
     "Name": "Cabane de Chanrion CAS",
-    "Lat": 45.939266,
-    "Lng": 7.380848,
+    "Lat": 45.9393,
+    "Lng": 7.3808,
     "Altitude": 2462,
     "Beds": 59,
     "Rooms": [
@@ -7328,8 +7060,8 @@
   {
     "Id": 381,
     "Name": "Arbenbiwak SAC",
-    "Lat": 46.031364,
-    "Lng": 7.665059,
+    "Lat": 46.0314,
+    "Lng": 7.6651,
     "Altitude": 3224,
     "Beds": 15,
     "Rooms": [
@@ -7346,10 +7078,10 @@
   {
     "Id": 382,
     "Name": "Cabane de Saleinaz CAS",
-    "Lat": 45.976355,
-    "Lng": 7.070281,
+    "Lat": 45.9764,
+    "Lng": 7.0703,
     "Altitude": 2691,
-    "Beds": 48,
+    "Beds": 44,
     "Rooms": [
       {
         "beds": 22,
@@ -7368,15 +7100,11 @@
   {
     "Id": 383,
     "Name": "Feichtau-Hütte",
-    "Lat": 47.801406,
-    "Lng": 14.31745,
+    "Lat": 47.8014,
+    "Lng": 14.3174,
     "Altitude": 1360,
     "Beds": 20,
     "Rooms": [
-      {
-        "beds": 0,
-        "label": "Matratzenlager"
-      },
       {
         "beds": 20,
         "label": "Unbewirtschafteter Modus"
@@ -7402,10 +7130,6 @@
       {
         "beds": 35,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -7416,10 +7140,10 @@
   {
     "Id": 386,
     "Name": "Chamanna Coaz CAS",
-    "Lat": 46.38169,
-    "Lng": 9.82834,
+    "Lat": 46.3817,
+    "Lng": 9.8283,
     "Altitude": 2610,
-    "Beds": 55,
+    "Beds": 50,
     "Rooms": [
       {
         "beds": 50,
@@ -7434,8 +7158,8 @@
   {
     "Id": 387,
     "Name": "Sylvan-Hütte",
-    "Lat": 49.9070501,
-    "Lng": 9.4801728,
+    "Lat": 49.9071,
+    "Lng": 9.4802,
     "Altitude": 374,
     "Beds": 1,
     "Rooms": [
@@ -7453,7 +7177,7 @@
     "Id": 388,
     "Name": "Hüfihütte SAC",
     "Lat": 46.8022,
-    "Lng": 8.819044,
+    "Lng": 8.819,
     "Altitude": 2334,
     "Beds": 32,
     "Rooms": [
@@ -7470,8 +7194,8 @@
   {
     "Id": 389,
     "Name": "Brixner Hütte",
-    "Lat": 46.912911,
-    "Lng": 11.620518,
+    "Lat": 46.9129,
+    "Lng": 11.6205,
     "Altitude": 2282,
     "Beds": 28,
     "Rooms": [
@@ -7488,8 +7212,8 @@
   {
     "Id": 391,
     "Name": "Chamanna da Boval CAS",
-    "Lat": 46.415199,
-    "Lng": 9.925074,
+    "Lat": 46.4152,
+    "Lng": 9.9251,
     "Altitude": 2495,
     "Beds": 80,
     "Rooms": [
@@ -7500,10 +7224,6 @@
       {
         "beds": 2,
         "label": "2-er Zimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -7514,8 +7234,8 @@
   {
     "Id": 393,
     "Name": "Douglasshütte",
-    "Lat": 47.059684,
-    "Lng": 9.754765,
+    "Lat": 47.0597,
+    "Lng": 9.7548,
     "Altitude": 1979,
     "Beds": 86,
     "Rooms": [
@@ -7540,8 +7260,8 @@
   {
     "Id": 394,
     "Name": "Cabane d’Essertze",
-    "Lat": 46.148057,
-    "Lng": 7.371963,
+    "Lat": 46.1481,
+    "Lng": 7.372,
     "Altitude": 2191,
     "Beds": 24,
     "Rooms": [
@@ -7566,8 +7286,8 @@
   {
     "Id": 395,
     "Name": "Anhalter Hütte",
-    "Lat": 47.301383,
-    "Lng": 10.667783,
+    "Lat": 47.3014,
+    "Lng": 10.6678,
     "Altitude": 2040,
     "Beds": 74,
     "Rooms": [
@@ -7610,10 +7330,10 @@
   {
     "Id": 398,
     "Name": "Etzlihütte SAC",
-    "Lat": 46.71,
-    "Lng": 8.72,
+    "Lat": 46.7183,
+    "Lng": 8.7205,
     "Altitude": 2052,
-    "Beds": 75,
+    "Beds": 77,
     "Rooms": [
       {
         "beds": 71,
@@ -7636,10 +7356,10 @@
   {
     "Id": 399,
     "Name": "Capanna Piansecco CAS",
-    "Lat": 46.294,
-    "Lng": 8.281,
+    "Lat": 46.4946,
+    "Lng": 8.4715,
     "Altitude": 1982,
-    "Beds": 42,
+    "Beds": 46,
     "Rooms": [
       {
         "beds": 32,
@@ -7662,10 +7382,10 @@
   {
     "Id": 400,
     "Name": "Cabane de Valsorey CAS",
-    "Lat": 45.930778,
-    "Lng": 7.271748,
+    "Lat": 45.9308,
+    "Lng": 7.2717,
     "Altitude": 3037,
-    "Beds": 50,
+    "Beds": 65,
     "Rooms": [
       {
         "beds": 50,
@@ -7684,8 +7404,8 @@
   {
     "Id": 401,
     "Name": "Badener Hütte",
-    "Lat": 47.08119,
-    "Lng": 12.42568,
+    "Lat": 47.0812,
+    "Lng": 12.4257,
     "Altitude": 2608,
     "Beds": 49,
     "Rooms": [
@@ -7704,10 +7424,6 @@
       {
         "beds": 1,
         "label": "Dog room"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -7721,7 +7437,7 @@
     "Lat": 47.3131,
     "Lng": 13.8133,
     "Altitude": 1656,
-    "Beds": 144,
+    "Beds": 96,
     "Rooms": [
       {
         "beds": 58,
@@ -7770,10 +7486,10 @@
   {
     "Id": 404,
     "Name": "Rotondohütte SAC",
-    "Lat": 46.54494,
-    "Lng": 8.48383,
+    "Lat": 46.5449,
+    "Lng": 8.4838,
     "Altitude": 2571,
-    "Beds": 70,
+    "Beds": 87,
     "Rooms": [
       {
         "beds": 68,
@@ -7792,8 +7508,8 @@
   {
     "Id": 405,
     "Name": "Skihütte Elm",
-    "Lat": 46.9226644,
-    "Lng": 9.1435648,
+    "Lat": 46.9227,
+    "Lng": 9.1436,
     "Altitude": 1745,
     "Beds": 15,
     "Rooms": [
@@ -7828,10 +7544,10 @@
   {
     "Id": 407,
     "Name": "Priener Hütte",
-    "Lat": 47.702107,
-    "Lng": 12.327922,
+    "Lat": 47.7021,
+    "Lng": 12.3279,
     "Altitude": 1410,
-    "Beds": 72,
+    "Beds": 76,
     "Rooms": [
       {
         "beds": 40,
@@ -7862,10 +7578,10 @@
   {
     "Id": 408,
     "Name": "Adolf-Noßberger-Hütte",
-    "Lat": 46.953985,
-    "Lng": 12.781181,
+    "Lat": 46.954,
+    "Lng": 12.7812,
     "Altitude": 2488,
-    "Beds": 30,
+    "Beds": 25,
     "Rooms": [
       {
         "beds": 25,
@@ -7909,7 +7625,7 @@
     "Lat": 47.5743,
     "Lng": 15.7906,
     "Altitude": 1782,
-    "Beds": 24,
+    "Beds": 34,
     "Rooms": [
       {
         "beds": 12,
@@ -7926,10 +7642,6 @@
       {
         "beds": 8,
         "label": "Sonderkategorie"
-      },
-      {
-        "beds": 0,
-        "label": "Unbewirtschafteter Modus"
       }
     ],
     "Country": "AT",
@@ -7940,8 +7652,8 @@
   {
     "Id": 412,
     "Name": "Rieserfernerhütte",
-    "Lat": 46.89,
-    "Lng": 12.07,
+    "Lat": 46.8901,
+    "Lng": 12.0794,
     "Altitude": 2798,
     "Beds": 59,
     "Rooms": [
@@ -7962,8 +7674,8 @@
   {
     "Id": 413,
     "Name": "Cabane Balavaux",
-    "Lat": 46.157,
-    "Lng": 7.278,
+    "Lat": 46.1559,
+    "Lng": 7.2778,
     "Altitude": 2042,
     "Beds": 22,
     "Rooms": [
@@ -7980,8 +7692,8 @@
   {
     "Id": 415,
     "Name": "Kellerjoch-Hütte",
-    "Lat": 47.316541,
-    "Lng": 11.764917,
+    "Lat": 47.3165,
+    "Lng": 11.7649,
     "Altitude": 2237,
     "Beds": 30,
     "Rooms": [
@@ -8002,8 +7714,8 @@
   {
     "Id": 416,
     "Name": "Almtaler Haus",
-    "Lat": 47.754855,
-    "Lng": 14.017935,
+    "Lat": 47.7549,
+    "Lng": 14.0179,
     "Altitude": 714,
     "Beds": 59,
     "Rooms": [
@@ -8018,10 +7730,6 @@
       {
         "beds": 10,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category"
       }
     ],
     "Country": "AT",
@@ -8032,10 +7740,10 @@
   {
     "Id": 417,
     "Name": "Ski- und Ferienhaus Obergestelen",
-    "Lat": 46.58672,
-    "Lng": 7.43225,
+    "Lat": 46.5867,
+    "Lng": 7.4322,
     "Altitude": 1800,
-    "Beds": 30,
+    "Beds": 60,
     "Rooms": [
       {
         "beds": 30,
@@ -8054,10 +7762,10 @@
   {
     "Id": 419,
     "Name": "Capanna Poncione di Braga",
-    "Lat": 46.42919,
-    "Lng": 8.57221,
+    "Lat": 46.4292,
+    "Lng": 8.5722,
     "Altitude": 2003,
-    "Beds": 18,
+    "Beds": 36,
     "Rooms": [
       {
         "beds": 18,
@@ -8076,18 +7784,14 @@
   {
     "Id": 420,
     "Name": "Mischabelhütte AACZ",
-    "Lat": 46.1096896,
-    "Lng": 7.8889984,
+    "Lat": 46.1097,
+    "Lng": 7.889,
     "Altitude": 3340,
     "Beds": 95,
     "Rooms": [
       {
         "beds": 95,
         "label": "Massenlager"
-      },
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -8098,10 +7802,10 @@
   {
     "Id": 424,
     "Name": "Habsburg-Haus",
-    "Lat": 47.42795,
-    "Lng": 15.41917,
+    "Lat": 47.428,
+    "Lng": 15.4192,
     "Altitude": 1785,
-    "Beds": 69,
+    "Beds": 89,
     "Rooms": [
       {
         "beds": 50,
@@ -8128,8 +7832,8 @@
   {
     "Id": 428,
     "Name": "Lilienfelder Hütte",
-    "Lat": 47.989,
-    "Lng": 15.589,
+    "Lat": 47.9896,
+    "Lng": 15.5901,
     "Altitude": 943,
     "Beds": 22,
     "Rooms": [
@@ -8154,10 +7858,10 @@
   {
     "Id": 429,
     "Name": "Neunkirchner Hütte",
-    "Lat": 47.27396,
-    "Lng": 14.14879,
+    "Lat": 47.274,
+    "Lng": 14.1488,
     "Altitude": 1525,
-    "Beds": 19,
+    "Beds": 2,
     "Rooms": [
       {
         "beds": 1,
@@ -8176,8 +7880,8 @@
   {
     "Id": 430,
     "Name": "Peilstein-Haus",
-    "Lat": 48.014866,
-    "Lng": 16.05171,
+    "Lat": 48.0149,
+    "Lng": 16.0517,
     "Altitude": 718,
     "Beds": 56,
     "Rooms": [
@@ -8202,8 +7906,8 @@
   {
     "Id": 434,
     "Name": "Wetterkogler-Haus",
-    "Lat": 47.53041,
-    "Lng": 15.914399,
+    "Lat": 47.5304,
+    "Lng": 15.9144,
     "Altitude": 1743,
     "Beds": 34,
     "Rooms": [
@@ -8222,10 +7926,6 @@
       {
         "beds": 1,
         "label": "Dog room"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -8236,8 +7936,8 @@
   {
     "Id": 435,
     "Name": "Capanna Tomeo",
-    "Lat": 46.366081,
-    "Lng": 8.688937,
+    "Lat": 46.3661,
+    "Lng": 8.6889,
     "Altitude": 1739,
     "Beds": 28,
     "Rooms": [
@@ -8256,10 +7956,6 @@
       {
         "beds": 4,
         "label": "Zelt"
-      },
-      {
-        "beds": 0,
-        "label": "Unbewarterer Betrieb"
       }
     ],
     "Country": "CH",
@@ -8270,7 +7966,7 @@
   {
     "Id": 436,
     "Name": "Cabane de la Dent Blanche CAS",
-    "Lat": 46.02027,
+    "Lat": 46.0203,
     "Lng": 7.6008,
     "Altitude": 3507,
     "Beds": 34,
@@ -8288,8 +7984,8 @@
   {
     "Id": 437,
     "Name": "Lamsenjochhütte",
-    "Lat": 47.380067,
-    "Lng": 11.603557,
+    "Lat": 47.3801,
+    "Lng": 11.6036,
     "Altitude": 1953,
     "Beds": 82,
     "Rooms": [
@@ -8314,8 +8010,8 @@
   {
     "Id": 438,
     "Name": "Berghaus Kleinwalsertal",
-    "Lat": 47.34875,
-    "Lng": 10.14565,
+    "Lat": 47.3488,
+    "Lng": 10.1456,
     "Altitude": 1250,
     "Beds": 45,
     "Rooms": [
@@ -8332,8 +8028,8 @@
   {
     "Id": 439,
     "Name": "Haus Wäldele",
-    "Lat": 47.34859,
-    "Lng": 10.14563,
+    "Lat": 47.3486,
+    "Lng": 10.1456,
     "Altitude": 1250,
     "Beds": 16,
     "Rooms": [
@@ -8353,7 +8049,7 @@
     "Lat": 46.4696,
     "Lng": 10.6731,
     "Altitude": 2610,
-    "Beds": 56,
+    "Beds": 52,
     "Rooms": [
       {
         "beds": 29,
@@ -8372,10 +8068,10 @@
   {
     "Id": 444,
     "Name": "Grialetsch-Hütte SAC",
-    "Lat": 46.71052,
-    "Lng": 9.96057,
+    "Lat": 46.7105,
+    "Lng": 9.9606,
     "Altitude": 2542,
-    "Beds": 58,
+    "Beds": 71,
     "Rooms": [
       {
         "beds": 58,
@@ -8394,10 +8090,10 @@
   {
     "Id": 445,
     "Name": "Cresta-Biwak SAC",
-    "Lat": 46.04474,
-    "Lng": 8.03018,
+    "Lat": 46.0447,
+    "Lng": 8.0302,
     "Altitude": 3025,
-    "Beds": 6,
+    "Beds": 12,
     "Rooms": [
       {
         "beds": 6,
@@ -8417,7 +8113,7 @@
     "Id": 446,
     "Name": "Schilthornhütte",
     "Lat": 46.5701,
-    "Lng": 7.86251,
+    "Lng": 7.8625,
     "Altitude": 2433,
     "Beds": 19,
     "Rooms": [
@@ -8434,10 +8130,10 @@
   {
     "Id": 447,
     "Name": "Capanna Alpe Sponda",
-    "Lat": 46.41847,
-    "Lng": 8.78584,
+    "Lat": 46.4185,
+    "Lng": 8.7858,
     "Altitude": 1997,
-    "Beds": 34,
+    "Beds": 48,
     "Rooms": [
       {
         "beds": 30,
@@ -8461,7 +8157,7 @@
     "Id": 452,
     "Name": "Neue Traunsteiner Hütte",
     "Lat": 47.6283,
-    "Lng": 12.80096,
+    "Lng": 12.801,
     "Altitude": 1560,
     "Beds": 89,
     "Rooms": [
@@ -8476,10 +8172,6 @@
       {
         "beds": 22,
         "label": "Zweierzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Hundezimmer"
       }
     ],
     "Country": "DE",
@@ -8490,8 +8182,8 @@
   {
     "Id": 453,
     "Name": "Lämmerenhütte SAC",
-    "Lat": 46.400329,
-    "Lng": 7.574448,
+    "Lat": 46.4003,
+    "Lng": 7.5744,
     "Altitude": 2502,
     "Beds": 84,
     "Rooms": [
@@ -8512,8 +8204,8 @@
   {
     "Id": 454,
     "Name": "Fusshornbiwak",
-    "Lat": 46.253,
-    "Lng": 8.033,
+    "Lat": 46.4176,
+    "Lng": 8.0092,
     "Altitude": 2788,
     "Beds": 8,
     "Rooms": [
@@ -8530,10 +8222,10 @@
   {
     "Id": 456,
     "Name": "Heidelberger Hütte",
-    "Lat": 46.90976,
-    "Lng": 10.25948,
+    "Lat": 46.9098,
+    "Lng": 10.2595,
     "Altitude": 2364,
-    "Beds": 120,
+    "Beds": 100,
     "Rooms": [
       {
         "beds": 50,
@@ -8552,8 +8244,8 @@
   {
     "Id": 461,
     "Name": "Karl-Stein-Hütte",
-    "Lat": 51.0187889,
-    "Lng": 14.1887455,
+    "Lat": 50.9601,
+    "Lng": 14.0597,
     "Altitude": 144,
     "Beds": 30,
     "Rooms": [
@@ -8570,8 +8262,8 @@
   {
     "Id": 466,
     "Name": "Sillianer Hütte",
-    "Lat": 46.705993,
-    "Lng": 12.406326,
+    "Lat": 46.706,
+    "Lng": 12.4063,
     "Altitude": 2447,
     "Beds": 63,
     "Rooms": [
@@ -8592,8 +8284,8 @@
   {
     "Id": 467,
     "Name": "Alpwirtschaft Tanzboden",
-    "Lat": 47.22,
-    "Lng": 9.1,
+    "Lat": 47.2212,
+    "Lng": 9.1074,
     "Altitude": 1443,
     "Beds": 17,
     "Rooms": [
@@ -8610,8 +8302,8 @@
   {
     "Id": 468,
     "Name": "Kelchalm (Bochumer Hütte)",
-    "Lat": 47.23,
-    "Lng": 12.27,
+    "Lat": 47.3867,
+    "Lng": 12.4646,
     "Altitude": 1432,
     "Beds": 58,
     "Rooms": [
@@ -8639,7 +8331,7 @@
     "Lat": 47.5866,
     "Lng": 15.039,
     "Altitude": 1523,
-    "Beds": 38,
+    "Beds": 40,
     "Rooms": [
       {
         "beds": 28,
@@ -8662,10 +8354,10 @@
   {
     "Id": 472,
     "Name": "Galmihornhütte",
-    "Lat": 46.489456,
-    "Lng": 8.242922,
+    "Lat": 46.4895,
+    "Lng": 8.2429,
     "Altitude": 2113,
-    "Beds": 35,
+    "Beds": 70,
     "Rooms": [
       {
         "beds": 35,
@@ -8684,8 +8376,8 @@
   {
     "Id": 473,
     "Name": "Cabane de Prafleuri",
-    "Lat": 46.074947,
-    "Lng": 7.378778,
+    "Lat": 46.0749,
+    "Lng": 7.3788,
     "Altitude": 2662,
     "Beds": 59,
     "Rooms": [
@@ -8702,8 +8394,8 @@
   {
     "Id": 474,
     "Name": "Burghütte",
-    "Lat": 46.450992,
-    "Lng": 8.135312,
+    "Lat": 46.451,
+    "Lng": 8.1353,
     "Altitude": 1750,
     "Beds": 32,
     "Rooms": [
@@ -8720,8 +8412,8 @@
   {
     "Id": 475,
     "Name": "Berg- und Skiheim Brixen im Thale",
-    "Lat": 47.454383,
-    "Lng": 12.260491,
+    "Lat": 47.4544,
+    "Lng": 12.2605,
     "Altitude": 800,
     "Beds": 53,
     "Rooms": [
@@ -8736,10 +8428,6 @@
       {
         "beds": 12,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced mode"
       }
     ],
     "Country": "DE",
@@ -8750,8 +8438,8 @@
   {
     "Id": 476,
     "Name": "Martin-Busch-Hütte",
-    "Lat": 46.801111,
-    "Lng": 10.886944,
+    "Lat": 46.8011,
+    "Lng": 10.8869,
     "Altitude": 2501,
     "Beds": 90,
     "Rooms": [
@@ -8772,10 +8460,10 @@
   {
     "Id": 477,
     "Name": "Capanna Alp da Canaa",
-    "Lat": 46.25045,
-    "Lng": 8.63499,
+    "Lat": 46.2505,
+    "Lng": 8.635,
     "Altitude": 1843,
-    "Beds": 20,
+    "Beds": 22,
     "Rooms": [
       {
         "beds": 20,
@@ -8784,10 +8472,6 @@
       {
         "beds": 2,
         "label": "Zelt"
-      },
-      {
-        "beds": 0,
-        "label": "Unbewarterer Betrieb"
       }
     ],
     "Country": "CH",
@@ -8798,15 +8482,11 @@
   {
     "Id": 478,
     "Name": "Capanna Grossalp",
-    "Lat": 46.316398,
-    "Lng": 8.471349,
+    "Lat": 46.3164,
+    "Lng": 8.4713,
     "Altitude": 1906,
     "Beds": 4,
     "Rooms": [
-      {
-        "beds": 0,
-        "label": "Wohnheim"
-      },
       {
         "beds": 4,
         "label": "Unbewarterer Betrieb"
@@ -8820,10 +8500,10 @@
   {
     "Id": 479,
     "Name": "Capanna Alpe Nimi",
-    "Lat": 46.25221,
-    "Lng": 8.76752,
+    "Lat": 46.2522,
+    "Lng": 8.7675,
     "Altitude": 1718,
-    "Beds": 18,
+    "Beds": 30,
     "Rooms": [
       {
         "beds": 18,
@@ -8846,10 +8526,10 @@
   {
     "Id": 480,
     "Name": "Rifugio Alpe Masnée",
-    "Lat": 46.316398,
-    "Lng": 8.471349,
+    "Lat": 46.3164,
+    "Lng": 8.4713,
     "Altitude": 2063,
-    "Beds": 16,
+    "Beds": 32,
     "Rooms": [
       {
         "beds": 16,
@@ -8868,10 +8548,10 @@
   {
     "Id": 481,
     "Name": "Rifugio Alpe Spluga",
-    "Lat": 46.31557,
-    "Lng": 8.679129,
+    "Lat": 46.3156,
+    "Lng": 8.6791,
     "Altitude": 1838,
-    "Beds": 24,
+    "Beds": 48,
     "Rooms": [
       {
         "beds": 24,
@@ -8890,8 +8570,8 @@
   {
     "Id": 482,
     "Name": "Ostello Fusio",
-    "Lat": 46.316398,
-    "Lng": 8.471349,
+    "Lat": 46.3164,
+    "Lng": 8.4713,
     "Altitude": 1289,
     "Beds": 28,
     "Rooms": [
@@ -8902,10 +8582,6 @@
       {
         "beds": 22,
         "label": "10-er Zimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Unbewarterer Betrieb"
       }
     ],
     "Country": "CH",
@@ -8917,9 +8593,9 @@
     "Id": 483,
     "Name": "Rifugio Ribia",
     "Lat": 46.2515,
-    "Lng": 8.54173,
+    "Lng": 8.5417,
     "Altitude": 1996,
-    "Beds": 12,
+    "Beds": 24,
     "Rooms": [
       {
         "beds": 12,
@@ -8938,10 +8614,10 @@
   {
     "Id": 484,
     "Name": "Rifugio la Reggia",
-    "Lat": 46.28811,
-    "Lng": 8.48671,
+    "Lat": 46.2881,
+    "Lng": 8.4867,
     "Altitude": 1410,
-    "Beds": 14,
+    "Beds": 15,
     "Rooms": [
       {
         "beds": 9,
@@ -8960,8 +8636,8 @@
   {
     "Id": 485,
     "Name": "Bonn-Matreier Hütte",
-    "Lat": 47.038877,
-    "Lng": 12.42753,
+    "Lat": 47.0389,
+    "Lng": 12.4275,
     "Altitude": 2750,
     "Beds": 44,
     "Rooms": [
@@ -8987,9 +8663,9 @@
     "Id": 486,
     "Name": "Sardonahütte SAC",
     "Lat": 46.9156,
-    "Lng": 9.27556,
+    "Lng": 9.2756,
     "Altitude": 2158,
-    "Beds": 48,
+    "Beds": 56,
     "Rooms": [
       {
         "beds": 48,
@@ -9008,10 +8684,10 @@
   {
     "Id": 487,
     "Name": "Tschiervahütte SAC",
-    "Lat": 46.40388,
-    "Lng": 9.880131,
+    "Lat": 46.4039,
+    "Lng": 9.8801,
     "Altitude": 2583,
-    "Beds": 90,
+    "Beds": 83,
     "Rooms": [
       {
         "beds": 75,
@@ -9034,8 +8710,8 @@
   {
     "Id": 488,
     "Name": "E.-T.-Compton-Hütte",
-    "Lat": 46.696,
-    "Lng": 13.157,
+    "Lat": 46.6966,
+    "Lng": 13.1574,
     "Altitude": 1585,
     "Beds": 18,
     "Rooms": [
@@ -9044,24 +8720,12 @@
         "label": "Dormitory"
       },
       {
-        "beds": 0,
-        "label": "Shared bedroom"
-      },
-      {
         "beds": 6,
         "label": "Double room"
       },
       {
         "beds": 1,
         "label": "Single room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -9080,10 +8744,6 @@
       {
         "beds": 14,
         "label": "Dormitory"
-      },
-      {
-        "beds": 0,
-        "label": "Special category"
       }
     ],
     "Country": "AT",
@@ -9094,8 +8754,8 @@
   {
     "Id": 490,
     "Name": "Voisthaler-Hütte",
-    "Lat": 47.612553,
-    "Lng": 15.180726,
+    "Lat": 47.6126,
+    "Lng": 15.1807,
     "Altitude": 1654,
     "Beds": 46,
     "Rooms": [
@@ -9116,10 +8776,10 @@
   {
     "Id": 491,
     "Name": "Adamek-Hütte",
-    "Lat": 47.492209,
-    "Lng": 13.58392,
+    "Lat": 47.4922,
+    "Lng": 13.5839,
     "Altitude": 2196,
-    "Beds": 89,
+    "Beds": 72,
     "Rooms": [
       {
         "beds": 50,
@@ -9142,8 +8802,8 @@
   {
     "Id": 492,
     "Name": "Haindlkar-Hütte",
-    "Lat": 47.56715,
-    "Lng": 14.611917,
+    "Lat": 47.5671,
+    "Lng": 14.6119,
     "Altitude": 1121,
     "Beds": 35,
     "Rooms": [
@@ -9164,10 +8824,10 @@
   {
     "Id": 493,
     "Name": "Edelraute-Hütte",
-    "Lat": 47.439229,
-    "Lng": 14.432754,
+    "Lat": 47.4392,
+    "Lng": 14.4328,
     "Altitude": 1725,
-    "Beds": 51,
+    "Beds": 49,
     "Rooms": [
       {
         "beds": 28,
@@ -9180,10 +8840,6 @@
       {
         "beds": 8,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -9194,10 +8850,10 @@
   {
     "Id": 494,
     "Name": "Cabane de Tracuit CAS",
-    "Lat": 46.13027,
-    "Lng": 7.679355,
+    "Lat": 46.1303,
+    "Lng": 7.6794,
     "Altitude": 3256,
-    "Beds": 96,
+    "Beds": 120,
     "Rooms": [
       {
         "beds": 96,
@@ -9216,8 +8872,8 @@
   {
     "Id": 495,
     "Name": "Talherberge Zwieselstein",
-    "Lat": 46.939372,
-    "Lng": 11.027146,
+    "Lat": 46.9394,
+    "Lng": 11.0271,
     "Altitude": 1472,
     "Beds": 32,
     "Rooms": [
@@ -9228,10 +8884,6 @@
       {
         "beds": 14,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced mode"
       }
     ],
     "Country": "DE",
@@ -9242,8 +8894,8 @@
   {
     "Id": 496,
     "Name": "Hinterbalmhütte",
-    "Lat": 46.77962,
-    "Lng": 8.798549,
+    "Lat": 46.7796,
+    "Lng": 8.7985,
     "Altitude": 1817,
     "Beds": 32,
     "Rooms": [
@@ -9260,8 +8912,8 @@
   {
     "Id": 497,
     "Name": "Steinsee-Hütte",
-    "Lat": 47.226122,
-    "Lng": 10.587251,
+    "Lat": 47.2261,
+    "Lng": 10.5873,
     "Altitude": 2061,
     "Beds": 84,
     "Rooms": [
@@ -9278,10 +8930,10 @@
   {
     "Id": 498,
     "Name": "Rottalhütte SAC",
-    "Lat": 46.31,
-    "Lng": 7.56,
+    "Lat": 46.5263,
+    "Lng": 7.9448,
     "Altitude": 2755,
-    "Beds": 28,
+    "Beds": 56,
     "Rooms": [
       {
         "beds": 28,
@@ -9300,8 +8952,8 @@
   {
     "Id": 502,
     "Name": "Konstanzer Hütte",
-    "Lat": 47.069629,
-    "Lng": 10.189105,
+    "Lat": 47.0696,
+    "Lng": 10.1891,
     "Altitude": 1688,
     "Beds": 80,
     "Rooms": [
@@ -9322,8 +8974,8 @@
   {
     "Id": 503,
     "Name": "Hofalm-Hütte",
-    "Lat": 47.65004,
-    "Lng": 14.37131,
+    "Lat": 47.65,
+    "Lng": 14.3713,
     "Altitude": 1305,
     "Beds": 23,
     "Rooms": [
@@ -9344,10 +8996,10 @@
   {
     "Id": 504,
     "Name": "Hans Wödlhütte",
-    "Lat": 47.36,
-    "Lng": 13.81,
+    "Lat": 47.361,
+    "Lng": 13.8169,
     "Altitude": 1533,
-    "Beds": 40,
+    "Beds": 32,
     "Rooms": [
       {
         "beds": 22,
@@ -9370,8 +9022,8 @@
   {
     "Id": 505,
     "Name": "Kistenpasshütte",
-    "Lat": 46.84037,
-    "Lng": 9.02935,
+    "Lat": 46.8404,
+    "Lng": 9.0294,
     "Altitude": 2714,
     "Beds": 14,
     "Rooms": [
@@ -9388,10 +9040,10 @@
   {
     "Id": 507,
     "Name": "Taubensteinhaus",
-    "Lat": 47.66083,
+    "Lat": 47.6608,
     "Lng": 11.9253,
     "Altitude": 1567,
-    "Beds": 46,
+    "Beds": 43,
     "Rooms": [
       {
         "beds": 25,
@@ -9410,8 +9062,8 @@
   {
     "Id": 508,
     "Name": "Welser Hütte",
-    "Lat": 47.723,
-    "Lng": 14.049,
+    "Lat": 47.7237,
+    "Lng": 14.0493,
     "Altitude": 1740,
     "Beds": 83,
     "Rooms": [
@@ -9432,8 +9084,8 @@
   {
     "Id": 509,
     "Name": "Pühringer-Hütte",
-    "Lat": 47.687077,
-    "Lng": 13.966548,
+    "Lat": 47.6871,
+    "Lng": 13.9665,
     "Altitude": 1638,
     "Beds": 62,
     "Rooms": [
@@ -9454,8 +9106,8 @@
   {
     "Id": 510,
     "Name": "Capanna Arena",
-    "Lat": 46.23269,
-    "Lng": 8.51456,
+    "Lat": 46.2327,
+    "Lng": 8.5146,
     "Altitude": 1689,
     "Beds": 30,
     "Rooms": [
@@ -9472,10 +9124,10 @@
   {
     "Id": 511,
     "Name": "Cabane Arpitettaz CAS",
-    "Lat": 46.101306,
-    "Lng": 7.679483,
+    "Lat": 46.1013,
+    "Lng": 7.6795,
     "Altitude": 2786,
-    "Beds": 32,
+    "Beds": 46,
     "Rooms": [
       {
         "beds": 32,
@@ -9494,18 +9146,14 @@
   {
     "Id": 514,
     "Name": "Ringelspitzhütte SAC",
-    "Lat": 46.865791,
-    "Lng": 9.380734,
+    "Lat": 46.8658,
+    "Lng": 9.3807,
     "Altitude": 1998,
-    "Beds": 36,
+    "Beds": 34,
     "Rooms": [
       {
         "beds": 34,
         "label": "Massenlager"
-      },
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -9516,10 +9164,10 @@
   {
     "Id": 515,
     "Name": "Silberhornhütte SAC",
-    "Lat": 46.54901,
-    "Lng": 7.93364,
+    "Lat": 46.549,
+    "Lng": 7.9336,
     "Altitude": 2663,
-    "Beds": 10,
+    "Beds": 20,
     "Rooms": [
       {
         "beds": 10,
@@ -9538,10 +9186,10 @@
   {
     "Id": 516,
     "Name": "Rifugio Pian di Crest",
-    "Lat": 46.391138,
-    "Lng": 8.487152,
+    "Lat": 46.3911,
+    "Lng": 8.4872,
     "Altitude": 2108,
-    "Beds": 35,
+    "Beds": 29,
     "Rooms": [
       {
         "beds": 25,
@@ -9560,8 +9208,8 @@
   {
     "Id": 517,
     "Name": "Rifugio Maria Luisa",
-    "Lat": 46.43477,
-    "Lng": 8.42819,
+    "Lat": 46.4348,
+    "Lng": 8.4282,
     "Altitude": 2157,
     "Beds": 40,
     "Rooms": [
@@ -9578,22 +9226,14 @@
   {
     "Id": 520,
     "Name": "Würgauer Haus",
-    "Lat": 50.3968128,
-    "Lng": 11.1297206,
+    "Lat": 49.9822,
+    "Lng": 11.0899,
     "Altitude": 440,
     "Beds": 1,
     "Rooms": [
       {
         "beds": 1,
         "label": "Mehrbettzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Sonderkategorie 1"
-      },
-      {
-        "beds": 0,
-        "label": "Sonderkategorie 2"
       }
     ],
     "Country": "DE",
@@ -9604,10 +9244,10 @@
   {
     "Id": 525,
     "Name": "Sustlihütte SAC",
-    "Lat": 46.751682,
-    "Lng": 8.470734,
+    "Lat": 46.7517,
+    "Lng": 8.4707,
     "Altitude": 2257,
-    "Beds": 67,
+    "Beds": 80,
     "Rooms": [
       {
         "beds": 67,
@@ -9626,18 +9266,14 @@
   {
     "Id": 527,
     "Name": "Stockhornbiwak SAC",
-    "Lat": 46.377958,
-    "Lng": 7.88101,
+    "Lat": 46.378,
+    "Lng": 7.881,
     "Altitude": 2598,
-    "Beds": 18,
+    "Beds": 12,
     "Rooms": [
       {
         "beds": 12,
         "label": "Massenlager"
-      },
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -9648,26 +9284,14 @@
   {
     "Id": 528,
     "Name": "Fritz-Pflaum-Hütte",
-    "Lat": 47.564187,
-    "Lng": 12.337136,
+    "Lat": 47.5642,
+    "Lng": 12.3371,
     "Altitude": 1868,
-    "Beds": 17,
+    "Beds": 15,
     "Rooms": [
       {
         "beds": 15,
         "label": "Dormitory"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 1"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced mode"
       }
     ],
     "Country": "DE",
@@ -9678,8 +9302,8 @@
   {
     "Id": 530,
     "Name": "Turtmannhütte SAC",
-    "Lat": 46.160075,
-    "Lng": 7.699618,
+    "Lat": 46.1601,
+    "Lng": 7.6996,
     "Altitude": 2519,
     "Beds": 72,
     "Rooms": [
@@ -9701,9 +9325,9 @@
     "Id": 531,
     "Name": "Berggasthaus Brüsti",
     "Lat": 46.8432,
-    "Lng": 8.60702,
+    "Lng": 8.607,
     "Altitude": 1525,
-    "Beds": 30,
+    "Beds": 32,
     "Rooms": [
       {
         "beds": 16,
@@ -9730,18 +9354,14 @@
   {
     "Id": 536,
     "Name": "Ostwandlager",
-    "Lat": 47.545813,
-    "Lng": 12.970935,
+    "Lat": 47.5458,
+    "Lng": 12.9709,
     "Altitude": 623,
     "Beds": 24,
     "Rooms": [
       {
         "beds": 24,
         "label": "Matratzenlager"
-      },
-      {
-        "beds": 0,
-        "label": "Sonderkategorie 2"
       }
     ],
     "Country": "DE",
@@ -9752,8 +9372,8 @@
   {
     "Id": 537,
     "Name": "Hanslberghütte",
-    "Lat": 48.953357,
-    "Lng": 12.005885,
+    "Lat": 48.9534,
+    "Lng": 12.0059,
     "Altitude": 344,
     "Beds": 1,
     "Rooms": [
@@ -9770,18 +9390,14 @@
   {
     "Id": 538,
     "Name": "Berg- und Skiheim Brixen im Thale - Ferienwohnung",
-    "Lat": 47.454383,
-    "Lng": 12.260491,
+    "Lat": 47.4544,
+    "Lng": 12.2605,
     "Altitude": 800,
-    "Beds": 10,
+    "Beds": 1,
     "Rooms": [
       {
         "beds": 1,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced mode"
       }
     ],
     "Country": "DE",
@@ -9792,18 +9408,14 @@
   {
     "Id": 539,
     "Name": "Rifugio Alpe Fontana",
-    "Lat": 46.407211,
-    "Lng": 8.704557,
+    "Lat": 46.4072,
+    "Lng": 8.7046,
     "Altitude": 1651,
     "Beds": 20,
     "Rooms": [
       {
         "beds": 20,
         "label": "Wohnheim"
-      },
-      {
-        "beds": 0,
-        "label": "Unbewarterer Betrieb"
       }
     ],
     "Country": "CH",
@@ -9814,10 +9426,10 @@
   {
     "Id": 541,
     "Name": "Westfalenhaus",
-    "Lat": 47.107917,
-    "Lng": 11.100111,
+    "Lat": 47.1079,
+    "Lng": 11.1001,
     "Altitude": 2273,
-    "Beds": 50,
+    "Beds": 52,
     "Rooms": [
       {
         "beds": 24,
@@ -9844,8 +9456,8 @@
   {
     "Id": 543,
     "Name": "Munt la Reita",
-    "Lat": 46.281955,
-    "Lng": 8.483003,
+    "Lat": 46.282,
+    "Lng": 8.483,
     "Altitude": 1430,
     "Beds": 16,
     "Rooms": [
@@ -9862,10 +9474,10 @@
   {
     "Id": 545,
     "Name": "Neue Reichenberger Hütte",
-    "Lat": 46.971448,
-    "Lng": 12.280359,
+    "Lat": 46.9714,
+    "Lng": 12.2804,
     "Altitude": 2586,
-    "Beds": 46,
+    "Beds": 49,
     "Rooms": [
       {
         "beds": 28,
@@ -9888,10 +9500,10 @@
   {
     "Id": 546,
     "Name": "Ludwigsburger Hütte",
-    "Lat": 47.114722,
-    "Lng": 10.823611,
+    "Lat": 47.1147,
+    "Lng": 10.8236,
     "Altitude": 1935,
-    "Beds": 52,
+    "Beds": 55,
     "Rooms": [
       {
         "beds": 46,
@@ -9904,14 +9516,6 @@
       {
         "beds": 6,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 1"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -9922,8 +9526,8 @@
   {
     "Id": 547,
     "Name": "Steinwaldhütte",
-    "Lat": 49.877729,
-    "Lng": 12.035445,
+    "Lat": 49.8777,
+    "Lng": 12.0354,
     "Altitude": 701,
     "Beds": 22,
     "Rooms": [
@@ -9940,18 +9544,14 @@
   {
     "Id": 548,
     "Name": "Lonza Biwak",
-    "Lat": 45.986042,
-    "Lng": 7.635144,
+    "Lat": 45.986,
+    "Lng": 7.6351,
     "Altitude": 2975,
     "Beds": 8,
     "Rooms": [
       {
         "beds": 8,
         "label": "Massenlager"
-      },
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -9962,8 +9562,8 @@
   {
     "Id": 549,
     "Name": "Berghütte Hohsaas",
-    "Lat": 46.13926,
-    "Lng": 7.991636,
+    "Lat": 46.1393,
+    "Lng": 7.9916,
     "Altitude": 3142,
     "Beds": 72,
     "Rooms": [
@@ -9980,8 +9580,8 @@
   {
     "Id": 550,
     "Name": "Agroturissem Alp d'Err",
-    "Lat": 46.571345,
-    "Lng": 9.692372,
+    "Lat": 46.5713,
+    "Lng": 9.6924,
     "Altitude": 2178,
     "Beds": 16,
     "Rooms": [
@@ -9998,8 +9598,8 @@
   {
     "Id": 551,
     "Name": "Cesa da Sett",
-    "Lat": 46.415417,
-    "Lng": 9.63698,
+    "Lat": 46.4154,
+    "Lng": 9.637,
     "Altitude": 2303,
     "Beds": 16,
     "Rooms": [
@@ -10016,8 +9616,8 @@
   {
     "Id": 552,
     "Name": "Sägässähenki Jenisberg",
-    "Lat": 46.695129,
-    "Lng": 9.726563,
+    "Lat": 46.6951,
+    "Lng": 9.7266,
     "Altitude": 1504,
     "Beds": 12,
     "Rooms": [
@@ -10034,8 +9634,8 @@
   {
     "Id": 553,
     "Name": "Tigias Plang Faller",
-    "Lat": 46.503695,
-    "Lng": 9.0,
+    "Lat": 46.5038,
+    "Lng": 9.5804,
     "Altitude": 1922,
     "Beds": 12,
     "Rooms": [
@@ -10060,8 +9660,8 @@
   {
     "Id": 554,
     "Name": "Chesa sut Baselgia, Stugl",
-    "Lat": 46.65,
-    "Lng": 9.731,
+    "Lat": 46.6507,
+    "Lng": 9.7314,
     "Altitude": 1550,
     "Beds": 6,
     "Rooms": [
@@ -10078,8 +9678,8 @@
   {
     "Id": 555,
     "Name": "Gamskarkogel-Hütte",
-    "Lat": 47.161786,
-    "Lng": 13.158782,
+    "Lat": 47.1618,
+    "Lng": 13.1588,
     "Altitude": 2467,
     "Beds": 24,
     "Rooms": [
@@ -10122,10 +9722,10 @@
   {
     "Id": 558,
     "Name": "Lauteraarhütte SAC",
-    "Lat": 46.570068,
-    "Lng": 8.222178,
+    "Lat": 46.5701,
+    "Lng": 8.2222,
     "Altitude": 2393,
-    "Beds": 28,
+    "Beds": 37,
     "Rooms": [
       {
         "beds": 25,
@@ -10144,16 +9744,11 @@
   {
     "Id": 559,
     "Name": "Salbitschijenbiwak SAC",
-    "Lat": 46.67615,
-    "Lng": 8.52369,
+    "Lat": 46.6761,
+    "Lng": 8.5237,
     "Altitude": 2400,
-    "Beds": 10,
-    "Rooms": [
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
-      }
-    ],
+    "Beds": 0,
+    "Rooms": [],
     "Country": "CH",
     "Code": "SAC",
     "Website": "sac-mythen.ch/unsere-huetten/",
@@ -10163,9 +9758,9 @@
     "Id": 562,
     "Name": "Schwarzenberghütte (DAV)",
     "Lat": 47.4293,
-    "Lng": 10.40679,
+    "Lng": 10.4068,
     "Altitude": 1380,
-    "Beds": 58,
+    "Beds": 66,
     "Rooms": [
       {
         "beds": 33,
@@ -10178,14 +9773,6 @@
       {
         "beds": 9,
         "label": "Dog room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 1"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -10196,10 +9783,10 @@
   {
     "Id": 563,
     "Name": "Giessener Hütte",
-    "Lat": 46.59733,
-    "Lng": 13.19733,
+    "Lat": 46.5973,
+    "Lng": 13.1973,
     "Altitude": 2215,
-    "Beds": 37,
+    "Beds": 50,
     "Rooms": [
       {
         "beds": 32,
@@ -10208,10 +9795,6 @@
       {
         "beds": 18,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -10222,10 +9805,10 @@
   {
     "Id": 565,
     "Name": "Capanna Brogoldone",
-    "Lat": 46.154572,
-    "Lng": 9.034788,
+    "Lat": 46.1546,
+    "Lng": 9.0348,
     "Altitude": 1910,
-    "Beds": 25,
+    "Beds": 47,
     "Rooms": [
       {
         "beds": 47,
@@ -10240,18 +9823,14 @@
   {
     "Id": 566,
     "Name": "Cabane de Sorniot",
-    "Lat": 46.169803,
-    "Lng": 7.094961,
+    "Lat": 46.1698,
+    "Lng": 7.095,
     "Altitude": 2064,
-    "Beds": 46,
+    "Beds": 30,
     "Rooms": [
       {
         "beds": 30,
         "label": "Massenlager"
-      },
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -10263,9 +9842,9 @@
     "Id": 567,
     "Name": "Grassenbiwak SAC",
     "Lat": 46.7702,
-    "Lng": 8.44665,
+    "Lng": 8.4466,
     "Altitude": 2647,
-    "Beds": 18,
+    "Beds": 28,
     "Rooms": [
       {
         "beds": 14,
@@ -10284,18 +9863,14 @@
   {
     "Id": 568,
     "Name": "Clubhütte Grubenalp",
-    "Lat": 46.16038,
-    "Lng": 7.94713,
+    "Lat": 46.1604,
+    "Lng": 7.9471,
     "Altitude": 2300,
     "Beds": 14,
     "Rooms": [
       {
         "beds": 14,
         "label": "Massenlager"
-      },
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -10306,8 +9881,8 @@
   {
     "Id": 569,
     "Name": "Cabane de la Tourche",
-    "Lat": 46.21461,
-    "Lng": 7.06186,
+    "Lat": 46.2146,
+    "Lng": 7.0619,
     "Altitude": 2198,
     "Beds": 50,
     "Rooms": [
@@ -10324,8 +9899,8 @@
   {
     "Id": 570,
     "Name": "Müllerhütte - Rif. Cima Libera",
-    "Lat": 46.96,
-    "Lng": 11.18,
+    "Lat": 46.9678,
+    "Lng": 11.1834,
     "Altitude": 3145,
     "Beds": 74,
     "Rooms": [
@@ -10342,8 +9917,8 @@
   {
     "Id": 571,
     "Name": "Gauenhütte",
-    "Lat": 47.059304,
-    "Lng": 9.864445,
+    "Lat": 47.0593,
+    "Lng": 9.8644,
     "Altitude": 1235,
     "Beds": 26,
     "Rooms": [
@@ -10360,10 +9935,10 @@
   {
     "Id": 572,
     "Name": "Bielefelder Hütte",
-    "Lat": 47.207222,
-    "Lng": 10.933056,
+    "Lat": 47.2072,
+    "Lng": 10.9331,
     "Altitude": 2150,
-    "Beds": 50,
+    "Beds": 56,
     "Rooms": [
       {
         "beds": 28,
@@ -10382,8 +9957,8 @@
   {
     "Id": 573,
     "Name": "Cabane de Bounavaux",
-    "Lat": 46.533463,
-    "Lng": 7.132362,
+    "Lat": 46.5335,
+    "Lng": 7.1324,
     "Altitude": 1636,
     "Beds": 36,
     "Rooms": [
@@ -10400,8 +9975,8 @@
   {
     "Id": 574,
     "Name": "Cabane des Marindes",
-    "Lat": 46.5359738,
-    "Lng": 7.1621433,
+    "Lat": 46.536,
+    "Lng": 7.1621,
     "Altitude": 1868,
     "Beds": 37,
     "Rooms": [
@@ -10418,8 +9993,8 @@
   {
     "Id": 575,
     "Name": "Cabane des Clés",
-    "Lat": 46.340481,
-    "Lng": 7.01209,
+    "Lat": 46.3405,
+    "Lng": 7.0121,
     "Altitude": 1352,
     "Beds": 20,
     "Rooms": [
@@ -10436,8 +10011,8 @@
   {
     "Id": 576,
     "Name": "Enzianhütte/Rhön",
-    "Lat": 50.52,
-    "Lng": 9.91,
+    "Lat": 50.5222,
+    "Lng": 9.9133,
     "Altitude": 760,
     "Beds": 50,
     "Rooms": [
@@ -10462,8 +10037,8 @@
   {
     "Id": 577,
     "Name": "Ignaz-Mattis-Hütte",
-    "Lat": 47.28485,
-    "Lng": 13.648433,
+    "Lat": 47.2848,
+    "Lng": 13.6484,
     "Altitude": 1986,
     "Beds": 45,
     "Rooms": [
@@ -10474,10 +10049,6 @@
       {
         "beds": 15,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 0,
-        "label": "Special category"
       }
     ],
     "Country": "AT",
@@ -10488,10 +10059,10 @@
   {
     "Id": 578,
     "Name": "Lucknerhütte",
-    "Lat": 47.03,
-    "Lng": 12.69,
+    "Lat": 47.0398,
+    "Lng": 12.6905,
     "Altitude": 2241,
-    "Beds": 55,
+    "Beds": 48,
     "Rooms": [
       {
         "beds": 24,
@@ -10514,8 +10085,8 @@
   {
     "Id": 579,
     "Name": "Balmhornhütte SAC",
-    "Lat": 46.451224,
-    "Lng": 7.689617,
+    "Lat": 46.4512,
+    "Lng": 7.6896,
     "Altitude": 1956,
     "Beds": 20,
     "Rooms": [
@@ -10532,10 +10103,10 @@
   {
     "Id": 580,
     "Name": "Capanna Cava",
-    "Lat": 46.35756,
-    "Lng": 9.03036,
+    "Lat": 46.3576,
+    "Lng": 9.0304,
     "Altitude": 2066,
-    "Beds": 34,
+    "Beds": 39,
     "Rooms": [
       {
         "beds": 34,
@@ -10554,10 +10125,10 @@
   {
     "Id": 581,
     "Name": "Rifugio Giümela",
-    "Lat": 46.371613,
-    "Lng": 9.081973,
+    "Lat": 46.3716,
+    "Lng": 9.082,
     "Altitude": 1863,
-    "Beds": 8,
+    "Beds": 16,
     "Rooms": [
       {
         "beds": 8,
@@ -10576,18 +10147,14 @@
   {
     "Id": 582,
     "Name": "Capanna Quarnei",
-    "Lat": 46.47311,
-    "Lng": 9.023686,
+    "Lat": 46.4731,
+    "Lng": 9.0237,
     "Altitude": 2107,
     "Beds": 50,
     "Rooms": [
       {
         "beds": 50,
         "label": "Zimmern"
-      },
-      {
-        "beds": 0,
-        "label": "Unbewarterer Betrieb"
       }
     ],
     "Country": "CH",
@@ -10598,7 +10165,7 @@
   {
     "Id": 583,
     "Name": "Capanna Adula UTOE",
-    "Lat": 46.29431,
+    "Lat": 46.2943,
     "Lng": 9.0275,
     "Altitude": 2393,
     "Beds": 52,
@@ -10606,10 +10173,6 @@
       {
         "beds": 52,
         "label": "Wohnheim"
-      },
-      {
-        "beds": 0,
-        "label": "Unbewarterer Betrieb"
       }
     ],
     "Country": "CH",
@@ -10620,16 +10183,11 @@
   {
     "Id": 584,
     "Name": "Rifugio Scaradra",
-    "Lat": 46.555734,
-    "Lng": 9.005902,
+    "Lat": 46.5557,
+    "Lng": 9.0059,
     "Altitude": 2173,
-    "Beds": 16,
-    "Rooms": [
-      {
-        "beds": 0,
-        "label": "Unbewarterer Betrieb"
-      }
-    ],
+    "Beds": 0,
+    "Rooms": [],
     "Country": "CH",
     "Code": "Via-Vallemaggia",
     "Website": "www.rifugioscaradra.ch",
@@ -10638,27 +10196,11 @@
   {
     "Id": 585,
     "Name": "Ostello GiovaniBosco",
-    "Lat": 46.316398,
-    "Lng": 8.471349,
+    "Lat": 46.3164,
+    "Lng": 8.4713,
     "Altitude": 1500,
     "Beds": 150,
     "Rooms": [
-      {
-        "beds": 0,
-        "label": "Doppelzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "3-er Zimmer"
-      },
-      {
-        "beds": 0,
-        "label": "4-er Zimmer"
-      },
-      {
-        "beds": 0,
-        "label": "5-er Zimmer"
-      },
       {
         "beds": 150,
         "label": "Zimmern"
@@ -10672,8 +10214,8 @@
   {
     "Id": 589,
     "Name": "Äugstenhütte",
-    "Lat": 47.027371,
-    "Lng": 9.106704,
+    "Lat": 47.0274,
+    "Lng": 9.1067,
     "Altitude": 1500,
     "Beds": 26,
     "Rooms": [
@@ -10694,24 +10236,11 @@
   {
     "Id": 591,
     "Name": "Obere Maxlraineralm",
-    "Lat": 47.661461,
-    "Lng": 11.888306,
+    "Lat": 47.6615,
+    "Lng": 11.8883,
     "Altitude": 1528,
-    "Beds": 56,
-    "Rooms": [
-      {
-        "beds": 0,
-        "label": "Dormitory"
-      },
-      {
-        "beds": 0,
-        "label": "Shared bedroom"
-      },
-      {
-        "beds": 0,
-        "label": "Double room"
-      }
-    ],
+    "Beds": 0,
+    "Rooms": [],
     "Country": "DE",
     "Code": "DAV",
     "Website": "www.obere-maxlraineralm.com",
@@ -10720,8 +10249,8 @@
   {
     "Id": 592,
     "Name": "Refuge du lac de Derborence",
-    "Lat": 46.28,
-    "Lng": 7.21,
+    "Lat": 46.2805,
+    "Lng": 7.2149,
     "Altitude": 1480,
     "Beds": 38,
     "Rooms": [
@@ -10742,18 +10271,14 @@
   {
     "Id": 593,
     "Name": "Rifugio Lago",
-    "Lat": 46.353786,
-    "Lng": 9.019984,
+    "Lat": 46.3538,
+    "Lng": 9.02,
     "Altitude": 2130,
     "Beds": 6,
     "Rooms": [
       {
         "beds": 6,
         "label": "Wohnheim"
-      },
-      {
-        "beds": 0,
-        "label": "Unbewarterer Betrieb"
       }
     ],
     "Country": "CH",
@@ -10764,18 +10289,14 @@
   {
     "Id": 594,
     "Name": "Rifugio Biasagn",
-    "Lat": 46.393349,
-    "Lng": 9.036978,
+    "Lat": 46.3933,
+    "Lng": 9.037,
     "Altitude": 2023,
     "Beds": 4,
     "Rooms": [
       {
         "beds": 4,
         "label": "Wohnheim"
-      },
-      {
-        "beds": 0,
-        "label": "Unbewarterer Betrieb"
       }
     ],
     "Country": "CH",
@@ -10786,18 +10307,14 @@
   {
     "Id": 595,
     "Name": "Rifugio Alpe Compiett",
-    "Lat": 46.355335,
-    "Lng": 9.00201,
+    "Lat": 46.3553,
+    "Lng": 9.002,
     "Altitude": 1517,
     "Beds": 5,
     "Rooms": [
       {
         "beds": 5,
         "label": "Wohnheim"
-      },
-      {
-        "beds": 0,
-        "label": "Unbewarterer Betrieb"
       }
     ],
     "Country": "CH",
@@ -10808,18 +10325,14 @@
   {
     "Id": 596,
     "Name": "Bosruck-Hütte",
-    "Lat": 47.639379,
-    "Lng": 14.366294,
+    "Lat": 47.6394,
+    "Lng": 14.3663,
     "Altitude": 1036,
     "Beds": 30,
     "Rooms": [
       {
         "beds": 30,
         "label": "Dormitory"
-      },
-      {
-        "beds": 0,
-        "label": "Special category"
       }
     ],
     "Country": "AT",
@@ -10830,8 +10343,8 @@
   {
     "Id": 597,
     "Name": "Klagenfurter Hütte",
-    "Lat": 46.446747,
-    "Lng": 14.182995,
+    "Lat": 46.4467,
+    "Lng": 14.183,
     "Altitude": 1664,
     "Beds": 39,
     "Rooms": [
@@ -10846,10 +10359,6 @@
       {
         "beds": 10,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category"
       }
     ],
     "Country": "AT",
@@ -10860,18 +10369,14 @@
   {
     "Id": 598,
     "Name": "Bivacco Piano della Parete",
-    "Lat": 46.438706,
-    "Lng": 9.080077,
+    "Lat": 46.4387,
+    "Lng": 9.0801,
     "Altitude": 2720,
     "Beds": 10,
     "Rooms": [
       {
         "beds": 10,
         "label": "Wohnheim"
-      },
-      {
-        "beds": 0,
-        "label": "Unbewarterer Betrieb"
       }
     ],
     "Country": "CH",
@@ -10882,18 +10387,14 @@
   {
     "Id": 602,
     "Name": "Biwak - Enzianhütte Rhön",
-    "Lat": 50.52,
-    "Lng": 9.91,
+    "Lat": 50.5222,
+    "Lng": 9.9133,
     "Altitude": 760,
     "Beds": 8,
     "Rooms": [
       {
         "beds": 8,
         "label": "Mehrbettzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Sonderkategorie 2"
       }
     ],
     "Country": "DE",
@@ -10907,7 +10408,7 @@
     "Lat": 46.5555,
     "Lng": 8.1522,
     "Altitude": 2731,
-    "Beds": 17,
+    "Beds": 28,
     "Rooms": [
       {
         "beds": 14,
@@ -10927,7 +10428,7 @@
     "Id": 607,
     "Name": "Prova",
     "Lat": 46.07,
-    "Lng": 11.12331,
+    "Lng": 11.1233,
     "Altitude": 5060,
     "Beds": 25,
     "Rooms": [
@@ -10944,8 +10445,8 @@
   {
     "Id": 608,
     "Name": "Boé",
-    "Lat": 46.514614,
-    "Lng": 11.823281,
+    "Lat": 46.5146,
+    "Lng": 11.8233,
     "Altitude": 2871,
     "Beds": 76,
     "Rooms": [
@@ -10962,18 +10463,14 @@
   {
     "Id": 609,
     "Name": "Monzoni \"Torquato Taramelli\"",
-    "Lat": 46.39462,
-    "Lng": 11.740311,
+    "Lat": 46.3946,
+    "Lng": 11.7403,
     "Altitude": 2046,
     "Beds": 12,
     "Rooms": [
       {
         "beds": 12,
         "label": "Beds"
-      },
-      {
-        "beds": 0,
-        "label": "Campo da non utilizzare"
       }
     ],
     "Country": "IT",
@@ -10984,8 +10481,8 @@
   {
     "Id": 610,
     "Name": "Haus Unken",
-    "Lat": 47.661749,
-    "Lng": 12.744579,
+    "Lat": 47.6617,
+    "Lng": 12.7446,
     "Altitude": 564,
     "Beds": 15,
     "Rooms": [
@@ -11006,8 +10503,8 @@
   {
     "Id": 611,
     "Name": "Haus Don Bosco",
-    "Lat": 47.323,
-    "Lng": 9.997,
+    "Lat": 47.3234,
+    "Lng": 9.9974,
     "Altitude": 851,
     "Beds": 46,
     "Rooms": [
@@ -11024,8 +10521,8 @@
   {
     "Id": 612,
     "Name": "Hohenzollernhaus",
-    "Lat": 46.90201,
-    "Lng": 10.63496,
+    "Lat": 46.902,
+    "Lng": 10.635,
     "Altitude": 2123,
     "Beds": 53,
     "Rooms": [
@@ -11036,10 +10533,6 @@
       {
         "beds": 7,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced mode"
       }
     ],
     "Country": "DE",
@@ -11050,8 +10543,8 @@
   {
     "Id": 613,
     "Name": "August-Schuster-Haus",
-    "Lat": 47.583752,
-    "Lng": 10.992427,
+    "Lat": 47.5838,
+    "Lng": 10.9924,
     "Altitude": 1564,
     "Beds": 40,
     "Rooms": [
@@ -11072,8 +10565,8 @@
   {
     "Id": 614,
     "Name": "Sidelenhütte",
-    "Lat": 46.5975591,
-    "Lng": 8.4267161,
+    "Lat": 46.5976,
+    "Lng": 8.4267,
     "Altitude": 2708,
     "Beds": 35,
     "Rooms": [
@@ -11090,10 +10583,10 @@
   {
     "Id": 615,
     "Name": "Martinsmadhütte SAC",
-    "Lat": 46.8926034,
-    "Lng": 9.1882586,
+    "Lat": 46.8926,
+    "Lng": 9.1883,
     "Altitude": 2002,
-    "Beds": 40,
+    "Beds": 44,
     "Rooms": [
       {
         "beds": 40,
@@ -11112,10 +10605,10 @@
   {
     "Id": 616,
     "Name": "Haldenseehaus",
-    "Lat": 47.487397,
-    "Lng": 10.598373,
+    "Lat": 47.4874,
+    "Lng": 10.5984,
     "Altitude": 1150,
-    "Beds": 64,
+    "Beds": 68,
     "Rooms": [
       {
         "beds": 40,
@@ -11124,10 +10617,6 @@
       {
         "beds": 28,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced mode"
       }
     ],
     "Country": "DE",
@@ -11138,10 +10627,10 @@
   {
     "Id": 617,
     "Name": "Ostpreussenhütte",
-    "Lat": 47.46028,
-    "Lng": 13.11603,
+    "Lat": 47.4603,
+    "Lng": 13.116,
     "Altitude": 1630,
-    "Beds": 38,
+    "Beds": 39,
     "Rooms": [
       {
         "beds": 20,
@@ -11168,10 +10657,10 @@
   {
     "Id": 619,
     "Name": "Rosetta \"Giovanni Pedrotti\"",
-    "Lat": 46.267422,
-    "Lng": 11.83902,
+    "Lat": 46.2674,
+    "Lng": 11.839,
     "Altitude": 2578,
-    "Beds": 60,
+    "Beds": 12,
     "Rooms": [
       {
         "beds": 6,
@@ -11180,10 +10669,6 @@
       {
         "beds": 6,
         "label": "Dormitory"
-      },
-      {
-        "beds": 0,
-        "label": "Beds"
       }
     ],
     "Country": "IT",
@@ -11194,10 +10679,10 @@
   {
     "Id": 623,
     "Name": "Ciampedié",
-    "Lat": 46.433865,
-    "Lng": 11.664272,
+    "Lat": 46.4339,
+    "Lng": 11.6643,
     "Altitude": 2000,
-    "Beds": 8,
+    "Beds": 3,
     "Rooms": [
       {
         "beds": 3,
@@ -11212,10 +10697,10 @@
   {
     "Id": 624,
     "Name": "Roda di Vael",
-    "Lat": 46.420195,
-    "Lng": 11.630136,
+    "Lat": 46.4202,
+    "Lng": 11.6301,
     "Altitude": 2282,
-    "Beds": 49,
+    "Beds": 10,
     "Rooms": [
       {
         "beds": 10,
@@ -11230,10 +10715,10 @@
   {
     "Id": 625,
     "Name": "Altissimo \"Damiano Chiesa\"",
-    "Lat": 45.810375,
-    "Lng": 10.890379,
+    "Lat": 45.8104,
+    "Lng": 10.8904,
     "Altitude": 2060,
-    "Beds": 35,
+    "Beds": 15,
     "Rooms": [
       {
         "beds": 15,
@@ -11248,8 +10733,8 @@
   {
     "Id": 626,
     "Name": "Cima d'Asta \"Ottone Brentari\"",
-    "Lat": 46.170309,
-    "Lng": 11.604395,
+    "Lat": 46.1703,
+    "Lng": 11.6044,
     "Altitude": 2480,
     "Beds": 57,
     "Rooms": [
@@ -11266,8 +10751,8 @@
   {
     "Id": 627,
     "Name": "Sette Selle",
-    "Lat": 46.13233,
-    "Lng": 11.392361,
+    "Lat": 46.1323,
+    "Lng": 11.3924,
     "Altitude": 2014,
     "Beds": 15,
     "Rooms": [
@@ -11284,8 +10769,8 @@
   {
     "Id": 628,
     "Name": "Casarota \"Livio Ciola\"",
-    "Lat": 45.954421,
-    "Lng": 11.195494,
+    "Lat": 45.9544,
+    "Lng": 11.1955,
     "Altitude": 1569,
     "Beds": 24,
     "Rooms": [
@@ -11302,8 +10787,8 @@
   {
     "Id": 630,
     "Name": "Alpe Pozza \"Vincenzo Lancia\"",
-    "Lat": 45.827309,
-    "Lng": 11.144719,
+    "Lat": 45.8273,
+    "Lng": 11.1447,
     "Altitude": 1802,
     "Beds": 48,
     "Rooms": [
@@ -11320,8 +10805,8 @@
   {
     "Id": 631,
     "Name": "Bocca di Trat \"Nino Pernici\"",
-    "Lat": 45.926631,
-    "Lng": 10.768671,
+    "Lat": 45.9266,
+    "Lng": 10.7687,
     "Altitude": 1601,
     "Beds": 20,
     "Rooms": [
@@ -11338,10 +10823,10 @@
   {
     "Id": 633,
     "Name": "Peller",
-    "Lat": 46.32225,
-    "Lng": 10.952679,
+    "Lat": 46.3222,
+    "Lng": 10.9527,
     "Altitude": 2022,
-    "Beds": 15,
+    "Beds": 31,
     "Rooms": [
       {
         "beds": 31,
@@ -11356,10 +10841,10 @@
   {
     "Id": 634,
     "Name": "Giorgio Graffer al Grosté",
-    "Lat": 46.219654,
-    "Lng": 10.889412,
+    "Lat": 46.2197,
+    "Lng": 10.8894,
     "Altitude": 2261,
-    "Beds": 25,
+    "Beds": 50,
     "Rooms": [
       {
         "beds": 50,
@@ -11374,16 +10859,11 @@
   {
     "Id": 636,
     "Name": "Tosa \"Tommaso Pedrotti\"",
-    "Lat": 46.15413,
-    "Lng": 10.898766,
+    "Lat": 46.1541,
+    "Lng": 10.8988,
     "Altitude": 2500,
-    "Beds": 10,
-    "Rooms": [
-      {
-        "beds": 0,
-        "label": "Posto letto"
-      }
-    ],
+    "Beds": 0,
+    "Rooms": [],
     "Country": "IT",
     "Code": "SAT",
     "Website": "rifugiotosapedrotti.it/",
@@ -11392,8 +10872,8 @@
   {
     "Id": 637,
     "Name": "Val d'Ambiez \"Silvio Agostini\"",
-    "Lat": 46.142434,
-    "Lng": 10.869477,
+    "Lat": 46.1424,
+    "Lng": 10.8695,
     "Altitude": 2410,
     "Beds": 50,
     "Rooms": [
@@ -11410,10 +10890,10 @@
   {
     "Id": 638,
     "Name": "XII Apostoli \"Fratelli Garbari\"",
-    "Lat": 46.15064,
-    "Lng": 10.847428,
+    "Lat": 46.1506,
+    "Lng": 10.8474,
     "Altitude": 2489,
-    "Beds": 20,
+    "Beds": 10,
     "Rooms": [
       {
         "beds": 10,
@@ -11428,10 +10908,10 @@
   {
     "Id": 639,
     "Name": "Stavèl \"Francesco Denza\"",
-    "Lat": 46.243415,
-    "Lng": 10.655236,
+    "Lat": 46.2434,
+    "Lng": 10.6552,
     "Altitude": 2298,
-    "Beds": 82,
+    "Beds": 40,
     "Rooms": [
       {
         "beds": 40,
@@ -11446,10 +10926,10 @@
   {
     "Id": 640,
     "Name": "Val d'Amola \"Giovanni Segantini\"",
-    "Lat": 46.209112,
-    "Lng": 10.710788,
+    "Lat": 46.2091,
+    "Lng": 10.7108,
     "Altitude": 2371,
-    "Beds": 42,
+    "Beds": 30,
     "Rooms": [
       {
         "beds": 30,
@@ -11464,10 +10944,10 @@
   {
     "Id": 641,
     "Name": "Mandron \"Città di Trento\"",
-    "Lat": 46.202565,
-    "Lng": 10.571175,
+    "Lat": 46.2026,
+    "Lng": 10.5712,
     "Altitude": 2449,
-    "Beds": 83,
+    "Beds": 63,
     "Rooms": [
       {
         "beds": 63,
@@ -11482,10 +10962,10 @@
   {
     "Id": 642,
     "Name": "Caré Alto \"Dante Ongari\"",
-    "Lat": 46.107651,
-    "Lng": 10.626103,
+    "Lat": 46.1077,
+    "Lng": 10.6261,
     "Altitude": 2450,
-    "Beds": 74,
+    "Beds": 66,
     "Rooms": [
       {
         "beds": 2,
@@ -11508,8 +10988,8 @@
   {
     "Id": 643,
     "Name": "Val di Fumo",
-    "Lat": 46.084492,
-    "Lng": 10.562531,
+    "Lat": 46.0845,
+    "Lng": 10.5625,
     "Altitude": 1910,
     "Beds": 30,
     "Rooms": [
@@ -11527,7 +11007,7 @@
     "Id": 644,
     "Name": "Vioz \"Mantova\"",
     "Lat": 46.3992,
-    "Lng": 10.63578,
+    "Lng": 10.6358,
     "Altitude": 3531,
     "Beds": 57,
     "Rooms": [
@@ -11544,10 +11024,10 @@
   {
     "Id": 645,
     "Name": "Cevedale \"Guido Larcher\"",
-    "Lat": 46.436915,
-    "Lng": 10.665993,
+    "Lat": 46.4369,
+    "Lng": 10.666,
     "Altitude": 2607,
-    "Beds": 80,
+    "Beds": 4,
     "Rooms": [
       {
         "beds": 4,
@@ -11562,10 +11042,10 @@
   {
     "Id": 646,
     "Name": "Saènt \"Silvio Dorigoni\"",
-    "Lat": 46.460635,
-    "Lng": 10.751911,
+    "Lat": 46.4606,
+    "Lng": 10.7519,
     "Altitude": 2436,
-    "Beds": 65,
+    "Beds": 20,
     "Rooms": [
       {
         "beds": 20,
@@ -11580,8 +11060,8 @@
   {
     "Id": 647,
     "Name": "Monte Casale \"Don Zio Pisoni\"",
-    "Lat": 46.030058,
-    "Lng": 10.924548,
+    "Lat": 46.0301,
+    "Lng": 10.9245,
     "Altitude": 1590,
     "Beds": 16,
     "Rooms": [
@@ -11598,8 +11078,8 @@
   {
     "Id": 648,
     "Name": "Sulzenauhütte",
-    "Lat": 46.99592,
-    "Lng": 11.181911,
+    "Lat": 46.9959,
+    "Lng": 11.1819,
     "Altitude": 2191,
     "Beds": 102,
     "Rooms": [
@@ -11628,8 +11108,8 @@
   {
     "Id": 649,
     "Name": "Berta-Hütte",
-    "Lat": 46.518164,
-    "Lng": 13.960374,
+    "Lat": 46.5182,
+    "Lng": 13.9604,
     "Altitude": 1527,
     "Beds": 32,
     "Rooms": [
@@ -11646,8 +11126,8 @@
   {
     "Id": 650,
     "Name": "Elberfelder Hütte",
-    "Lat": 46.97814,
-    "Lng": 12.76045,
+    "Lat": 46.9781,
+    "Lng": 12.7605,
     "Altitude": 2346,
     "Beds": 55,
     "Rooms": [
@@ -11660,16 +11140,8 @@
         "label": "Shared bedroom"
       },
       {
-        "beds": 0,
-        "label": "Double room"
-      },
-      {
         "beds": 2,
         "label": "Dog room"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -11680,10 +11152,10 @@
   {
     "Id": 654,
     "Name": "Mannheimer Hütte",
-    "Lat": 47.066762,
-    "Lng": 9.689749,
+    "Lat": 47.0668,
+    "Lng": 9.6897,
     "Altitude": 2679,
-    "Beds": 87,
+    "Beds": 75,
     "Rooms": [
       {
         "beds": 52,
@@ -11706,8 +11178,8 @@
   {
     "Id": 655,
     "Name": "Oberzalimhütte",
-    "Lat": 47.079861,
-    "Lng": 9.693361,
+    "Lat": 47.0799,
+    "Lng": 9.6934,
     "Altitude": 1889,
     "Beds": 44,
     "Rooms": [
@@ -11718,14 +11190,6 @@
       {
         "beds": 30,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 1"
-      },
-      {
-        "beds": 0,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -11736,8 +11200,8 @@
   {
     "Id": 656,
     "Name": "Fluhseehütte",
-    "Lat": 46.41125,
-    "Lng": 7.49946,
+    "Lat": 46.4113,
+    "Lng": 7.4995,
     "Altitude": 2049,
     "Beds": 12,
     "Rooms": [
@@ -11754,10 +11218,10 @@
   {
     "Id": 657,
     "Name": "Antica Osteria Dazio",
-    "Lat": 46.44363,
-    "Lng": 8.66209,
+    "Lat": 46.4436,
+    "Lng": 8.6621,
     "Altitude": 1291,
-    "Beds": 27,
+    "Beds": 25,
     "Rooms": [
       {
         "beds": 14,
@@ -11802,8 +11266,8 @@
   {
     "Id": 663,
     "Name": "Berghaus Bäregg",
-    "Lat": 46.600492,
-    "Lng": 8.060145,
+    "Lat": 46.6005,
+    "Lng": 8.0601,
     "Altitude": 1775,
     "Beds": 28,
     "Rooms": [
@@ -11820,10 +11284,10 @@
   {
     "Id": 665,
     "Name": "Guggihütte SAC",
-    "Lat": 46.56274,
+    "Lat": 46.5627,
     "Lng": 7.9744,
     "Altitude": 2791,
-    "Beds": 24,
+    "Beds": 48,
     "Rooms": [
       {
         "beds": 24,
@@ -11837,12 +11301,12 @@
     "Country": "CH",
     "Code": "SAC",
     "Website": "sac-interlaken.ch/index.php/huetten/guggihuette?view=guggihuette",
-    "Phone": "+410000000000"
+    "Phone": ""
   },
   {
     "Id": 666,
     "Name": "Reichenhaller Haus",
-    "Lat": 47.755228,
+    "Lat": 47.7552,
     "Lng": 12.8501,
     "Altitude": 1750,
     "Beds": 20,
@@ -11864,8 +11328,8 @@
   {
     "Id": 667,
     "Name": "Wormser Hütte",
-    "Lat": 47.063889,
-    "Lng": 9.974722,
+    "Lat": 47.0639,
+    "Lng": 9.9747,
     "Altitude": 2307,
     "Beds": 64,
     "Rooms": [
@@ -11876,10 +11340,6 @@
       {
         "beds": 22,
         "label": "Mehrbettzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Unbewirtschafteter Modus"
       }
     ],
     "Country": "DE",
@@ -11890,10 +11350,10 @@
   {
     "Id": 668,
     "Name": "Cabane de la Barmaz",
-    "Lat": 46.061406,
-    "Lng": 7.386067,
+    "Lat": 46.0614,
+    "Lng": 7.3861,
     "Altitude": 2458,
-    "Beds": 36,
+    "Beds": 48,
     "Rooms": [
       {
         "beds": 24,
@@ -11916,8 +11376,8 @@
   {
     "Id": 669,
     "Name": "Keinprecht-Hütte",
-    "Lat": 47.274638,
-    "Lng": 13.693052,
+    "Lat": 47.2746,
+    "Lng": 13.6931,
     "Altitude": 1872,
     "Beds": 40,
     "Rooms": [
@@ -11934,8 +11394,8 @@
   {
     "Id": 672,
     "Name": "Weisshornhütte SAC",
-    "Lat": 46.086247,
-    "Lng": 7.743592,
+    "Lat": 46.0862,
+    "Lng": 7.7436,
     "Altitude": 2933,
     "Beds": 30,
     "Rooms": [
@@ -11956,8 +11416,8 @@
   {
     "Id": 674,
     "Name": "Capanna Gambarogno",
-    "Lat": 46.112331,
-    "Lng": 8.83057,
+    "Lat": 46.1123,
+    "Lng": 8.8306,
     "Altitude": 1724,
     "Beds": 12,
     "Rooms": [
@@ -11978,10 +11438,10 @@
   {
     "Id": 675,
     "Name": "Franz-Senn-Hütte",
-    "Lat": 47.085192,
-    "Lng": 11.168758,
+    "Lat": 47.0852,
+    "Lng": 11.1688,
     "Altitude": 2147,
-    "Beds": 130,
+    "Beds": 131,
     "Rooms": [
       {
         "beds": 55,
@@ -12008,8 +11468,8 @@
   {
     "Id": 676,
     "Name": "Tannheimer Hütte",
-    "Lat": 47.49,
-    "Lng": 10.61,
+    "Lat": 47.4958,
+    "Lng": 10.6197,
     "Altitude": 1713,
     "Beds": 26,
     "Rooms": [
@@ -12030,10 +11490,10 @@
   {
     "Id": 677,
     "Name": "Kaufbeurer Haus",
-    "Lat": 47.341847,
-    "Lng": 10.456899,
+    "Lat": 47.3418,
+    "Lng": 10.4569,
     "Altitude": 2007,
-    "Beds": 29,
+    "Beds": 42,
     "Rooms": [
       {
         "beds": 29,
@@ -12052,8 +11512,8 @@
   {
     "Id": 679,
     "Name": "Berghaus Alpiglen",
-    "Lat": 46.600038,
-    "Lng": 8.001995,
+    "Lat": 46.6,
+    "Lng": 8.002,
     "Altitude": 1616,
     "Beds": 49,
     "Rooms": [
@@ -12098,10 +11558,6 @@
       {
         "beds": 9,
         "label": "Chambre spéciale"
-      },
-      {
-        "beds": 0,
-        "label": "Non gardienné/Local d'urgence"
       }
     ],
     "Country": "CH",
@@ -12112,15 +11568,11 @@
   {
     "Id": 681,
     "Name": "Cabane Bertol CAS",
-    "Lat": 46.00604,
-    "Lng": 7.52772,
+    "Lat": 46.006,
+    "Lng": 7.5277,
     "Altitude": 3311,
-    "Beds": 80,
+    "Beds": 16,
     "Rooms": [
-      {
-        "beds": 0,
-        "label": "Dortoir"
-      },
       {
         "beds": 16,
         "label": "Non gardienné/Local d'urgence"
@@ -12135,9 +11587,9 @@
     "Id": 682,
     "Name": "Spitzmeilenhütte SAC",
     "Lat": 47.0342,
-    "Lng": 9.25065,
+    "Lng": 9.2507,
     "Altitude": 2087,
-    "Beds": 50,
+    "Beds": 56,
     "Rooms": [
       {
         "beds": 50,
@@ -12157,7 +11609,7 @@
     "Id": 683,
     "Name": "Wangenitzsee-Hütte",
     "Lat": 46.9306,
-    "Lng": 12.79967,
+    "Lng": 12.7997,
     "Altitude": 2508,
     "Beds": 46,
     "Rooms": [
@@ -12172,10 +11624,6 @@
       {
         "beds": 4,
         "label": "Special category"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -12186,8 +11634,8 @@
   {
     "Id": 684,
     "Name": "Lienzer Hütte",
-    "Lat": 46.934975,
-    "Lng": 12.746468,
+    "Lat": 46.935,
+    "Lng": 12.7465,
     "Altitude": 1977,
     "Beds": 67,
     "Rooms": [
@@ -12202,10 +11650,6 @@
       {
         "beds": 10,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -12217,9 +11661,9 @@
     "Id": 685,
     "Name": "Schwarzensteinhütte (Rif. al Sasso Nero)",
     "Lat": 47.013,
-    "Lng": 11.885647,
+    "Lng": 11.8856,
     "Altitude": 3026,
-    "Beds": 50,
+    "Beds": 55,
     "Rooms": [
       {
         "beds": 41,
@@ -12242,18 +11686,14 @@
   {
     "Id": 686,
     "Name": "Frederic-Simms-Hütte",
-    "Lat": 47.210307,
-    "Lng": 10.355494,
+    "Lat": 47.2103,
+    "Lng": 10.3555,
     "Altitude": 2004,
     "Beds": 45,
     "Rooms": [
       {
         "beds": 45,
         "label": "Dormitory"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced mode"
       }
     ],
     "Country": "DE",
@@ -12264,8 +11704,8 @@
   {
     "Id": 687,
     "Name": "Julius Payer Hütte (Rif. Julius Payer)",
-    "Lat": 46.52746,
-    "Lng": 10.543438,
+    "Lat": 46.5275,
+    "Lng": 10.5434,
     "Altitude": 3029,
     "Beds": 62,
     "Rooms": [
@@ -12290,10 +11730,10 @@
   {
     "Id": 688,
     "Name": "Treschhütte SAC",
-    "Lat": 46.71863,
+    "Lat": 46.7186,
     "Lng": 8.6495,
     "Altitude": 1475,
-    "Beds": 34,
+    "Beds": 66,
     "Rooms": [
       {
         "beds": 26,
@@ -12319,7 +11759,7 @@
     "Lat": 46.5416,
     "Lng": 9.0419,
     "Altitude": 2089,
-    "Beds": 30,
+    "Beds": 38,
     "Rooms": [
       {
         "beds": 30,
@@ -12338,10 +11778,10 @@
   {
     "Id": 690,
     "Name": "Cabane des Audannes",
-    "Lat": 46.34347,
-    "Lng": 7.38415,
+    "Lat": 46.3435,
+    "Lng": 7.3841,
     "Altitude": 2503,
-    "Beds": 49,
+    "Beds": 79,
     "Rooms": [
       {
         "beds": 49,
@@ -12360,10 +11800,10 @@
   {
     "Id": 691,
     "Name": "Stickler-Hütte",
-    "Lat": 47.148372,
-    "Lng": 13.378154,
+    "Lat": 47.1484,
+    "Lng": 13.3782,
     "Altitude": 1750,
-    "Beds": 42,
+    "Beds": 46,
     "Rooms": [
       {
         "beds": 35,
@@ -12390,8 +11830,8 @@
   {
     "Id": 692,
     "Name": "Dresdner Hütte",
-    "Lat": 46.999726,
-    "Lng": 11.139388,
+    "Lat": 46.9997,
+    "Lng": 11.1394,
     "Altitude": 2308,
     "Beds": 135,
     "Rooms": [
@@ -12424,8 +11864,8 @@
   {
     "Id": 693,
     "Name": "Starkenburger Hütte",
-    "Lat": 47.126944,
-    "Lng": 11.279444,
+    "Lat": 47.1269,
+    "Lng": 11.2794,
     "Altitude": 2237,
     "Beds": 59,
     "Rooms": [
@@ -12446,10 +11886,10 @@
   {
     "Id": 694,
     "Name": "Cavardirashütte SAC",
-    "Lat": 46.742469,
-    "Lng": 8.814237,
+    "Lat": 46.7425,
+    "Lng": 8.8142,
     "Altitude": 2649,
-    "Beds": 50,
+    "Beds": 65,
     "Rooms": [
       {
         "beds": 50,
@@ -12468,10 +11908,10 @@
   {
     "Id": 695,
     "Name": "Zittel-Haus",
-    "Lat": 47.054,
-    "Lng": 12.957,
+    "Lat": 47.0542,
+    "Lng": 12.9574,
     "Altitude": 3106,
-    "Beds": 63,
+    "Beds": 62,
     "Rooms": [
       {
         "beds": 40,
@@ -12490,18 +11930,14 @@
   {
     "Id": 697,
     "Name": "Domhütte SAC",
-    "Lat": 46.103031,
-    "Lng": 7.817705,
+    "Lat": 46.103,
+    "Lng": 7.8177,
     "Altitude": 2937,
     "Beds": 75,
     "Rooms": [
       {
         "beds": 75,
         "label": "Mehrbettzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -12512,15 +11948,11 @@
   {
     "Id": 698,
     "Name": "Rifugio Garzonera",
-    "Lat": 46.499504,
-    "Lng": 8.661362,
+    "Lat": 46.4995,
+    "Lng": 8.6614,
     "Altitude": 1973,
     "Beds": 20,
     "Rooms": [
-      {
-        "beds": 0,
-        "label": "Massenlager"
-      },
       {
         "beds": 20,
         "label": "Schutzraum/Winterraum"
@@ -12534,8 +11966,8 @@
   {
     "Id": 705,
     "Name": "Siegerlandhütte",
-    "Lat": 46.94083,
-    "Lng": 11.14778,
+    "Lat": 46.9408,
+    "Lng": 11.1478,
     "Altitude": 2710,
     "Beds": 51,
     "Rooms": [
@@ -12558,10 +11990,6 @@
       {
         "beds": 3,
         "label": "Special category 1"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced mode"
       }
     ],
     "Country": "DE",
@@ -12572,18 +12000,14 @@
   {
     "Id": 706,
     "Name": "Cabane de Prarochet",
-    "Lat": 46.185205,
-    "Lng": 7.145079,
+    "Lat": 46.1852,
+    "Lng": 7.1451,
     "Altitude": 2556,
     "Beds": 15,
     "Rooms": [
       {
         "beds": 15,
         "label": "Dortoir"
-      },
-      {
-        "beds": 0,
-        "label": "Non gardienné/Local d'urgence"
       }
     ],
     "Country": "CH",
@@ -12594,10 +12018,10 @@
   {
     "Id": 707,
     "Name": "Rappenseehütte",
-    "Lat": 47.288858,
-    "Lng": 10.255029,
+    "Lat": 47.2889,
+    "Lng": 10.255,
     "Altitude": 2091,
-    "Beds": 200,
+    "Beds": 208,
     "Rooms": [
       {
         "beds": 180,
@@ -12611,15 +12035,15 @@
     "Country": "DE",
     "Code": "DAV",
     "Website": "www.dav-kempten.de/huetten/rappenseehuette",
-    "Phone": "+49000000000"
+    "Phone": ""
   },
   {
     "Id": 710,
     "Name": " Albert-Heim-Hütte SAC",
     "Lat": 46.6089,
-    "Lng": 8.46355,
+    "Lng": 8.4635,
     "Altitude": 2543,
-    "Beds": 60,
+    "Beds": 68,
     "Rooms": [
       {
         "beds": 46,
@@ -12646,8 +12070,8 @@
   {
     "Id": 711,
     "Name": "Arthur-von-Schmid-Haus",
-    "Lat": 46.989098,
-    "Lng": 13.267216,
+    "Lat": 46.9891,
+    "Lng": 13.2672,
     "Altitude": 2281,
     "Beds": 59,
     "Rooms": [
@@ -12662,10 +12086,6 @@
       {
         "beds": 2,
         "label": "Double room"
-      },
-      {
-        "beds": 0,
-        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -12676,8 +12096,8 @@
   {
     "Id": 714,
     "Name": "Solstein-Haus",
-    "Lat": 47.308092,
-    "Lng": 11.288141,
+    "Lat": 47.3081,
+    "Lng": 11.2881,
     "Altitude": 1805,
     "Beds": 85,
     "Rooms": [
@@ -12688,14 +12108,6 @@
       {
         "beds": 40,
         "label": "Mehrbettzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Zweierzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Sonderkategorie"
       }
     ],
     "Country": "AT",
@@ -12706,10 +12118,10 @@
   {
     "Id": 716,
     "Name": "Hagener Hütte",
-    "Lat": 47.02,
-    "Lng": 13.09,
+    "Lat": 47.0276,
+    "Lng": 13.0896,
     "Altitude": 2446,
-    "Beds": 33,
+    "Beds": 43,
     "Rooms": [
       {
         "beds": 21,
@@ -12740,8 +12152,8 @@
   {
     "Id": 717,
     "Name": "Leutschachhütte SAC",
-    "Lat": 47.78361,
-    "Lng": 8.601277,
+    "Lat": 47.7836,
+    "Lng": 8.6013,
     "Altitude": 2208,
     "Beds": 60,
     "Rooms": [
@@ -12762,8 +12174,8 @@
   {
     "Id": 718,
     "Name": "Gmundner Hütte",
-    "Lat": 47.872943,
-    "Lng": 13.833801,
+    "Lat": 47.8729,
+    "Lng": 13.8338,
     "Altitude": 1666,
     "Beds": 39,
     "Rooms": [
@@ -12784,8 +12196,8 @@
   {
     "Id": 720,
     "Name": "Lizumer Hütte",
-    "Lat": 47.16,
-    "Lng": 11.64,
+    "Lat": 47.1668,
+    "Lng": 11.6405,
     "Altitude": 2019,
     "Beds": 76,
     "Rooms": [
@@ -12810,8 +12222,8 @@
   {
     "Id": 721,
     "Name": "Erlanger Hütte",
-    "Lat": 47.14472,
-    "Lng": 10.84722,
+    "Lat": 47.1447,
+    "Lng": 10.8472,
     "Altitude": 2550,
     "Beds": 40,
     "Rooms": [
@@ -12826,10 +12238,6 @@
       {
         "beds": 6,
         "label": "Zweierzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Unbewirtschafteter Modus"
       }
     ],
     "Country": "DE",
@@ -12840,8 +12248,8 @@
   {
     "Id": 723,
     "Name": "Pfälzerhütte LAV",
-    "Lat": 47.071327,
-    "Lng": 9.613255,
+    "Lat": 47.0713,
+    "Lng": 9.6133,
     "Altitude": 2108,
     "Beds": 72,
     "Rooms": [
@@ -12866,8 +12274,8 @@
   {
     "Id": 724,
     "Name": "von-Schmidt-Zabierow-Hütte",
-    "Lat": 47.55,
-    "Lng": 12.65,
+    "Lat": 47.5508,
+    "Lng": 12.6464,
     "Altitude": 1966,
     "Beds": 42,
     "Rooms": [
@@ -12888,8 +12296,8 @@
   {
     "Id": 725,
     "Name": "Hochlandhütte",
-    "Lat": 47.450916,
-    "Lng": 11.318772,
+    "Lat": 47.4509,
+    "Lng": 11.3188,
     "Altitude": 1630,
     "Beds": 41,
     "Rooms": [
@@ -12910,10 +12318,10 @@
   {
     "Id": 726,
     "Name": "Cabane des Ecoulaies",
-    "Lat": 46.063535,
-    "Lng": 7.379731,
+    "Lat": 46.0635,
+    "Lng": 7.3797,
     "Altitude": 2575,
-    "Beds": 22,
+    "Beds": 44,
     "Rooms": [
       {
         "beds": 22,
@@ -12932,8 +12340,8 @@
   {
     "Id": 727,
     "Name": "Hermann-von-Barth-Hütte",
-    "Lat": 47.3095856,
-    "Lng": 10.3987423,
+    "Lat": 47.3096,
+    "Lng": 10.3987,
     "Altitude": 2131,
     "Beds": 57,
     "Rooms": [
@@ -12958,18 +12366,14 @@
   {
     "Id": 728,
     "Name": "Aclas Dafora",
-    "Lat": 46.695155,
-    "Lng": 9.638081,
+    "Lat": 46.6952,
+    "Lng": 9.6381,
     "Altitude": 1680,
     "Beds": 14,
     "Rooms": [
       {
         "beds": 14,
         "label": "Mehrbettzimmer"
-      },
-      {
-        "beds": 0,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -12980,10 +12384,10 @@
   {
     "Id": 729,
     "Name": "Enderlinhütte SAC",
-    "Lat": 47.038784,
-    "Lng": 9.551532,
+    "Lat": 47.0388,
+    "Lng": 9.5515,
     "Altitude": 1501,
-    "Beds": 25,
+    "Beds": 40,
     "Rooms": [
       {
         "beds": 25,
@@ -13002,10 +12406,10 @@
   {
     "Id": 730,
     "Name": "Capanna Cadagno",
-    "Lat": 46.54654,
-    "Lng": 8.719669,
+    "Lat": 46.5465,
+    "Lng": 8.7197,
     "Altitude": 1987,
-    "Beds": 74,
+    "Beds": 102,
     "Rooms": [
       {
         "beds": 74,
@@ -13024,8 +12428,8 @@
   {
     "Id": 732,
     "Name": "Brisenhaus",
-    "Lat": 46.9149475,
-    "Lng": 8.4641234,
+    "Lat": 46.9149,
+    "Lng": 8.4641,
     "Altitude": 1753,
     "Beds": 45,
     "Rooms": [
@@ -13042,8 +12446,8 @@
   {
     "Id": 733,
     "Name": "Magdeburger Hütte (Rif. Cremona alla Stua)",
-    "Lat": 46.973525,
-    "Lng": 11.284193,
+    "Lat": 46.9735,
+    "Lng": 11.2842,
     "Altitude": 2423,
     "Beds": 40,
     "Rooms": [
@@ -13064,10 +12468,10 @@
   {
     "Id": 734,
     "Name": "Rifugio Gana Rossa",
-    "Lat": 46.506351,
-    "Lng": 8.845722,
+    "Lat": 46.5064,
+    "Lng": 8.8457,
     "Altitude": 2272,
-    "Beds": 12,
+    "Beds": 24,
     "Rooms": [
       {
         "beds": 12,
@@ -13089,7 +12493,7 @@
     "Lat": 46.2341,
     "Lng": 8.5619,
     "Altitude": 1764,
-    "Beds": 19,
+    "Beds": 27,
     "Rooms": [
       {
         "beds": 19,
@@ -13108,8 +12512,8 @@
   {
     "Id": 741,
     "Name": "Druesberghütte",
-    "Lat": 47.020706,
-    "Lng": 8.826148,
+    "Lat": 47.0207,
+    "Lng": 8.8261,
     "Altitude": 1581,
     "Beds": 36,
     "Rooms": [
@@ -13130,8 +12534,8 @@
   {
     "Id": 742,
     "Name": "Paludei",
-    "Lat": 45.971249,
-    "Lng": 11.224404,
+    "Lat": 45.9712,
+    "Lng": 11.2244,
     "Altitude": 1059,
     "Beds": 14,
     "Rooms": [
@@ -13148,15 +12552,11 @@
   {
     "Id": 745,
     "Name": "Bivacco Corte Rossa",
-    "Lat": 46.26,
-    "Lng": 8.41,
+    "Lat": 46.2692,
+    "Lng": 8.4182,
     "Altitude": 2004,
     "Beds": 8,
     "Rooms": [
-      {
-        "beds": 0,
-        "label": "Doppelzimmer"
-      },
       {
         "beds": 8,
         "label": "Unbewarterer Betrieb"
@@ -13170,8 +12570,8 @@
   {
     "Id": 746,
     "Name": "Nauderer Hütte",
-    "Lat": 46.878056,
-    "Lng": 10.548333,
+    "Lat": 46.8781,
+    "Lng": 10.5483,
     "Altitude": 1910,
     "Beds": 1,
     "Rooms": [
@@ -13184,23 +12584,5 @@
     "Code": "DAV",
     "Website": "www.naudererhuette.de/",
     "Phone": "+4942172484"
-  },
-  {
-    "Id": 748,
-    "Name": "Ostegghütte",
-    "Lat": 46.600501,
-    "Lng": 8.041153,
-    "Altitude": 2317,
-    "Beds": 15,
-    "Rooms": [
-      {
-        "beds": 15,
-        "label": "Massenlager"
-      }
-    ],
-    "Country": "CH",
-    "Code": "SAC",
-    "Website": "www.mittellegi.ch/de/ostegghuette",
-    "Phone": "+41792048748"
   }
 ]
