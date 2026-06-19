@@ -524,7 +524,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.sac-emmental.ch/hohganthuette/",
+    "Website": "www.sac-emmental.ch/hohganthuette",
     "Phone": "+41764085450"
   },
   {
@@ -611,11 +611,15 @@
     "Lat": 46.674,
     "Lng": 8.3712,
     "Altitude": 2420,
-    "Beds": 62,
+    "Beds": 68,
     "Rooms": [
       {
         "beds": 62,
         "label": "Mehrbettzimmer"
+      },
+      {
+        "beds": 6,
+        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -638,7 +642,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.sac-toggenburg.ch/clubhuette/",
+    "Website": "www.sac-toggenburg.ch/clubhuette",
     "Phone": "+41719992436"
   },
   {
@@ -716,7 +720,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.tuoi.ch/",
+    "Website": "www.tuoi.ch",
     "Phone": "+41818622322"
   },
   {
@@ -802,7 +806,7 @@
         "label": "Massenlager"
       }
     ],
-    "Country": "CH",
+    "Country": "IT",
     "Code": "SAC",
     "Website": "www.sascfura.ch",
     "Phone": "+41818221252"
@@ -926,7 +930,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.windgaellenhuette.ch/",
+    "Website": "www.windgaellenhuette.ch",
     "Phone": "+41418851088"
   },
   {
@@ -950,7 +954,7 @@
         "label": "4-er Zimmer"
       }
     ],
-    "Country": "CH",
+    "Country": "AT",
     "Code": "SAC",
     "Website": "www.carschina.ch",
     "Phone": "+41794182280"
@@ -1048,7 +1052,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "nationalpark.ch/besuchen/unterkunft/cluozza/",
+    "Website": "nationalpark.ch/besuchen/unterkunft/cluozza",
     "Phone": "+41818561235"
   },
   {
@@ -1182,7 +1186,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.neue-prager-huette.at",
     "Phone": "+436645235220"
@@ -1226,7 +1230,7 @@
         "label": "Zweierzimmer"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "dav-pfaffenhofen.de/huetten/ascher-huette",
     "Phone": "+436603424067"
@@ -1326,7 +1330,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "cas-diablerets.ch/cabanes/chalet-lacombe/",
+    "Website": "cas-diablerets.ch/cabanes/chalet-lacombe",
     "Phone": "+41795443152"
   },
   {
@@ -1390,7 +1394,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.davplus.de/hoellentalangerhuette",
     "Phone": "+4988219438548"
@@ -1416,7 +1420,7 @@
         "label": "Schutzraum/Winterraum"
       }
     ],
-    "Country": "CH",
+    "Country": "AT",
     "Code": "SAC",
     "Website": "www.schesaplana-huette.ch",
     "Phone": "+41813251163"
@@ -1436,7 +1440,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "cas-diablerets.ch/cabanes/refuge-des-petoudes/",
+    "Website": "cas-diablerets.ch/cabanes/refuge-des-petoudes",
     "Phone": "+41774463585"
   },
   {
@@ -1508,7 +1512,7 @@
         "label": "Unserviced mode"
       }
     ],
-    "Country": "DE",
+    "Country": "CH",
     "Code": "DAV",
     "Website": "www.alpenverein.de/verband/huetten-und-wege/huetten-des-bundesverbands/klostertaler-umwelthuette",
     "Phone": "+49891400341"
@@ -1586,7 +1590,7 @@
         "label": "Zweierzimmer"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.hallerangerhaus.at",
     "Phone": "+43720347028"
@@ -1612,7 +1616,7 @@
         "label": "Zweierzimmer"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.alpenverein-fuessen.de/huetten/fritz-putz-huette",
     "Phone": "+498362507187"
@@ -1688,7 +1692,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.alpenverein.at/frassenhuette/",
+    "Website": "www.alpenverein.at/frassenhuette",
     "Phone": "+436641412437"
   },
   {
@@ -1712,7 +1716,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.karwendelhaus.com",
     "Phone": "+43720983554"
@@ -1758,7 +1762,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.alpenverein.at/heinrichhueterhuette/",
+    "Website": "www.alpenverein.at/heinrichhueterhuette",
     "Phone": "+43555676570"
   },
   {
@@ -1864,9 +1868,9 @@
         "label": "Unserviced mode"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "www.kaltenberghuette.at/",
+    "Website": "www.kaltenberghuette.at",
     "Phone": "+436649280636"
   },
   {
@@ -1886,9 +1890,9 @@
         "label": "Unserviced mode"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "www.dav-reutlingen.de/huetten/neue-reutlinger-huette/",
+    "Website": "www.dav-reutlingen.de/huetten/neue-reutlinger-huette",
     "Phone": "+497121144860"
   },
   {
@@ -1912,9 +1916,9 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "www.freiburger-huette.at/",
+    "Website": "www.freiburger-huette.at",
     "Phone": "+436641745042"
   },
   {
@@ -1934,9 +1938,9 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "www.dav-ueberlingen.de/huette-au/",
+    "Website": "www.dav-ueberlingen.de/huette-au",
     "Phone": "+491716355640"
   },
   {
@@ -1960,28 +1964,10 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.dav-main-spessart.de",
     "Phone": "+4353582262"
-  },
-  {
-    "Id": 101,
-    "Name": "Saupsdorfer Hütte",
-    "Lat": 50.9278,
-    "Lng": 14.335,
-    "Altitude": 285,
-    "Beds": 25,
-    "Rooms": [
-      {
-        "beds": 25,
-        "label": "Mehrbettzimmer"
-      }
-    ],
-    "Country": "DE",
-    "Code": "DAV",
-    "Website": "www.saupsdorfer-huette.de/",
-    "Phone": "+493597455848"
   },
   {
     "Id": 103,
@@ -2008,7 +1994,7 @@
         "label": "Unbewirtschafteter Modus"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.heilbronner-huette.de",
     "Phone": "+436641804277"
@@ -2034,7 +2020,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.rotwandhaus.de",
     "Phone": "+4980263959970"
@@ -2064,7 +2050,7 @@
         "label": "Special category 1"
       }
     ],
-    "Country": "DE",
+    "Country": "IT",
     "Code": "DAV",
     "Website": "www.berlinerhuette.at",
     "Phone": "+4366488787025"
@@ -2148,9 +2134,9 @@
         "label": "Mehrbettzimmer"
       }
     ],
-    "Country": "AT",
+    "Country": "IT",
     "Code": "OEAV",
-    "Website": "zollnerseehuette.oeav-obergailtal.at/",
+    "Website": "zollnerseehuette.oeav-obergailtal.at",
     "Phone": "+436508209913"
   },
   {
@@ -2178,7 +2164,7 @@
         "label": "Unserviced mode"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.geraerhuette.at",
     "Phone": "+436645106830"
@@ -2206,7 +2192,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.alpenverein.at/hofpuerglhuette/",
+    "Website": "www.alpenverein.at/hofpuerglhuette",
     "Phone": "+4364538304"
   },
   {
@@ -2230,7 +2216,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.alpenrosenhuette.at",
     "Phone": "+436607375009"
@@ -2256,7 +2242,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.ruesselsheimer-huette.de",
     "Phone": "+43541320300"
@@ -2282,9 +2268,9 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "alpenverein-bamberg.de/huetten/bamberger-huette/",
+    "Website": "alpenverein-bamberg.de/huetten/bamberger-huette",
     "Phone": "+436644559469"
   },
   {
@@ -2310,7 +2296,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.alpenverein.at/moedlingerhuette/",
+    "Website": "www.alpenverein.at/moedlingerhuette",
     "Phone": "+43361121120"
   },
   {
@@ -2330,7 +2316,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.olpererhuette.de",
     "Phone": "+436644176566"
@@ -2356,7 +2342,7 @@
         "label": "Dog room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.alpenverein.de/hannoverhaus",
     "Phone": "+43478421345"
@@ -2382,7 +2368,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "IT",
     "Code": "DAV",
     "Website": "www.greizerhuette.at",
     "Phone": "+4366499721169"
@@ -2408,7 +2394,7 @@
         "label": "Unserviced mode"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.nuernberger-huette.at   o d e r   www.nuernbergerhuette.at (DAV Sektion Nürnberg)",
     "Phone": "+436641657461"
@@ -2436,7 +2422,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.edelweisshuette.at/",
+    "Website": "www.edelweisshuette.at",
     "Phone": "+4326363616"
   },
   {
@@ -2466,7 +2452,7 @@
     ],
     "Country": "IT",
     "Code": "AVS",
-    "Website": "www.meranerhuette.it/",
+    "Website": "www.meranerhuette.it",
     "Phone": "+393930006447"
   },
   {
@@ -2490,7 +2476,7 @@
         "label": "Dog room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.alpenverein-muenchen-oberland.de/reintalangerhuette",
     "Phone": "+4916097503090"
@@ -2512,7 +2498,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.magdeburger-huette.at",
     "Phone": "+43523888790"
@@ -2544,24 +2530,6 @@
     "Phone": "+4980328210"
   },
   {
-    "Id": 131,
-    "Name": "Dessauer Hütte",
-    "Lat": 50.8973,
-    "Lng": 14.1358,
-    "Altitude": 281,
-    "Beds": 30,
-    "Rooms": [
-      {
-        "beds": 30,
-        "label": "Dormitory"
-      }
-    ],
-    "Country": "DE",
-    "Code": "DAV",
-    "Website": "www.dav-dessau.de/huette",
-    "Phone": "+493405710700"
-  },
-  {
     "Id": 132,
     "Name": "Clarahütte",
     "Lat": 47.0159,
@@ -2590,9 +2558,9 @@
         "label": "Special category 1"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "www.virgental.at/unterkuenfte/unterkunft-suche/detail/unterkunft/clarahuette-2038-m/",
+    "Website": "www.virgental.at/unterkuenfte/unterkunft-suche/detail/unterkunft/clarahuette-2038-m",
     "Phone": "+436649758893"
   },
   {
@@ -2624,7 +2592,7 @@
         "label": "Unserviced mode"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.essener-rostocker-huette.de",
     "Phone": "+4348775101"
@@ -2668,7 +2636,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.richterhuette.com",
     "Phone": "+43524221328"
@@ -2694,7 +2662,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.alpenverein-muenchen-oberland.de/huetten/alpenvereinshuetten/oberlandhuette",
     "Phone": "+4353578113"
@@ -2756,7 +2724,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.bremerhuette.at",
     "Phone": "+436643047360"
@@ -2808,7 +2776,7 @@
         "label": "Dog room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.riemannhaus-maria-alm.at",
     "Phone": "+436702034373"
@@ -2858,7 +2826,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.alpenverein.at/juliusseitnerhuette/",
+    "Website": "www.alpenverein.at/juliusseitnerhuette",
     "Phone": "+4367761198729"
   },
   {
@@ -2882,7 +2850,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.gufferthuette.at",
     "Phone": "+436641272240"
@@ -2904,7 +2872,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.knorrhuette.de",
     "Phone": "+4915114443496"
@@ -2922,7 +2890,7 @@
         "label": "Dormitory"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.muenchnerhaus.de",
     "Phone": "+4988212901"
@@ -2970,7 +2938,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.heinrich-schwaiger-haus.at",
     "Phone": "+436646565555"
@@ -2996,9 +2964,9 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "www.gruttenhuette.at/",
+    "Website": "www.gruttenhuette.at",
     "Phone": "+43535843389"
   },
   {
@@ -3050,7 +3018,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.chamannajenatsch.ch/",
+    "Website": "www.chamannajenatsch.ch",
     "Phone": "+41818332929"
   },
   {
@@ -3072,7 +3040,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.alpenverein.at/salmhuette/",
+    "Website": "www.alpenverein.at/salmhuette",
     "Phone": "+4348242089"
   },
   {
@@ -3094,7 +3062,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.muttekopf.at/huette/",
+    "Website": "www.muttekopf.at/huette",
     "Phone": "+436641236928"
   },
   {
@@ -3128,7 +3096,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.neue-bonner-huette.at",
     "Phone": "+436649492446"
@@ -3154,7 +3122,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.toelzer-huette.at",
     "Phone": "+4915174571985"
@@ -3242,7 +3210,7 @@
         "label": "Spezialzimmer"
       }
     ],
-    "Country": "CH",
+    "Country": "IT",
     "Code": "SAC",
     "Website": "capannamontebar.casticino.ch/#",
     "Phone": "+41919663322"
@@ -3260,7 +3228,7 @@
         "label": "Dormitory"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.gamshuette.at",
     "Phone": "+436644282969"
@@ -3282,7 +3250,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.friesenberghaus.at",
     "Phone": "+436641641933"
@@ -3304,7 +3272,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.riffelseehuette.at",
     "Phone": "+436643950062"
@@ -3356,7 +3324,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.gepatschhaus.at",
     "Phone": "+436604610244"
@@ -3386,7 +3354,7 @@
         "label": "Dog room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "badkissingerhuette.at",
     "Phone": "+436763731166"
@@ -3424,7 +3392,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.alpenverein.at/kampthalerhuette/",
+    "Website": "www.alpenverein.at/kampthalerhuette",
     "Phone": "+4315138500"
   },
   {
@@ -3448,7 +3416,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "IT",
     "Code": "DAV",
     "Website": "www.kasselerhuette.de",
     "Phone": "+436644016033"
@@ -3472,7 +3440,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.alpenverein.at/pfeishuette/",
+    "Website": "www.alpenverein.at/pfeishuette",
     "Phone": "+43512552906"
   },
   {
@@ -3492,7 +3460,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "IT",
     "Code": "DAV",
     "Website": "www.furtschaglhaus.com",
     "Phone": "+4368184218751"
@@ -3514,7 +3482,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.brandenburgerhaus.at",
     "Phone": "+436706026159"
@@ -3554,7 +3522,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.goeppinger-huette.at",
     "Phone": "+4355833540"
@@ -3602,9 +3570,9 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "AT",
+    "Country": "IT",
     "Code": "OEAV",
-    "Website": "www.alpenverein.at/porzehuette/",
+    "Website": "www.alpenverein.at/porzehuette",
     "Phone": "+436643256452"
   },
   {
@@ -3624,7 +3592,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "IT",
     "Code": "DAV",
     "Website": "www.dav-wuppertal.de/huetten-kletteranlagen/barmer-huette",
     "Phone": "+436649489413"
@@ -3650,9 +3618,9 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "www.sudetendeutschehuette.com/",
+    "Website": "www.sudetendeutschehuette.com",
     "Phone": "+43720347802"
   },
   {
@@ -3676,7 +3644,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "CH",
     "Code": "DAV",
     "Website": "www.jamtalhuette.at",
     "Phone": "+4354438408"
@@ -3702,9 +3670,9 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "www.alpenverein-schwaben.de/huetten/stuttgarter-huette/",
+    "Website": "www.alpenverein-schwaben.de/huetten/stuttgarter-huette",
     "Phone": "+436767580250"
   },
   {
@@ -3812,7 +3780,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.straubingerhaus.at",
     "Phone": "+4353756429"
@@ -3834,7 +3802,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.bayreuther-huette.de",
     "Phone": "+436643425103"
@@ -3856,7 +3824,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.noerdlingerhuette.at",
     "Phone": "+436649142262"
@@ -3878,7 +3846,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.edelhuette-dav.de",
     "Phone": "+436649154851"
@@ -3926,7 +3894,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.rastkogelhuette.de",
     "Phone": "+436802257124"
@@ -3986,7 +3954,7 @@
         "label": "Unserviced mode"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.plauener-huette.at",
     "Phone": "+436504684308"
@@ -4010,7 +3978,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "almagellerhuette.ch/de/",
+    "Website": "almagellerhuette.ch/de",
     "Phone": "+41279571179"
   },
   {
@@ -4052,7 +4020,7 @@
         "label": "Zweierzimmer"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.bruennsteinhaus.de",
     "Phone": "+4980331431"
@@ -4102,7 +4070,7 @@
     ],
     "Country": "DE",
     "Code": "DAV",
-    "Website": "tutzinger-huette.de/",
+    "Website": "tutzinger-huette.de",
     "Phone": "+491751641690"
   },
   {
@@ -4166,7 +4134,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.landsbergerhuette.at",
     "Phone": "+4356756282"
@@ -4192,7 +4160,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.weidener-huette.at",
     "Phone": "+4366488109940"
@@ -4210,7 +4178,7 @@
         "label": "Dormitory"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.dav-fn.de/huetten/Friedrichshafener-Huette",
     "Phone": "+436767908056"
@@ -4280,7 +4248,7 @@
         "label": "Dormitory"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.alpenverein-muenchen-oberland.de/huetten/alpenvereinshuetten/stuedlhuette",
     "Phone": "+4348768209"
@@ -4304,7 +4272,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "capannamotterascio.casticino.ch/",
+    "Website": "capannamotterascio.casticino.ch",
     "Phone": "+41918721622"
   },
   {
@@ -4324,7 +4292,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "dav-biberach.de/biberacher-huette",
     "Phone": "+435519257"
@@ -4350,7 +4318,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.gleiwitzerhuette.at",
     "Phone": "+4915119029849"
@@ -4504,7 +4472,7 @@
     ],
     "Country": "IT",
     "Code": "AVS",
-    "Website": "www.oberettes.it/",
+    "Website": "www.oberettes.it",
     "Phone": "+390473830280"
   },
   {
@@ -4520,7 +4488,7 @@
         "label": "Dormitory"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.taschachhaus.de",
     "Phone": "+436642009588"
@@ -4542,7 +4510,7 @@
         "label": "Mehrbettzimmer"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.passauer-huette.de",
     "Phone": "+436805072624"
@@ -4564,9 +4532,9 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "CH",
     "Code": "DAV",
-    "Website": "www.wiesbadener-huette.com/",
+    "Website": "www.wiesbadener-huette.com",
     "Phone": "+4355584233"
   },
   {
@@ -4586,7 +4554,7 @@
         "label": "Mehrbettzimmer"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.augsburgerhuette.at",
     "Phone": "+436646411643"
@@ -4608,7 +4576,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "CH",
     "Code": "DAV",
     "Website": "www.tuebinger-huette.de",
     "Phone": "+4369020071605"
@@ -4634,9 +4602,9 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "www.neuethueringerhuette.at/",
+    "Website": "www.neuethueringerhuette.at",
     "Phone": "+436644273214"
   },
   {
@@ -4656,7 +4624,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.vernagthuette.de",
     "Phone": "+436647980757"
@@ -4686,7 +4654,7 @@
         "label": "Dog room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.pforzheimerhuette.at",
     "Phone": "+4369913294581"
@@ -4930,32 +4898,6 @@
     "Phone": "+393291318270"
   },
   {
-    "Id": 258,
-    "Name": "Jonsdorfer Hütte",
-    "Lat": 50.8594,
-    "Lng": 14.6997,
-    "Altitude": 452,
-    "Beds": 21,
-    "Rooms": [
-      {
-        "beds": 12,
-        "label": "Dormitory"
-      },
-      {
-        "beds": 7,
-        "label": "Shared bedroom"
-      },
-      {
-        "beds": 2,
-        "label": "Double room"
-      }
-    ],
-    "Country": "DE",
-    "Code": "DAV",
-    "Website": "dav-zittau.de/index.php?rubrik=H%FCtte%20Jonsdorf&topic=123",
-    "Phone": "+4935844204878"
-  },
-  {
     "Id": 259,
     "Name": "Voralphütte SAC",
     "Lat": 46.6906,
@@ -5035,14 +4977,14 @@
     "Lat": 47.4243,
     "Lng": 13.6001,
     "Altitude": 1638,
-    "Beds": 45,
+    "Beds": 44,
     "Rooms": [
       {
         "beds": 16,
         "label": "Dormitory"
       },
       {
-        "beds": 18,
+        "beds": 17,
         "label": "Shared bedroom"
       },
       {
@@ -5100,7 +5042,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "cabane-binntal.ch/",
+    "Website": "cabane-binntal.ch",
     "Phone": "+41279714797"
   },
   {
@@ -5150,7 +5092,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "AT",
+    "Country": "IT",
     "Code": "OEAV",
     "Website": "www.wolayerseehuette-lesachtal.at",
     "Phone": "+43720346141"
@@ -5172,9 +5114,9 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "AT",
+    "Country": "IT",
     "Code": "OEAV",
-    "Website": "obstans.jimdo.com/",
+    "Website": "obstans.jimdo.com",
     "Phone": "+4366493297899"
   },
   {
@@ -5196,7 +5138,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.sewenhuette.ch/",
+    "Website": "www.sewenhuette.ch",
     "Phone": "+41418851872"
   },
   {
@@ -5246,7 +5188,7 @@
         "label": "Unserviced mode"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.kaunergrathuette.at",
     "Phone": "+436643501179"
@@ -5314,7 +5256,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.kroentenhuette.com/",
+    "Website": "www.kroentenhuette.com",
     "Phone": "+41418800122"
   },
   {
@@ -5342,7 +5284,7 @@
         "label": "Dog room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.regensburgerhuette.at",
     "Phone": "+436642025070"
@@ -5362,7 +5304,7 @@
     ],
     "Country": "IT",
     "Code": "AVS",
-    "Website": "sesvennahuette.it/",
+    "Website": "sesvennahuette.it",
     "Phone": "+393759738950"
   },
   {
@@ -5380,7 +5322,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "cas-diablerets.ch/cabanes/cabane-de-la-neuve/",
+    "Website": "cas-diablerets.ch/cabanes/cabane-de-la-neuve",
     "Phone": "+41277832424"
   },
   {
@@ -5402,7 +5344,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.cas-diablerets.ch/",
+    "Website": "www.cas-diablerets.ch",
     "Phone": "+41274751431"
   },
   {
@@ -5438,7 +5380,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.cas-diablerets.ch/cabanes/cabane-rambert/",
+    "Website": "www.cas-diablerets.ch/cabanes/cabane-rambert",
     "Phone": "+41272071122"
   },
   {
@@ -5510,9 +5452,9 @@
         "label": "Dog room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "www.potsdamer-huette.de/",
+    "Website": "www.potsdamer-huette.de",
     "Phone": "+436766020560"
   },
   {
@@ -5594,7 +5536,7 @@
         "label": "Dormitory"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.soiernhaus.de",
     "Phone": "+491715465858"
@@ -5710,7 +5652,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.soeldenhuette.at/",
+    "Website": "www.soeldenhuette.at",
     "Phone": "+436643429114"
   },
   {
@@ -5760,9 +5702,9 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "lindauerhuette.com/",
+    "Website": "lindauerhuette.com",
     "Phone": "+436645033456"
   },
   {
@@ -5786,28 +5728,10 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.wuerttemberger-haus.at",
     "Phone": "+436507538927"
-  },
-  {
-    "Id": 299,
-    "Name": "Sepp-Sollner-Hütte",
-    "Lat": 47.5235,
-    "Lng": 10.7681,
-    "Altitude": 1600,
-    "Beds": 8,
-    "Rooms": [
-      {
-        "beds": 8,
-        "label": "Matratzenlager"
-      }
-    ],
-    "Country": "DE",
-    "Code": "DAV",
-    "Website": "",
-    "Phone": "+498362507187"
   },
   {
     "Id": 300,
@@ -5850,7 +5774,7 @@
     ],
     "Country": "IT",
     "Code": "AVS",
-    "Website": "www.tiefrasten.com/",
+    "Website": "www.tiefrasten.com",
     "Phone": "+393349896370"
   },
   {
@@ -5878,7 +5802,7 @@
         "label": "Single room"
       }
     ],
-    "Country": "AT",
+    "Country": "IT",
     "Code": "OEAV",
     "Website": "www.alpenrose-huette.at",
     "Phone": "+436641376848"
@@ -5964,7 +5888,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "haus-bielti.ch/schoenbielhuette/",
+    "Website": "haus-bielti.ch/schoenbielhuette",
     "Phone": "+41279671354"
   },
   {
@@ -5984,7 +5908,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "CH",
     "Code": "DAV",
     "Website": "www.saarbrueckerhuette.com",
     "Phone": "+436648925587"
@@ -6030,7 +5954,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.cas-vallorbe.ch/cabane/",
+    "Website": "www.cas-vallorbe.ch/cabane",
     "Phone": "+41797401275"
   },
   {
@@ -6052,7 +5976,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.gruebenhuette.ch/",
+    "Website": "www.gruebenhuette.ch",
     "Phone": "+41763920949"
   },
   {
@@ -6138,7 +6062,7 @@
         "label": "Hundezimmer"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.niedersachsenhaus.at",
     "Phone": "+4966488192505"
@@ -6190,7 +6114,7 @@
         "label": "Dog room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.erfurterhuette.at",
     "Phone": "+436645146833"
@@ -6216,7 +6140,7 @@
         "label": "Zweierzimmer"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.traunsteinerhuette-winklmoos.de",
     "Phone": "+4986408140"
@@ -6244,7 +6168,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.sac-sunnehuesi.ch/",
+    "Website": "www.sac-sunnehuesi.ch",
     "Phone": "+41788369649"
   },
   {
@@ -6268,7 +6192,7 @@
         "label": "Zweierzimmer"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.schneibsteinhaus.de",
     "Phone": "+4986522596"
@@ -6290,9 +6214,9 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "AT",
+    "Country": "IT",
     "Code": "OEAV",
-    "Website": "www.alpenverein.at/hochweisssteinhaus/",
+    "Website": "www.alpenverein.at/hochweisssteinhaus",
     "Phone": "+436767462886"
   },
   {
@@ -6376,7 +6300,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.rothornhuette-sac.ch/",
+    "Website": "www.rothornhuette-sac.ch",
     "Phone": "+41279670575"
   },
   {
@@ -6510,7 +6434,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.cas-sommartel.ch/monte-leone/",
+    "Website": "www.cas-sommartel.ch/monte-leone",
     "Phone": "+41799349732"
   },
   {
@@ -6560,7 +6484,7 @@
         "label": "Zweierzimmer"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.glorer-huette.at",
     "Phone": "+4367761182853"
@@ -6602,7 +6526,7 @@
     ],
     "Country": "DE",
     "Code": "DAV",
-    "Website": "www.jubi-hindelang.de/",
+    "Website": "www.jubi-hindelang.de",
     "Phone": "+49832493010"
   },
   {
@@ -6656,7 +6580,7 @@
         "label": "Spezialzimmer"
       }
     ],
-    "Country": "CH",
+    "Country": "AT",
     "Code": "SAC",
     "Website": "www.berghaus-alpenroesli.ch",
     "Phone": "+41813321218"
@@ -6676,7 +6600,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.sac-basel.ch/deutsch/huetten/schalijoch-biwak/",
+    "Website": "www.sac-basel.ch/deutsch/huetten/schalijoch-biwak",
     "Phone": "+41775282362"
   },
   {
@@ -6716,7 +6640,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.sac-wildhorn.ch/huetten/fromatthuette/",
+    "Website": "www.sac-wildhorn.ch/huetten/fromatthuette",
     "Phone": "+41794526675"
   },
   {
@@ -6766,7 +6690,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.alpenverein-muenchen-oberland.de/huetten/alpenvereinshuetten/falkenhuette",
     "Phone": ""
@@ -6812,7 +6736,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "sac-stgallen.ch/sac-clubheim-faelensee/",
+    "Website": "sac-stgallen.ch/sac-clubheim-faelensee",
     "Phone": ""
   },
   {
@@ -6836,7 +6760,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "alpenverein-karlsruhe.de/huetten/langtalereckhuette",
     "Phone": "+436645268655"
@@ -6858,7 +6782,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.braunschweiger-huette.at",
     "Phone": "+436642012013"
@@ -6888,7 +6812,7 @@
         "label": "Dog room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.hildesheimerhuette.at/index.html",
     "Phone": "+4352542300"
@@ -6910,7 +6834,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.hochjoch-hospiz.at",
     "Phone": "+43720513130"
@@ -6950,9 +6874,9 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "www.wolfratshauserhuette.at/",
+    "Website": "www.wolfratshauserhuette.at",
     "Phone": "+436509568840"
   },
   {
@@ -6976,7 +6900,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.kreuzeckhaus.net",
     "Phone": "+4988212202"
@@ -7016,9 +6940,9 @@
         "label": "Dormitory"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "www.koelner-haus.at/de/die-hexenseehuette/hexenseehuette/",
+    "Website": "www.koelner-haus.at/de/die-hexenseehuette/hexenseehuette",
     "Phone": "+4354766214"
   },
   {
@@ -7054,7 +6978,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.chanrion.ch/",
+    "Website": "www.chanrion.ch",
     "Phone": "+41277781209"
   },
   {
@@ -7072,7 +6996,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "sac.zermatt.org/verein/arbenbiwak/",
+    "Website": "sac.zermatt.org/verein/arbenbiwak",
     "Phone": "+41794090644"
   },
   {
@@ -7094,7 +7018,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.cas-neuchatel.ch/cabanes/cabane-de-saleinaz-2691m/",
+    "Website": "www.cas-neuchatel.ch/cabanes/cabane-de-saleinaz-2691m",
     "Phone": "+41277831700"
   },
   {
@@ -7112,7 +7036,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.alpenverein.at/feichtauhuette/",
+    "Website": "www.alpenverein.at/feichtauhuette",
     "Phone": "+4366473465776"
   },
   {
@@ -7132,7 +7056,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.fuerther-huette.at",
     "Phone": "+436643224762"
@@ -7228,7 +7152,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.boval.ch/",
+    "Website": "www.boval.ch",
     "Phone": "+41818426403"
   },
   {
@@ -7280,7 +7204,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "essertze.ch/",
+    "Website": "essertze.ch",
     "Phone": "+41798626733"
   },
   {
@@ -7296,7 +7220,7 @@
         "label": "Dormitory"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.dav-obererneckar.de/Huetten_Wege/Anhalter%20Huette",
     "Phone": "+436606647428"
@@ -7428,7 +7352,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.alpenverein.at/badenerhuette/",
+    "Website": "www.alpenverein.at/badenerhuette",
     "Phone": "+436649155666"
   },
   {
@@ -7480,7 +7404,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "koerner-huette.at/",
+    "Website": "koerner-huette.at",
     "Phone": "+436802216024"
   },
   {
@@ -7526,8 +7450,8 @@
   {
     "Id": 406,
     "Name": "Cabane du Carroz",
-    "Lat": 46.284,
-    "Lng": 6.0721,
+    "Lat": 46.4779,
+    "Lng": 6.1225,
     "Altitude": 1508,
     "Beds": 18,
     "Rooms": [
@@ -7668,7 +7592,7 @@
     ],
     "Country": "IT",
     "Code": "AVS",
-    "Website": "alpenverein.it/huette/rieserfernerhuette/",
+    "Website": "alpenverein.it/huette/rieserfernerhuette",
     "Phone": "+390474492125"
   },
   {
@@ -7852,7 +7776,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.alpenverein.at/lilienfelderhuette/",
+    "Website": "www.alpenverein.at/lilienfelderhuette",
     "Phone": "+4367763488700"
   },
   {
@@ -7930,7 +7854,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.alpenverein.at/wetterkoglerhaus/",
+    "Website": "www.alpenverein.at/wetterkoglerhaus",
     "Phone": "+4333364224"
   },
   {
@@ -7960,7 +7884,7 @@
     ],
     "Country": "CH",
     "Code": "Via-Vallemaggia",
-    "Website": "www.capannatomeo.ch/",
+    "Website": "www.capannatomeo.ch",
     "Phone": "+41794852388"
   },
   {
@@ -8002,7 +7926,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.alpenverein-muenchen-oberland.de/huetten/alpenvereinshuetten/lamsenjochhuette",
     "Phone": "+43524462063"
@@ -8020,7 +7944,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.dav-memmingen.de/index.php?id=559",
     "Phone": "+491603314192"
@@ -8038,7 +7962,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.dav-memmingen.de/index.php?id=560",
     "Phone": "+491603314192"
@@ -8084,7 +8008,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.grialetsch.ch/",
+    "Website": "www.grialetsch.ch",
     "Phone": "+41814163436"
   },
   {
@@ -8106,7 +8030,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "sac-saas.ch/cresta_biwak/",
+    "Website": "sac-saas.ch/cresta_biwak",
     "Phone": "+41764479883"
   },
   {
@@ -8216,7 +8140,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.belalpalpincenter.ch/biwak/",
+    "Website": "www.belalpalpincenter.ch/biwak",
     "Phone": "+41774230808"
   },
   {
@@ -8236,28 +8160,10 @@
         "label": "Mehrbettzimmer"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.heidelberger-huette.at",
     "Phone": "+43544421021"
-  },
-  {
-    "Id": 461,
-    "Name": "Karl-Stein-Hütte",
-    "Lat": 50.9601,
-    "Lng": 14.0597,
-    "Altitude": 144,
-    "Beds": 30,
-    "Rooms": [
-      {
-        "beds": 30,
-        "label": "Dormitory"
-      }
-    ],
-    "Country": "DE",
-    "Code": "DAV",
-    "Website": "www.dav-leipzig.de/huetten/Karl-Stein-Hutte/2693",
-    "Phone": "+493414773138"
   },
   {
     "Id": 466,
@@ -8276,7 +8182,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "AT",
+    "Country": "IT",
     "Code": "OEAV",
     "Website": "",
     "Phone": "+4915154265541"
@@ -8296,7 +8202,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.tanzboden-rieden.ch/",
+    "Website": "www.tanzboden-rieden.ch",
     "Phone": "+41552831218"
   },
   {
@@ -8320,7 +8226,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.kelchalm.at",
     "Phone": "+43535620299"
@@ -8370,7 +8276,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "galmihornhuette.ch/",
+    "Website": "galmihornhuette.ch",
     "Phone": "+41279731030"
   },
   {
@@ -8406,7 +8312,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "burghuette.ch/",
+    "Website": "burghuette.ch",
     "Phone": "+41279714027"
   },
   {
@@ -8430,7 +8336,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.alpenverein-regensburg.de/huetten/huetten-der-sektion/berg-und-skiheim-brixen-im-thale",
     "Phone": "+4353348542"
@@ -8452,7 +8358,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.vent.eu",
     "Phone": "+436643043151"
@@ -8630,7 +8536,7 @@
     ],
     "Country": "CH",
     "Code": "Via-Vallemaggia",
-    "Website": "www.dinodb.ch/",
+    "Website": "www.dinodb.ch",
     "Phone": "+41793796223"
   },
   {
@@ -8678,7 +8584,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.sardonahuette.ch/",
+    "Website": "www.sardonahuette.ch",
     "Phone": "+41813061388"
   },
   {
@@ -8704,7 +8610,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.tschierva.ch/",
+    "Website": "www.tschierva.ch",
     "Phone": "+41818426391"
   },
   {
@@ -8746,7 +8652,7 @@
         "label": "Dormitory"
       }
     ],
-    "Country": "AT",
+    "Country": "IT",
     "Code": "OEAV",
     "Website": "www.filmoorhuette.at",
     "Phone": "+436641127153"
@@ -8866,7 +8772,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.tracuit.ch/",
+    "Website": "www.tracuit.ch",
     "Phone": "+41274751500"
   },
   {
@@ -8886,7 +8792,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.alpenverein-regensburg.de/huetten/huetten-der-sektion/talherberge-zwieselstein",
     "Phone": "+4352542763"
@@ -8906,7 +8812,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.hinterbalm-huette.ch/",
+    "Website": "www.hinterbalm-huette.ch",
     "Phone": "+41763301248"
   },
   {
@@ -8966,9 +8872,9 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "www.konstanzerhuette.com/",
+    "Website": "www.konstanzerhuette.com",
     "Phone": "+4366488381401"
   },
   {
@@ -9016,7 +8922,7 @@
     ],
     "Country": "AT",
     "Code": "alpGesPreintaler",
-    "Website": "www.preintaler.at/",
+    "Website": "www.preintaler.at",
     "Phone": "+436641278335"
   },
   {
@@ -9078,7 +8984,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.welserhuette-gruenau.com/",
+    "Website": "www.welserhuette-gruenau.com",
     "Phone": "+436641765608"
   },
   {
@@ -9140,7 +9046,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "arpitettaz.ch/",
+    "Website": "arpitettaz.ch",
     "Phone": "+41274754028"
   },
   {
@@ -9158,7 +9064,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.ringelspitzhuette.ch/",
+    "Website": "www.ringelspitzhuette.ch",
     "Phone": "+41796322434"
   },
   {
@@ -9180,7 +9086,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "sac-lauterbrunnen.ch/huetten/silberhornhuette/",
+    "Website": "sac-lauterbrunnen.ch/huetten/silberhornhuette",
     "Phone": "+41793768636"
   },
   {
@@ -9202,7 +9108,7 @@
     ],
     "Country": "CH",
     "Code": "Via-Vallemaggia",
-    "Website": "www.sav-vallemaggia.ch/tours/pian-di-crest/",
+    "Website": "www.sav-vallemaggia.ch/tours/pian-di-crest",
     "Phone": "+41917551414"
   },
   {
@@ -9222,24 +9128,6 @@
     "Code": "Via-Vallemaggia",
     "Website": "www.rifugiomarialuisa.it",
     "Phone": "+39032463086"
-  },
-  {
-    "Id": 520,
-    "Name": "Würgauer Haus",
-    "Lat": 49.9822,
-    "Lng": 11.0899,
-    "Altitude": 440,
-    "Beds": 1,
-    "Rooms": [
-      {
-        "beds": 1,
-        "label": "Mehrbettzimmer"
-      }
-    ],
-    "Country": "DE",
-    "Code": "DAV",
-    "Website": "alpenverein-bamberg.de/huetten/wuergauer-haus/",
-    "Phone": "+4995163040"
   },
   {
     "Id": 525,
@@ -9278,7 +9166,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "stockhornbiwak.ch/",
+    "Website": "stockhornbiwak.ch",
     "Phone": "+41793006699"
   },
   {
@@ -9294,7 +9182,7 @@
         "label": "Dormitory"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.fritzpflaumhuette.de",
     "Phone": "+491234567890"
@@ -9348,7 +9236,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.berggasthaus-brusti.com/",
+    "Website": "www.berggasthaus-brusti.com",
     "Phone": "+41418710011"
   },
   {
@@ -9370,24 +9258,6 @@
     "Phone": "+4986529764610"
   },
   {
-    "Id": 537,
-    "Name": "Hanslberghütte",
-    "Lat": 48.9534,
-    "Lng": 12.0059,
-    "Altitude": 344,
-    "Beds": 1,
-    "Rooms": [
-      {
-        "beds": 1,
-        "label": "Dormitory"
-      }
-    ],
-    "Country": "DE",
-    "Code": "DAV",
-    "Website": "www.alpenverein-regensburg.de/huetten/huetten-der-sektion/hanslberghuette",
-    "Phone": "+4994146399031"
-  },
-  {
     "Id": 538,
     "Name": "Berg- und Skiheim Brixen im Thale - Ferienwohnung",
     "Lat": 47.4544,
@@ -9400,7 +9270,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.alpenverein-regensburg.de/huetten/huetten-der-sektion/berg-und-skiheim-ferienwohnung",
     "Phone": "+4353348542"
@@ -9448,7 +9318,7 @@
         "label": "Dog room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.westfalenhaus.at",
     "Phone": "+436503622528"
@@ -9518,28 +9388,10 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.ludwigsburger-huette.at",
     "Phone": "+43541420204"
-  },
-  {
-    "Id": 547,
-    "Name": "Steinwaldhütte",
-    "Lat": 49.8777,
-    "Lng": 12.0354,
-    "Altitude": 701,
-    "Beds": 22,
-    "Rooms": [
-      {
-        "beds": 22,
-        "label": "Dormitory"
-      }
-    ],
-    "Country": "DE",
-    "Code": "DAV",
-    "Website": "www.alpenverein-regensburg.de/huetten/huetten-der-sektion/steinwaldhuette",
-    "Phone": "+4915906717621"
   },
   {
     "Id": 548,
@@ -9556,7 +9408,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.zermatters.ch/",
+    "Website": "www.zermatters.ch",
     "Phone": "+41279662466"
   },
   {
@@ -9574,7 +9426,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.hohsaashuette.ch/",
+    "Website": "www.hohsaashuette.ch",
     "Phone": "+41279571708"
   },
   {
@@ -9654,7 +9506,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "plang-faller.ch/",
+    "Website": "plang-faller.ch",
     "Phone": "+41764770696"
   },
   {
@@ -9738,7 +9590,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.lauteraarhuette.ch/",
+    "Website": "www.lauteraarhuette.ch",
     "Phone": "+41339731110"
   },
   {
@@ -9751,7 +9603,7 @@
     "Rooms": [],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "sac-mythen.ch/unsere-huetten/",
+    "Website": "sac-mythen.ch/unsere-huetten",
     "Phone": "+41792829960"
   },
   {
@@ -9797,7 +9649,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "IT",
     "Code": "DAV",
     "Website": "giessener-huette.at",
     "Phone": "+436644221389"
@@ -9815,7 +9667,7 @@
         "label": "Zimmern"
       }
     ],
-    "Country": "CH",
+    "Country": "IT",
     "Code": "Via-Vallemaggia",
     "Website": "www.brogoldone.ch",
     "Phone": "+41766099550"
@@ -9857,7 +9709,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.sac-engelberg.ch/grassen-biwak/",
+    "Website": "www.sac-engelberg.ch/grassen-biwak",
     "Phone": "+41763040877"
   },
   {
@@ -9875,7 +9727,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "sac-saas.ch/grubenalp/",
+    "Website": "sac-saas.ch/grubenalp",
     "Phone": "+41797171980"
   },
   {
@@ -9909,7 +9761,7 @@
         "label": "large rooms"
       }
     ],
-    "Country": "IT",
+    "Country": "AT",
     "Code": "CAI-AA",
     "Website": "www.muellerhuette.eu",
     "Phone": "+4369918678965"
@@ -9927,7 +9779,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.dav-konstanz.de/huetten/gauenhuette",
     "Phone": "+49753121794"
@@ -9949,9 +9801,9 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "www.bielefelder-huette.at/",
+    "Website": "www.bielefelder-huette.at",
     "Phone": "+4352526926"
   },
   {
@@ -9969,7 +9821,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.cas-gruyere.ch/fr/cabanes/cabane-de-bounavaux/",
+    "Website": "www.cas-gruyere.ch/fr/cabanes/cabane-de-bounavaux",
     "Phone": "+41796036878"
   },
   {
@@ -9987,7 +9839,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.cas-gruyere.ch/fr/cabanes/cabane-des-marindes/",
+    "Website": "www.cas-gruyere.ch/fr/cabanes/cabane-des-marindes",
     "Phone": "+41797904533"
   },
   {
@@ -10005,34 +9857,8 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.cas-gruyere.ch/fr/cabanes/cabane-des-cles/",
+    "Website": "www.cas-gruyere.ch/fr/cabanes/cabane-des-cles",
     "Phone": "+41796251707"
-  },
-  {
-    "Id": 576,
-    "Name": "Enzianhütte/Rhön",
-    "Lat": 50.5222,
-    "Lng": 9.9133,
-    "Altitude": 760,
-    "Beds": 50,
-    "Rooms": [
-      {
-        "beds": 32,
-        "label": "Matratzenlager"
-      },
-      {
-        "beds": 12,
-        "label": "Mehrbettzimmer"
-      },
-      {
-        "beds": 6,
-        "label": "Zweierzimmer"
-      }
-    ],
-    "Country": "DE",
-    "Code": "DAV",
-    "Website": "www.enzianhuette-rhoen.de",
-    "Phone": "+496658319"
   },
   {
     "Id": 577,
@@ -10053,7 +9879,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.alpenverein.at/ignazmattishuette/",
+    "Website": "www.alpenverein.at/ignazmattishuette",
     "Phone": "+436644233823"
   },
   {
@@ -10230,7 +10056,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.aeugstenhuette.ch/",
+    "Website": "www.aeugstenhuette.ch",
     "Phone": "+41798597201"
   },
   {
@@ -10385,24 +10211,6 @@
     "Phone": "+41792200605"
   },
   {
-    "Id": 602,
-    "Name": "Biwak - Enzianhütte Rhön",
-    "Lat": 50.5222,
-    "Lng": 9.9133,
-    "Altitude": 760,
-    "Beds": 8,
-    "Rooms": [
-      {
-        "beds": 8,
-        "label": "Mehrbettzimmer"
-      }
-    ],
-    "Country": "DE",
-    "Code": "DAV",
-    "Website": "www.enzianhuette-rhoen.de",
-    "Phone": "+496658319"
-  },
-  {
     "Id": 603,
     "Name": "Aarbiwak SAC",
     "Lat": 46.5555,
@@ -10457,7 +10265,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.rifugioboe.it/",
+    "Website": "www.rifugioboe.it",
     "Phone": "+3904711930340"
   },
   {
@@ -10497,7 +10305,7 @@
     ],
     "Country": "DE",
     "Code": "DAV",
-    "Website": "www.alpenverein-gangkofen.de/huetten/Haus%20Unken/",
+    "Website": "www.alpenverein-gangkofen.de/huetten/Haus%20Unken",
     "Phone": "+491706359720"
   },
   {
@@ -10513,7 +10321,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "dav-pfullendorf.de",
     "Phone": "+49755291383"
@@ -10535,7 +10343,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.hohenzollernhaus.at",
     "Phone": "+436645311915"
@@ -10577,7 +10385,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.sidelen-huette.ch/",
+    "Website": "www.sidelen-huette.ch",
     "Phone": "+41418870233"
   },
   {
@@ -10619,7 +10427,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.dav-gp.de/huetten/haldenseehaus",
     "Phone": "+43567520733"
@@ -10649,7 +10457,7 @@
         "label": "Special category 1"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.ostpreussenhuette.at",
     "Phone": "+491622579050"
@@ -10673,7 +10481,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.rifugiorosetta.it/",
+    "Website": "www.rifugiorosetta.it",
     "Phone": "+39043968308"
   },
   {
@@ -10691,7 +10499,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.instagram.com/rifugio_ciampedie/",
+    "Website": "www.instagram.com/rifugio_ciampedie",
     "Phone": "+393773676493"
   },
   {
@@ -10709,7 +10517,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.rodadivael.it/",
+    "Website": "www.rodadivael.it",
     "Phone": "+390462764450"
   },
   {
@@ -10745,7 +10553,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.rifugio-cimadasta.it/",
+    "Website": "www.rifugio-cimadasta.it",
     "Phone": "+3904611637778"
   },
   {
@@ -10763,7 +10571,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.sat.tn.it/gruppo-lagorai-rifugio-sette-selle/",
+    "Website": "www.sat.tn.it/gruppo-lagorai-rifugio-sette-selle",
     "Phone": "+393317065002"
   },
   {
@@ -10781,7 +10589,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.sat.tn.it/rifugio-casarota-l-ciola/",
+    "Website": "www.sat.tn.it/rifugio-casarota-l-ciola",
     "Phone": "+393480985560"
   },
   {
@@ -10799,7 +10607,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.rifugiolancia.it/",
+    "Website": "www.rifugiolancia.it",
     "Phone": "+390464868068"
   },
   {
@@ -10817,7 +10625,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.sat.tn.it/rifugio-bocca-di-trat-nino-pernici/",
+    "Website": "www.sat.tn.it/rifugio-bocca-di-trat-nino-pernici",
     "Phone": "+393292599365"
   },
   {
@@ -10853,7 +10661,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.graffer.com/",
+    "Website": "www.graffer.com",
     "Phone": "+390465441358"
   },
   {
@@ -10866,7 +10674,7 @@
     "Rooms": [],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "rifugiotosapedrotti.it/",
+    "Website": "rifugiotosapedrotti.it",
     "Phone": "+393493646251"
   },
   {
@@ -10884,7 +10692,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.rifugioagostini.com/",
+    "Website": "www.rifugioagostini.com",
     "Phone": "+390465734138"
   },
   {
@@ -10902,7 +10710,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "rifugiododiciapostoli.net/",
+    "Website": "rifugiododiciapostoli.net",
     "Phone": "+393921934444"
   },
   {
@@ -10920,7 +10728,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.rifugiodenza.com/",
+    "Website": "www.rifugiodenza.com",
     "Phone": "+390463758187"
   },
   {
@@ -10938,7 +10746,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.rifugiosegantini.com/",
+    "Website": "www.rifugiosegantini.com",
     "Phone": "+393381571319"
   },
   {
@@ -10982,7 +10790,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.rifugiocarealto.it/",
+    "Website": "www.rifugiocarealto.it",
     "Phone": "+393492962189"
   },
   {
@@ -11000,7 +10808,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.sat.tn.it/rifugio-val-di-fumo/",
+    "Website": "www.sat.tn.it/rifugio-val-di-fumo",
     "Phone": "+390465674525"
   },
   {
@@ -11018,7 +10826,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.rifugiovioz.it/",
+    "Website": "www.rifugiovioz.it",
     "Phone": "+390463751386"
   },
   {
@@ -11036,7 +10844,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.rifugiocevedale.it/",
+    "Website": "www.rifugiocevedale.it",
     "Phone": "+390463751770"
   },
   {
@@ -11054,7 +10862,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "rifugiodorigoni.it/",
+    "Website": "rifugiodorigoni.it",
     "Phone": "+390463896375"
   },
   {
@@ -11072,7 +10880,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.sat.tn.it/rifugio-don-zio-pisoni-al-monte-casale/",
+    "Website": "www.sat.tn.it/rifugio-don-zio-pisoni-al-monte-casale",
     "Phone": "+393478647762"
   },
   {
@@ -11100,7 +10908,7 @@
         "label": "Dog room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.sulzenauhuette.at",
     "Phone": "+43522624320"
@@ -11144,7 +10952,7 @@
         "label": "Dog room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.dav-wuppertal.de/huetten-kletteranlagen/elberfelder-huette",
     "Phone": "+4348242545"
@@ -11170,7 +10978,7 @@
         "label": "Dog room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.mannheimerhuette.co.at",
     "Phone": "+436641900691"
@@ -11192,7 +11000,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.oberzalim.at",
     "Phone": "+436606362823"
@@ -11212,7 +11020,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.fluhsee.ch/",
+    "Website": "www.fluhsee.ch",
     "Phone": ""
   },
   {
@@ -11278,7 +11086,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.baeregg.com/",
+    "Website": "www.baeregg.com",
     "Phone": "+41791210909"
   },
   {
@@ -11342,9 +11150,9 @@
         "label": "Mehrbettzimmer"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "www.wormser-huette.at/",
+    "Website": "www.wormser-huette.at",
     "Phone": "+436641320325"
   },
   {
@@ -11370,7 +11178,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.cabanedelabarmaz.ch/",
+    "Website": "www.cabanedelabarmaz.ch",
     "Phone": "+41798471118"
   },
   {
@@ -11388,7 +11196,7 @@
     ],
     "Country": "AT",
     "Code": "OEAV",
-    "Website": "www.keinprechthütte.at/",
+    "Website": "www.keinprechthütte.at",
     "Phone": "+436644330346"
   },
   {
@@ -11410,7 +11218,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.sac-basel.ch/",
+    "Website": "www.sac-basel.ch",
     "Phone": "+41279671262"
   },
   {
@@ -11482,7 +11290,7 @@
         "label": "Mehrbettzimmer"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.tannheimer-huette.at",
     "Phone": "+491714766877"
@@ -11504,9 +11312,9 @@
         "label": "Unbewirtschafteter Modus"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "dav-allgaeu-immenstadt.de/huetten/kaufbeurer-haus/",
+    "Website": "dav-allgaeu-immenstadt.de/huetten/kaufbeurer-haus",
     "Phone": "+49826991996"
   },
   {
@@ -11696,7 +11504,7 @@
         "label": "Dormitory"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.dav-simmshuette.at/willkommen.html",
     "Phone": "+436644840093"
@@ -11856,7 +11664,7 @@
         "label": "Special category 1"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.dresdnerhuette.at",
     "Phone": "+4352268112"
@@ -11878,7 +11686,7 @@
         "label": "Mehrbettzimmer"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.alpenverein-darmstadt.de/huetten/starkenburgerhuette",
     "Phone": "+436645035420"
@@ -11911,10 +11719,10 @@
     "Lat": 47.0542,
     "Lng": 12.9574,
     "Altitude": 3106,
-    "Beds": 62,
+    "Beds": 60,
     "Rooms": [
       {
-        "beds": 40,
+        "beds": 38,
         "label": "Matratzenlager"
       },
       {
@@ -11925,7 +11733,7 @@
     "Country": "AT",
     "Code": "OEAV",
     "Website": "www.zittelhaus.at",
-    "Phone": "+4366475199527"
+    "Phone": "+4368181742952"
   },
   {
     "Id": 697,
@@ -11992,7 +11800,7 @@
         "label": "Special category 1"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.siegerlandhuette.at",
     "Phone": "+491739894028"
@@ -12032,7 +11840,7 @@
         "label": "Unbewirtschafteter Modus"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.dav-kempten.de/huetten/rappenseehuette",
     "Phone": ""
@@ -12064,7 +11872,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.albertheimhuette.ch/",
+    "Website": "www.albertheimhuette.ch",
     "Phone": "+41418871745"
   },
   {
@@ -12144,15 +11952,15 @@
         "label": "Unbewirtschafteter Modus"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "dav-hagen.de/unsere-huetten/hagener-huette/",
+    "Website": "dav-hagen.de/unsere-huetten/hagener-huette",
     "Phone": "+436644036697"
   },
   {
     "Id": 717,
     "Name": "Leutschachhütte SAC",
-    "Lat": 47.7836,
+    "Lat": 46.7838,
     "Lng": 8.6013,
     "Altitude": 2208,
     "Beds": 60,
@@ -12240,9 +12048,9 @@
         "label": "Zweierzimmer"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "www.alpenverein-erlangen.de/huetten/erlanger-huette/",
+    "Website": "www.alpenverein-erlangen.de/huetten/erlanger-huette",
     "Phone": "+436643920268"
   },
   {
@@ -12266,7 +12074,7 @@
         "label": "4-er Zimmer"
       }
     ],
-    "Country": "CH",
+    "Country": "AT",
     "Code": "SAC",
     "Website": "www.pfaelzerhuette.com",
     "Phone": ""
@@ -12288,7 +12096,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.schmidt-zabierow.at",
     "Phone": "+4965887284"
@@ -12310,7 +12118,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.alpenverein-hochland.de/huetten/Hochlandhuette",
     "Phone": "+491749897863"
@@ -12440,7 +12248,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "www.brisenhaus.ch/",
+    "Website": "www.brisenhaus.ch",
     "Phone": "+41791767631"
   },
   {
@@ -12460,7 +12268,7 @@
         "label": "shared bedrooms"
       }
     ],
-    "Country": "IT",
+    "Country": "AT",
     "Code": "AVS",
     "Website": "www.magdeburgerhuette.it",
     "Phone": "+393201813900"
@@ -12528,7 +12336,7 @@
     ],
     "Country": "CH",
     "Code": "SAC",
-    "Website": "druesberghuette.ch/",
+    "Website": "druesberghuette.ch",
     "Phone": "+41779428141"
   },
   {
@@ -12546,7 +12354,7 @@
     ],
     "Country": "IT",
     "Code": "SAT",
-    "Website": "www.sat.tn.it/rifugio-paludei/",
+    "Website": "www.sat.tn.it/rifugio-paludei",
     "Phone": "+39461722130"
   },
   {
@@ -12564,7 +12372,7 @@
     ],
     "Country": "CH",
     "Code": "Via-Vallemaggia",
-    "Website": "sentierideglispalloni.com/bivacco-corte-rossa/",
+    "Website": "sentierideglispalloni.com/bivacco-corte-rossa",
     "Phone": "+393351345384"
   },
   {
@@ -12580,9 +12388,27 @@
         "label": "Matratzenlager"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
-    "Website": "www.naudererhuette.de/",
+    "Website": "www.naudererhuette.de",
     "Phone": "+4942172484"
+  },
+  {
+    "Id": 748,
+    "Name": "Ostegghütte",
+    "Lat": 46.6005,
+    "Lng": 8.0412,
+    "Altitude": 2317,
+    "Beds": 15,
+    "Rooms": [
+      {
+        "beds": 15,
+        "label": "Massenlager"
+      }
+    ],
+    "Country": "CH",
+    "Code": "SAC",
+    "Website": "www.mittellegi.ch/de/ostegghuette",
+    "Phone": "+41792048748"
   }
 ]
