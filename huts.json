@@ -27,7 +27,7 @@
     "Lat": 46.6251,
     "Lng": 8.0965,
     "Altitude": 2317,
-    "Beds": 80,
+    "Beds": 88,
     "Rooms": [
       {
         "beds": 54,
@@ -97,14 +97,14 @@
     "Lat": 46.9352,
     "Lng": 8.6927,
     "Altitude": 1727,
-    "Beds": 112,
+    "Beds": 174,
     "Rooms": [
       {
-        "beds": 85,
+        "beds": 87,
         "label": "Massenlager"
       },
       {
-        "beds": 27,
+        "beds": 87,
         "label": "Schutzraum/Winterraum"
       }
     ],
@@ -261,22 +261,22 @@
     "Lat": 46.9275,
     "Lng": 9.0799,
     "Altitude": 2273,
-    "Beds": 66,
+    "Beds": 264,
     "Rooms": [
       {
-        "beds": 22,
+        "beds": 66,
         "label": "Massenlager"
       },
       {
-        "beds": 36,
+        "beds": 66,
         "label": "Mehrbettzimmer"
       },
       {
-        "beds": 2,
+        "beds": 66,
         "label": "2-er Zimmer"
       },
       {
-        "beds": 6,
+        "beds": 66,
         "label": "Spezialzimmer"
       }
     ],
@@ -291,22 +291,22 @@
     "Lat": 46.4866,
     "Lng": 7.8295,
     "Altitude": 2788,
-    "Beds": 78,
+    "Beds": 240,
     "Rooms": [
       {
-        "beds": 42,
+        "beds": 60,
         "label": "Mehrbettzimmer"
       },
       {
-        "beds": 6,
+        "beds": 60,
         "label": "2-er Zimmer"
       },
       {
-        "beds": 12,
+        "beds": 60,
         "label": "4-er Zimmer"
       },
       {
-        "beds": 18,
+        "beds": 60,
         "label": "Schutzraum/Winterraum"
       }
     ],
@@ -339,23 +339,27 @@
     "Lat": 46.6345,
     "Lng": 9.0051,
     "Altitude": 2170,
-    "Beds": 92,
+    "Beds": 450,
     "Rooms": [
       {
-        "beds": 80,
+        "beds": 90,
         "label": "Mehrbettzimmer"
       },
       {
-        "beds": 2,
+        "beds": 90,
         "label": "2-er Zimmer"
       },
       {
-        "beds": 8,
+        "beds": 90,
         "label": "4-er Zimmer"
       },
       {
-        "beds": 2,
+        "beds": 90,
         "label": "Spezialzimmer"
+      },
+      {
+        "beds": 90,
+        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -369,14 +373,14 @@
     "Lat": 46.3697,
     "Lng": 7.3392,
     "Altitude": 2002,
-    "Beds": 97,
+    "Beds": 98,
     "Rooms": [
       {
         "beds": 81,
         "label": "Massenlager"
       },
       {
-        "beds": 4,
+        "beds": 5,
         "label": "4-er Zimmer"
       },
       {
@@ -533,22 +537,22 @@
     "Lat": 46.6115,
     "Lng": 9.9027,
     "Altitude": 2594,
-    "Beds": 48,
+    "Beds": 192,
     "Rooms": [
       {
-        "beds": 34,
+        "beds": 48,
         "label": "Massenlager"
       },
       {
-        "beds": 4,
+        "beds": 48,
         "label": "2-er Zimmer"
       },
       {
-        "beds": 4,
+        "beds": 48,
         "label": "4-er Zimmer"
       },
       {
-        "beds": 6,
+        "beds": 48,
         "label": "Spezialzimmer"
       }
     ],
@@ -563,7 +567,7 @@
     "Lat": 46.6255,
     "Lng": 8.6901,
     "Altitude": 2310,
-    "Beds": 80,
+    "Beds": 83,
     "Rooms": [
       {
         "beds": 80,
@@ -699,22 +703,22 @@
     "Lat": 46.8307,
     "Lng": 10.1324,
     "Altitude": 2250,
-    "Beds": 86,
+    "Beds": 344,
     "Rooms": [
       {
-        "beds": 65,
+        "beds": 86,
         "label": "Massenlager"
       },
       {
-        "beds": 2,
+        "beds": 86,
         "label": "2-er Zimmer"
       },
       {
-        "beds": 5,
+        "beds": 86,
         "label": "Spezialzimmer"
       },
       {
-        "beds": 14,
+        "beds": 86,
         "label": "Schutzraum/Winterraum"
       }
     ],
@@ -839,23 +843,27 @@
     "Lat": 46.8462,
     "Lng": 8.4628,
     "Altitude": 2296,
-    "Beds": 80,
+    "Beds": 425,
     "Rooms": [
       {
-        "beds": 62,
+        "beds": 85,
         "label": "Massenlager"
       },
       {
-        "beds": 4,
+        "beds": 85,
         "label": "2-er Zimmer"
       },
       {
-        "beds": 12,
+        "beds": 85,
         "label": "4-er Zimmer"
       },
       {
-        "beds": 2,
+        "beds": 85,
         "label": "Spezialzimmer"
+      },
+      {
+        "beds": 85,
+        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -987,22 +995,22 @@
     "Lat": 46.3428,
     "Lng": 7.4987,
     "Altitude": 2209,
-    "Beds": 26,
+    "Beds": 104,
     "Rooms": [
       {
-        "beds": 2,
+        "beds": 26,
         "label": "2-er Zimmer"
       },
       {
-        "beds": 8,
+        "beds": 26,
         "label": "4-er Zimmer"
       },
       {
-        "beds": 6,
+        "beds": 26,
         "label": "6-er Zimmer"
       },
       {
-        "beds": 10,
+        "beds": 26,
         "label": "10-er Zimmer"
       }
     ],
@@ -1164,7 +1172,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.spitzsteinhaus.de",
     "Phone": "+4353738330"
@@ -1175,7 +1183,7 @@
     "Lat": 47.1231,
     "Lng": 12.3922,
     "Altitude": 2796,
-    "Beds": 70,
+    "Beds": 78,
     "Rooms": [
       {
         "beds": 48,
@@ -1219,14 +1227,14 @@
     "Lat": 47.0665,
     "Lng": 10.5048,
     "Altitude": 2256,
-    "Beds": 26,
+    "Beds": 52,
     "Rooms": [
       {
-        "beds": 22,
+        "beds": 26,
         "label": "Mehrbettzimmer"
       },
       {
-        "beds": 4,
+        "beds": 26,
         "label": "Zweierzimmer"
       }
     ],
@@ -1299,8 +1307,12 @@
     "Lat": 46.2846,
     "Lng": 7.163,
     "Altitude": 1956,
-    "Beds": 32,
+    "Beds": 64,
     "Rooms": [
+      {
+        "beds": 32,
+        "label": "Massenlager"
+      },
       {
         "beds": 32,
         "label": "Schutzraum/Winterraum"
@@ -1394,7 +1406,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.davplus.de/hoellentalangerhuette",
     "Phone": "+4988219438548"
@@ -1405,18 +1417,18 @@
     "Lat": 47.0442,
     "Lng": 9.6842,
     "Altitude": 1908,
-    "Beds": 71,
+    "Beds": 213,
     "Rooms": [
       {
-        "beds": 53,
+        "beds": 71,
         "label": "Massenlager"
       },
       {
-        "beds": 10,
+        "beds": 71,
         "label": "2-er Zimmer"
       },
       {
-        "beds": 8,
+        "beds": 71,
         "label": "Schutzraum/Winterraum"
       }
     ],
@@ -1553,14 +1565,14 @@
     "Lat": 47.5868,
     "Lng": 12.8695,
     "Altitude": 1650,
-    "Beds": 80,
+    "Beds": 176,
     "Rooms": [
       {
-        "beds": 36,
+        "beds": 88,
         "label": "Dormitory"
       },
       {
-        "beds": 44,
+        "beds": 88,
         "label": "Shared bedroom"
       }
     ],
@@ -1575,7 +1587,7 @@
     "Lat": 47.3547,
     "Lng": 11.4772,
     "Altitude": 1768,
-    "Beds": 68,
+    "Beds": 73,
     "Rooms": [
       {
         "beds": 23,
@@ -1616,7 +1628,7 @@
         "label": "Zweierzimmer"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.alpenverein-fuessen.de/huetten/fritz-putz-huette",
     "Phone": "+498362507187"
@@ -1627,7 +1639,7 @@
     "Lat": 47.6931,
     "Lng": 12.9806,
     "Altitude": 1894,
-    "Beds": 49,
+    "Beds": 58,
     "Rooms": [
       {
         "beds": 25,
@@ -1653,7 +1665,7 @@
     "Lat": 47.4916,
     "Lng": 10.0692,
     "Altitude": 1634,
-    "Beds": 66,
+    "Beds": 70,
     "Rooms": [
       {
         "beds": 44,
@@ -1701,7 +1713,7 @@
     "Lat": 47.4274,
     "Lng": 11.4216,
     "Altitude": 1765,
-    "Beds": 135,
+    "Beds": 140,
     "Rooms": [
       {
         "beds": 100,
@@ -1801,7 +1813,7 @@
     "Lat": 47.0246,
     "Lng": 9.8726,
     "Altitude": 2211,
-    "Beds": 96,
+    "Beds": 110,
     "Rooms": [
       {
         "beds": 30,
@@ -1901,18 +1913,18 @@
     "Lat": 47.1627,
     "Lng": 9.9904,
     "Altitude": 1918,
-    "Beds": 103,
+    "Beds": 357,
     "Rooms": [
       {
-        "beds": 50,
+        "beds": 119,
         "label": "Dormitory"
       },
       {
-        "beds": 49,
+        "beds": 119,
         "label": "Shared bedroom"
       },
       {
-        "beds": 4,
+        "beds": 119,
         "label": "Double room"
       }
     ],
@@ -1938,7 +1950,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.dav-ueberlingen.de/huette-au",
     "Phone": "+491716355640"
@@ -1975,22 +1987,22 @@
     "Lat": 47.0072,
     "Lng": 10.1388,
     "Altitude": 2320,
-    "Beds": 154,
+    "Beds": 504,
     "Rooms": [
       {
-        "beds": 56,
+        "beds": 126,
         "label": "Matratzenlager"
       },
       {
-        "beds": 42,
+        "beds": 126,
         "label": "Mehrbettzimmer"
       },
       {
-        "beds": 28,
+        "beds": 126,
         "label": "Sonderkategorie 1"
       },
       {
-        "beds": 28,
+        "beds": 126,
         "label": "Unbewirtschafteter Modus"
       }
     ],
@@ -2020,7 +2032,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.rotwandhaus.de",
     "Phone": "+4980263959970"
@@ -2145,22 +2157,22 @@
     "Lat": 47.0236,
     "Lng": 11.3741,
     "Altitude": 2324,
-    "Beds": 74,
+    "Beds": 312,
     "Rooms": [
       {
-        "beds": 31,
+        "beds": 78,
         "label": "Dormitory"
       },
       {
-        "beds": 31,
+        "beds": 78,
         "label": "Shared bedroom"
       },
       {
-        "beds": 4,
+        "beds": 78,
         "label": "Double room"
       },
       {
-        "beds": 8,
+        "beds": 78,
         "label": "Unserviced mode"
       }
     ],
@@ -2227,18 +2239,18 @@
     "Lat": 46.9941,
     "Lng": 10.8882,
     "Altitude": 2323,
-    "Beds": 47,
+    "Beds": 150,
     "Rooms": [
       {
-        "beds": 35,
+        "beds": 50,
         "label": "Dormitory"
       },
       {
-        "beds": 10,
+        "beds": 50,
         "label": "Shared bedroom"
       },
       {
-        "beds": 2,
+        "beds": 50,
         "label": "Double room"
       }
     ],
@@ -2279,7 +2291,7 @@
     "Lat": 47.5294,
     "Lng": 14.553,
     "Altitude": 1523,
-    "Beds": 46,
+    "Beds": 50,
     "Rooms": [
       {
         "beds": 24,
@@ -2305,7 +2317,7 @@
     "Lat": 47.0421,
     "Lng": 11.6884,
     "Altitude": 2389,
-    "Beds": 52,
+    "Beds": 72,
     "Rooms": [
       {
         "beds": 40,
@@ -2327,7 +2339,7 @@
     "Lat": 47.0407,
     "Lng": 13.2155,
     "Altitude": 2565,
-    "Beds": 40,
+    "Beds": 50,
     "Rooms": [
       {
         "beds": 35,
@@ -2353,18 +2365,18 @@
     "Lat": 47.0433,
     "Lng": 11.8853,
     "Altitude": 2227,
-    "Beds": 81,
+    "Beds": 297,
     "Rooms": [
       {
-        "beds": 41,
+        "beds": 99,
         "label": "Dormitory"
       },
       {
-        "beds": 38,
+        "beds": 99,
         "label": "Shared bedroom"
       },
       {
-        "beds": 2,
+        "beds": 99,
         "label": "Double room"
       }
     ],
@@ -2405,7 +2417,7 @@
     "Lat": 47.7923,
     "Lng": 15.8151,
     "Altitude": 1235,
-    "Beds": 23,
+    "Beds": 25,
     "Rooms": [
       {
         "beds": 12,
@@ -2431,7 +2443,7 @@
     "Lat": 46.683,
     "Lng": 11.282,
     "Altitude": 1960,
-    "Beds": 48,
+    "Beds": 59,
     "Rooms": [
       {
         "beds": 14,
@@ -2461,22 +2473,22 @@
     "Lat": 47.4053,
     "Lng": 11.0357,
     "Altitude": 1370,
-    "Beds": 91,
+    "Beds": 279,
     "Rooms": [
       {
-        "beds": 61,
+        "beds": 93,
         "label": "Dormitory"
       },
       {
-        "beds": 25,
+        "beds": 93,
         "label": "Shared bedroom"
       },
       {
-        "beds": 5,
+        "beds": 93,
         "label": "Dog room"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.alpenverein-muenchen-oberland.de/reintalangerhuette",
     "Phone": "+4916097503090"
@@ -2487,14 +2499,14 @@
     "Lat": 47.2889,
     "Lng": 11.2965,
     "Altitude": 1633,
-    "Beds": 50,
+    "Beds": 110,
     "Rooms": [
       {
-        "beds": 26,
+        "beds": 55,
         "label": "Dormitory"
       },
       {
-        "beds": 24,
+        "beds": 55,
         "label": "Shared bedroom"
       }
     ],
@@ -2509,7 +2521,7 @@
     "Lat": 47.7475,
     "Lng": 12.2489,
     "Altitude": 1569,
-    "Beds": 36,
+    "Beds": 39,
     "Rooms": [
       {
         "beds": 13,
@@ -2535,26 +2547,26 @@
     "Lat": 47.0159,
     "Lng": 12.2461,
     "Altitude": 2038,
-    "Beds": 49,
+    "Beds": 260,
     "Rooms": [
       {
-        "beds": 8,
+        "beds": 52,
         "label": "Dormitory"
       },
       {
-        "beds": 25,
+        "beds": 52,
         "label": "Shared bedroom"
       },
       {
-        "beds": 6,
+        "beds": 52,
         "label": "Double room"
       },
       {
-        "beds": 4,
+        "beds": 52,
         "label": "Dog room"
       },
       {
-        "beds": 6,
+        "beds": 52,
         "label": "Special category 1"
       }
     ],
@@ -2647,7 +2659,7 @@
     "Lat": 47.3798,
     "Lng": 12.3075,
     "Altitude": 1014,
-    "Beds": 61,
+    "Beds": 65,
     "Rooms": [
       {
         "beds": 36,
@@ -2746,7 +2758,7 @@
         "label": "Mehrbettzimmer"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.dav-ingolstadt.de",
     "Phone": "+43720510504"
@@ -2757,22 +2769,22 @@
     "Lat": 47.458,
     "Lng": 12.9146,
     "Altitude": 2177,
-    "Beds": 82,
+    "Beds": 332,
     "Rooms": [
       {
-        "beds": 33,
+        "beds": 83,
         "label": "Dormitory"
       },
       {
-        "beds": 44,
+        "beds": 83,
         "label": "Shared bedroom"
       },
       {
-        "beds": 4,
+        "beds": 83,
         "label": "Double room"
       },
       {
-        "beds": 1,
+        "beds": 83,
         "label": "Dog room"
       }
     ],
@@ -2861,7 +2873,7 @@
     "Lat": 47.41,
     "Lng": 11.0128,
     "Altitude": 2051,
-    "Beds": 108,
+    "Beds": 116,
     "Rooms": [
       {
         "beds": 80,
@@ -2872,7 +2884,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.knorrhuette.de",
     "Phone": "+4915114443496"
@@ -2890,7 +2902,7 @@
         "label": "Dormitory"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.muenchnerhaus.de",
     "Phone": "+4988212901"
@@ -2901,7 +2913,7 @@
     "Lat": 47.5713,
     "Lng": 12.934,
     "Altitude": 1930,
-    "Beds": 102,
+    "Beds": 160,
     "Rooms": [
       {
         "beds": 50,
@@ -2927,14 +2939,14 @@
     "Lat": 47.1628,
     "Lng": 12.7389,
     "Altitude": 2802,
-    "Beds": 56,
+    "Beds": 112,
     "Rooms": [
       {
-        "beds": 40,
+        "beds": 56,
         "label": "Dormitory"
       },
       {
-        "beds": 16,
+        "beds": 56,
         "label": "Shared bedroom"
       }
     ],
@@ -2949,7 +2961,7 @@
     "Lat": 47.5536,
     "Lng": 12.311,
     "Altitude": 1620,
-    "Beds": 74,
+    "Beds": 90,
     "Rooms": [
       {
         "beds": 16,
@@ -3027,7 +3039,7 @@
     "Lat": 47.047,
     "Lng": 12.7204,
     "Altitude": 2644,
-    "Beds": 30,
+    "Beds": 50,
     "Rooms": [
       {
         "beds": 14,
@@ -3283,18 +3295,18 @@
     "Lat": 47.58,
     "Lng": 12.2773,
     "Altitude": 829,
-    "Beds": 91,
+    "Beds": 297,
     "Rooms": [
       {
-        "beds": 41,
+        "beds": 99,
         "label": "Dormitory"
       },
       {
-        "beds": 44,
+        "beds": 99,
         "label": "Shared bedroom"
       },
       {
-        "beds": 6,
+        "beds": 99,
         "label": "Double room"
       }
     ],
@@ -3309,18 +3321,18 @@
     "Lat": 46.9014,
     "Lng": 10.7375,
     "Altitude": 1928,
-    "Beds": 87,
+    "Beds": 261,
     "Rooms": [
       {
-        "beds": 14,
+        "beds": 87,
         "label": "Dormitory"
       },
       {
-        "beds": 67,
+        "beds": 87,
         "label": "Shared bedroom"
       },
       {
-        "beds": 6,
+        "beds": 87,
         "label": "Double room"
       }
     ],
@@ -3335,23 +3347,27 @@
     "Lat": 47.5344,
     "Lng": 10.5628,
     "Altitude": 1788,
-    "Beds": 57,
+    "Beds": 335,
     "Rooms": [
       {
-        "beds": 22,
+        "beds": 67,
         "label": "Dormitory"
       },
       {
-        "beds": 16,
+        "beds": 67,
         "label": "Shared bedroom"
       },
       {
-        "beds": 17,
+        "beds": 67,
         "label": "Double room"
       },
       {
-        "beds": 2,
+        "beds": 67,
         "label": "Dog room"
+      },
+      {
+        "beds": 67,
+        "label": "Special category 2"
       }
     ],
     "Country": "AT",
@@ -3401,18 +3417,18 @@
     "Lat": 47.0594,
     "Lng": 11.9491,
     "Altitude": 2177,
-    "Beds": 87,
+    "Beds": 261,
     "Rooms": [
       {
-        "beds": 66,
+        "beds": 87,
         "label": "Dormitory"
       },
       {
-        "beds": 13,
+        "beds": 87,
         "label": "Shared bedroom"
       },
       {
-        "beds": 8,
+        "beds": 87,
         "label": "Double room"
       }
     ],
@@ -3511,7 +3527,7 @@
     "Lat": 47.2148,
     "Lng": 10.0456,
     "Altitude": 2245,
-    "Beds": 65,
+    "Beds": 69,
     "Rooms": [
       {
         "beds": 38,
@@ -3533,7 +3549,7 @@
     "Lat": 47.5772,
     "Lng": 12.3107,
     "Altitude": 1580,
-    "Beds": 136,
+    "Beds": 162,
     "Rooms": [
       {
         "beds": 60,
@@ -3544,7 +3560,7 @@
         "label": "Shared bedroom"
       },
       {
-        "beds": 10,
+        "beds": 36,
         "label": "Double room"
       }
     ],
@@ -3581,14 +3597,14 @@
     "Lat": 46.9172,
     "Lng": 12.169,
     "Altitude": 2610,
-    "Beds": 39,
+    "Beds": 78,
     "Rooms": [
       {
-        "beds": 24,
+        "beds": 39,
         "label": "Dormitory"
       },
       {
-        "beds": 15,
+        "beds": 39,
         "label": "Shared bedroom"
       }
     ],
@@ -3603,7 +3619,7 @@
     "Lat": 47.3312,
     "Lng": 10.0874,
     "Altitude": 1621,
-    "Beds": 54,
+    "Beds": 75,
     "Rooms": [
       {
         "beds": 24,
@@ -3618,7 +3634,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.schwarzwasserhuette.com",
     "Phone": ""
@@ -3655,18 +3671,18 @@
     "Lat": 46.8868,
     "Lng": 10.1765,
     "Altitude": 2165,
-    "Beds": 182,
+    "Beds": 567,
     "Rooms": [
       {
-        "beds": 42,
+        "beds": 189,
         "label": "Dormitory"
       },
       {
-        "beds": 108,
+        "beds": 189,
         "label": "Shared bedroom"
       },
       {
-        "beds": 32,
+        "beds": 189,
         "label": "Double room"
       }
     ],
@@ -3751,11 +3767,15 @@
     "Lat": 46.467,
     "Lng": 8.41,
     "Altitude": 2338,
-    "Beds": 46,
+    "Beds": 92,
     "Rooms": [
       {
         "beds": 46,
         "label": "Massenlager"
+      },
+      {
+        "beds": 46,
+        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -3817,7 +3837,7 @@
     "Lat": 47.4447,
     "Lng": 11.8208,
     "Altitude": 1576,
-    "Beds": 49,
+    "Beds": 54,
     "Rooms": [
       {
         "beds": 29,
@@ -3905,7 +3925,7 @@
     "Lat": 47.2322,
     "Lng": 11.7884,
     "Altitude": 2124,
-    "Beds": 54,
+    "Beds": 58,
     "Rooms": [
       {
         "beds": 32,
@@ -3931,7 +3951,7 @@
     "Lat": 46.6807,
     "Lng": 8.139,
     "Altitude": 1499,
-    "Beds": 41,
+    "Beds": 43,
     "Rooms": [
       {
         "beds": 23,
@@ -3961,22 +3981,22 @@
     "Lat": 47.1183,
     "Lng": 12.0961,
     "Altitude": 2363,
-    "Beds": 75,
+    "Beds": 300,
     "Rooms": [
       {
-        "beds": 43,
+        "beds": 75,
         "label": "Dormitory"
       },
       {
-        "beds": 18,
+        "beds": 75,
         "label": "Shared bedroom"
       },
       {
-        "beds": 10,
+        "beds": 75,
         "label": "Double room"
       },
       {
-        "beds": 4,
+        "beds": 75,
         "label": "Unserviced mode"
       }
     ],
@@ -4013,7 +4033,7 @@
     "Lat": 46.1438,
     "Lng": 7.9779,
     "Altitude": 2726,
-    "Beds": 90,
+    "Beds": 99,
     "Rooms": [
       {
         "beds": 90,
@@ -4046,7 +4066,7 @@
         "label": "Zweierzimmer"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.bruennsteinhaus.de",
     "Phone": "+4980331431"
@@ -4057,14 +4077,14 @@
     "Lat": 47.6785,
     "Lng": 14.2268,
     "Altitude": 1575,
-    "Beds": 28,
+    "Beds": 60,
     "Rooms": [
       {
-        "beds": 24,
+        "beds": 30,
         "label": "Dormitory"
       },
       {
-        "beds": 4,
+        "beds": 30,
         "label": "Double room"
       }
     ],
@@ -4149,14 +4169,14 @@
     "Lat": 47.4451,
     "Lng": 10.5144,
     "Altitude": 1810,
-    "Beds": 128,
+    "Beds": 256,
     "Rooms": [
       {
-        "beds": 95,
+        "beds": 128,
         "label": "Dormitory"
       },
       {
-        "beds": 33,
+        "beds": 128,
         "label": "Shared bedroom"
       }
     ],
@@ -4241,7 +4261,7 @@
     "Lat": 47.5009,
     "Lng": 13.6241,
     "Altitude": 2203,
-    "Beds": 77,
+    "Beds": 94,
     "Rooms": [
       {
         "beds": 59,
@@ -4267,11 +4287,15 @@
     "Lat": 47.0549,
     "Lng": 12.6816,
     "Altitude": 2802,
-    "Beds": 118,
+    "Beds": 236,
     "Rooms": [
       {
         "beds": 118,
         "label": "Dormitory"
+      },
+      {
+        "beds": 118,
+        "label": "Unserviced mode"
       }
     ],
     "Country": "AT",
@@ -4355,7 +4379,7 @@
     "Lat": 48.1894,
     "Lng": 7.9771,
     "Altitude": 725,
-    "Beds": 49,
+    "Beds": 50,
     "Rooms": [
       {
         "beds": 22,
@@ -4455,7 +4479,7 @@
     "Lat": 46.8575,
     "Lng": 9.0188,
     "Altitude": 2501,
-    "Beds": 50,
+    "Beds": 76,
     "Rooms": [
       {
         "beds": 42,
@@ -4485,7 +4509,7 @@
     "Lat": 46.7648,
     "Lng": 10.7112,
     "Altitude": 2670,
-    "Beds": 56,
+    "Beds": 80,
     "Rooms": [
       {
         "beds": 23,
@@ -4547,7 +4571,7 @@
     "Lat": 46.8684,
     "Lng": 10.1161,
     "Altitude": 2443,
-    "Beds": 150,
+    "Beds": 160,
     "Rooms": [
       {
         "beds": 80,
@@ -4569,7 +4593,7 @@
     "Lat": 47.1666,
     "Lng": 10.4938,
     "Altitude": 2298,
-    "Beds": 48,
+    "Beds": 54,
     "Rooms": [
       {
         "beds": 36,
@@ -4613,18 +4637,18 @@
     "Lat": 47.1728,
     "Lng": 12.3833,
     "Altitude": 2240,
-    "Beds": 76,
+    "Beds": 228,
     "Rooms": [
       {
-        "beds": 50,
+        "beds": 76,
         "label": "Dormitory"
       },
       {
-        "beds": 24,
+        "beds": 76,
         "label": "Shared bedroom"
       },
       {
-        "beds": 2,
+        "beds": 76,
         "label": "Double room"
       }
     ],
@@ -4807,18 +4831,18 @@
     "Lat": 47.804,
     "Lng": 13.6766,
     "Altitude": 1765,
-    "Beds": 32,
+    "Beds": 96,
     "Rooms": [
       {
-        "beds": 24,
+        "beds": 32,
         "label": "Dormitory"
       },
       {
-        "beds": 6,
+        "beds": 32,
         "label": "Shared bedroom"
       },
       {
-        "beds": 2,
+        "beds": 32,
         "label": "Double room"
       }
     ],
@@ -4833,22 +4857,22 @@
     "Lat": 47.8072,
     "Lng": 15.0255,
     "Altitude": 1343,
-    "Beds": 45,
+    "Beds": 180,
     "Rooms": [
       {
-        "beds": 12,
+        "beds": 45,
         "label": "Matratzenlager"
       },
       {
-        "beds": 26,
+        "beds": 45,
         "label": "Mehrbettzimmer"
       },
       {
-        "beds": 4,
+        "beds": 45,
         "label": "Zweierzimmer"
       },
       {
-        "beds": 3,
+        "beds": 45,
         "label": "Hundezimmer"
       }
     ],
@@ -4881,18 +4905,18 @@
     "Lat": 47.67,
     "Lng": 11.8825,
     "Altitude": 1124,
-    "Beds": 88,
+    "Beds": 264,
     "Rooms": [
       {
-        "beds": 48,
+        "beds": 88,
         "label": "Shared bedroom"
       },
       {
-        "beds": 20,
+        "beds": 88,
         "label": "Double room"
       },
       {
-        "beds": 20,
+        "beds": 88,
         "label": "Special category 1"
       }
     ],
@@ -4951,23 +4975,27 @@
     "Lat": 47.4509,
     "Lng": 13.6837,
     "Altitude": 2146,
-    "Beds": 49,
+    "Beds": 355,
     "Rooms": [
       {
-        "beds": 27,
+        "beds": 71,
         "label": "Matratzenlager"
       },
       {
-        "beds": 15,
+        "beds": 71,
         "label": "Mehrbettzimmer"
       },
       {
-        "beds": 6,
+        "beds": 71,
         "label": "Zweierzimmer"
       },
       {
-        "beds": 1,
+        "beds": 71,
         "label": "Hundezimmer"
+      },
+      {
+        "beds": 71,
+        "label": "Unbewirtschafteter Modus"
       }
     ],
     "Country": "AT",
@@ -4981,15 +5009,19 @@
     "Lat": 47.4736,
     "Lng": 13.6128,
     "Altitude": 2740,
-    "Beds": 21,
+    "Beds": 69,
     "Rooms": [
       {
-        "beds": 15,
+        "beds": 23,
         "label": "Matratzenlager"
       },
       {
-        "beds": 6,
+        "beds": 23,
         "label": "Mehrbettzimmer"
+      },
+      {
+        "beds": 23,
+        "label": "Unbewirtschafteter Modus"
       }
     ],
     "Country": "AT",
@@ -5103,19 +5135,23 @@
     "Lat": 46.6124,
     "Lng": 12.867,
     "Altitude": 1960,
-    "Beds": 55,
+    "Beds": 256,
     "Rooms": [
       {
-        "beds": 34,
+        "beds": 64,
         "label": "Dormitory"
       },
       {
-        "beds": 19,
+        "beds": 64,
         "label": "Shared bedroom"
       },
       {
-        "beds": 2,
+        "beds": 64,
         "label": "Double room"
+      },
+      {
+        "beds": 64,
+        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -5173,7 +5209,7 @@
     "Lat": 47.3925,
     "Lng": 10.42,
     "Altitude": 1846,
-    "Beds": 150,
+    "Beds": 160,
     "Rooms": [
       {
         "beds": 104,
@@ -5225,14 +5261,14 @@
     "Lat": 47.5931,
     "Lng": 10.6186,
     "Altitude": 1530,
-    "Beds": 58,
+    "Beds": 122,
     "Rooms": [
       {
-        "beds": 19,
+        "beds": 61,
         "label": "Matratzenlager"
       },
       {
-        "beds": 39,
+        "beds": 61,
         "label": "Mehrbettzimmer"
       }
     ],
@@ -5291,22 +5327,22 @@
     "Lat": 47.0547,
     "Lng": 11.1983,
     "Altitude": 2286,
-    "Beds": 104,
+    "Beds": 416,
     "Rooms": [
       {
-        "beds": 39,
+        "beds": 104,
         "label": "Dormitory"
       },
       {
-        "beds": 27,
+        "beds": 104,
         "label": "Shared bedroom"
       },
       {
-        "beds": 36,
+        "beds": 104,
         "label": "Double room"
       },
       {
-        "beds": 2,
+        "beds": 104,
         "label": "Dog room"
       }
     ],
@@ -5321,11 +5357,15 @@
     "Lat": 46.7345,
     "Lng": 10.4355,
     "Altitude": 2256,
-    "Beds": 48,
+    "Beds": 96,
     "Rooms": [
       {
         "beds": 48,
         "label": "shared bedrooms"
+      },
+      {
+        "beds": 48,
+        "label": "Unbewirtschafteter Betrieb"
       }
     ],
     "Country": "IT",
@@ -5507,7 +5547,7 @@
     "Lat": 46.7079,
     "Lng": 11.5802,
     "Altitude": 2284,
-    "Beds": 39,
+    "Beds": 40,
     "Rooms": [
       {
         "beds": 15,
@@ -5562,7 +5602,7 @@
         "label": "Dormitory"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.soiernhaus.de",
     "Phone": "+491715465858"
@@ -5609,7 +5649,7 @@
     "Lat": 47.1228,
     "Lng": 12.3001,
     "Altitude": 2558,
-    "Beds": 112,
+    "Beds": 140,
     "Rooms": [
       {
         "beds": 65,
@@ -5713,19 +5753,23 @@
     "Lat": 47.0345,
     "Lng": 9.8355,
     "Altitude": 1744,
-    "Beds": 167,
+    "Beds": 680,
     "Rooms": [
       {
-        "beds": 66,
+        "beds": 170,
         "label": "Dormitory"
       },
       {
-        "beds": 90,
+        "beds": 170,
         "label": "Shared bedroom"
       },
       {
-        "beds": 11,
+        "beds": 170,
         "label": "Double room"
+      },
+      {
+        "beds": 170,
+        "label": "Unserviced mode"
       }
     ],
     "Country": "AT",
@@ -5739,18 +5783,18 @@
     "Lat": 47.2103,
     "Lng": 10.5356,
     "Altitude": 2220,
-    "Beds": 59,
+    "Beds": 177,
     "Rooms": [
       {
-        "beds": 26,
+        "beds": 59,
         "label": "Dormitory"
       },
       {
-        "beds": 25,
+        "beds": 59,
         "label": "Shared bedroom"
       },
       {
-        "beds": 8,
+        "beds": 59,
         "label": "Double room"
       }
     ],
@@ -5765,7 +5809,7 @@
     "Lat": 47.1054,
     "Lng": 12.7155,
     "Altitude": 2973,
-    "Beds": 95,
+    "Beds": 110,
     "Rooms": [
       {
         "beds": 65,
@@ -5791,7 +5835,7 @@
     "Lat": 46.8763,
     "Lng": 11.7816,
     "Altitude": 2312,
-    "Beds": 20,
+    "Beds": 50,
     "Rooms": [
       {
         "beds": 20,
@@ -5879,18 +5923,18 @@
     "Lat": 47.5561,
     "Lng": 14.6605,
     "Altitude": 1699,
-    "Beds": 99,
+    "Beds": 297,
     "Rooms": [
       {
-        "beds": 55,
+        "beds": 99,
         "label": "Dormitory"
       },
       {
-        "beds": 42,
+        "beds": 99,
         "label": "Shared bedroom"
       },
       {
-        "beds": 2,
+        "beds": 99,
         "label": "Double room"
       }
     ],
@@ -5923,7 +5967,7 @@
     "Lat": 46.8984,
     "Lng": 10.036,
     "Altitude": 2538,
-    "Beds": 64,
+    "Beds": 74,
     "Rooms": [
       {
         "beds": 30,
@@ -6099,14 +6143,14 @@
     "Lat": 47.0431,
     "Lng": 11.3108,
     "Altitude": 2369,
-    "Beds": 98,
+    "Beds": 204,
     "Rooms": [
       {
-        "beds": 68,
+        "beds": 102,
         "label": "Dormitory"
       },
       {
-        "beds": 30,
+        "beds": 102,
         "label": "Shared bedroom"
       }
     ],
@@ -6166,7 +6210,7 @@
         "label": "Zweierzimmer"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.traunsteinerhuette-winklmoos.de",
     "Phone": "+4986408140"
@@ -6203,7 +6247,7 @@
     "Lat": 47.5721,
     "Lng": 13.0392,
     "Altitude": 1670,
-    "Beds": 24,
+    "Beds": 66,
     "Rooms": [
       {
         "beds": 8,
@@ -6218,7 +6262,7 @@
         "label": "Zweierzimmer"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.schneibsteinhaus.de",
     "Phone": "+4986522596"
@@ -6365,7 +6409,7 @@
     "Lat": 47.7049,
     "Lng": 14.0819,
     "Altitude": 1420,
-    "Beds": 125,
+    "Beds": 150,
     "Rooms": [
       {
         "beds": 70,
@@ -6521,7 +6565,7 @@
     "Lat": 47.8289,
     "Lng": 13.6055,
     "Altitude": 1572,
-    "Beds": 41,
+    "Beds": 45,
     "Rooms": [
       {
         "beds": 21,
@@ -6556,38 +6600,12 @@
     "Phone": "+49832493010"
   },
   {
-    "Id": 346,
-    "Name": "ZZZ TEST Monbijouhütte",
-    "Lat": 46.9446,
-    "Lng": 7.4351,
-    "Altitude": 1256,
-    "Beds": 36,
-    "Rooms": [
-      {
-        "beds": 20,
-        "label": "Massenlager"
-      },
-      {
-        "beds": 8,
-        "label": "4-er Zimmer"
-      },
-      {
-        "beds": 8,
-        "label": "8-er Zimmer"
-      }
-    ],
-    "Country": "CH",
-    "Code": "SAC",
-    "Website": "www.sac-cas.ch",
-    "Phone": ""
-  },
-  {
     "Id": 347,
     "Name": "Berghaus Alpenrösli",
     "Lat": 46.9984,
     "Lng": 9.8583,
     "Altitude": 1775,
-    "Beds": 53,
+    "Beds": 60,
     "Rooms": [
       {
         "beds": 30,
@@ -6701,7 +6719,7 @@
     "Lat": 47.4,
     "Lng": 11.4988,
     "Altitude": 1848,
-    "Beds": 100,
+    "Beds": 120,
     "Rooms": [
       {
         "beds": 50,
@@ -6716,7 +6734,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.alpenverein-muenchen-oberland.de/huetten/alpenvereinshuetten/falkenhuette",
     "Phone": ""
@@ -6749,14 +6767,14 @@
     "Lat": 47.2545,
     "Lng": 9.4255,
     "Altitude": 1527,
-    "Beds": 35,
+    "Beds": 70,
     "Rooms": [
       {
-        "beds": 12,
+        "beds": 35,
         "label": "Massenlager"
       },
       {
-        "beds": 23,
+        "beds": 35,
         "label": "Mehrbettzimmer"
       }
     ],
@@ -6771,7 +6789,7 @@
     "Lat": 46.8288,
     "Lng": 10.9919,
     "Altitude": 2480,
-    "Beds": 46,
+    "Beds": 65,
     "Rooms": [
       {
         "beds": 22,
@@ -6819,22 +6837,22 @@
     "Lat": 46.9665,
     "Lng": 11.1173,
     "Altitude": 2899,
-    "Beds": 66,
+    "Beds": 340,
     "Rooms": [
       {
-        "beds": 38,
+        "beds": 85,
         "label": "Dormitory"
       },
       {
-        "beds": 25,
+        "beds": 85,
         "label": "Shared bedroom"
       },
       {
-        "beds": 2,
+        "beds": 85,
         "label": "Double room"
       },
       {
-        "beds": 1,
+        "beds": 85,
         "label": "Dog room"
       }
     ],
@@ -6926,7 +6944,7 @@
         "label": "Double room"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.kreuzeckhaus.net",
     "Phone": "+4988212202"
@@ -7031,7 +7049,7 @@
     "Lat": 45.9764,
     "Lng": 7.0703,
     "Altitude": 2691,
-    "Beds": 44,
+    "Beds": 48,
     "Rooms": [
       {
         "beds": 22,
@@ -7093,7 +7111,7 @@
     "Lat": 46.3817,
     "Lng": 9.8283,
     "Altitude": 2610,
-    "Beds": 50,
+    "Beds": 55,
     "Rooms": [
       {
         "beds": 50,
@@ -7369,7 +7387,7 @@
     "Lat": 47.3131,
     "Lng": 13.8133,
     "Altitude": 1656,
-    "Beds": 96,
+    "Beds": 144,
     "Rooms": [
       {
         "beds": 58,
@@ -7513,7 +7531,7 @@
     "Lat": 46.954,
     "Lng": 12.7812,
     "Altitude": 2488,
-    "Beds": 25,
+    "Beds": 30,
     "Rooms": [
       {
         "beds": 25,
@@ -7737,22 +7755,22 @@
     "Lat": 47.428,
     "Lng": 15.4192,
     "Altitude": 1785,
-    "Beds": 89,
+    "Beds": 356,
     "Rooms": [
       {
-        "beds": 50,
+        "beds": 89,
         "label": "Dormitory"
       },
       {
-        "beds": 25,
+        "beds": 89,
         "label": "Shared bedroom"
       },
       {
-        "beds": 12,
+        "beds": 89,
         "label": "Double room"
       },
       {
-        "beds": 2,
+        "beds": 89,
         "label": "Dog room"
       }
     ],
@@ -7767,18 +7785,18 @@
     "Lat": 47.9896,
     "Lng": 15.5901,
     "Altitude": 943,
-    "Beds": 22,
+    "Beds": 66,
     "Rooms": [
       {
-        "beds": 12,
+        "beds": 22,
         "label": "Matratzenlager"
       },
       {
-        "beds": 8,
+        "beds": 22,
         "label": "Mehrbettzimmer"
       },
       {
-        "beds": 2,
+        "beds": 22,
         "label": "Zweierzimmer"
       }
     ],
@@ -7793,7 +7811,7 @@
     "Lat": 47.274,
     "Lng": 14.1488,
     "Altitude": 1525,
-    "Beds": 2,
+    "Beds": 19,
     "Rooms": [
       {
         "beds": 1,
@@ -7841,23 +7859,27 @@
     "Lat": 47.5304,
     "Lng": 15.9144,
     "Altitude": 1743,
-    "Beds": 34,
+    "Beds": 165,
     "Rooms": [
       {
-        "beds": 26,
+        "beds": 33,
         "label": "Dormitory"
       },
       {
-        "beds": 3,
+        "beds": 33,
         "label": "Shared bedroom"
       },
       {
-        "beds": 4,
+        "beds": 33,
         "label": "Double room"
       },
       {
-        "beds": 1,
+        "beds": 33,
         "label": "Dog room"
+      },
+      {
+        "beds": 33,
+        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -7952,7 +7974,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.dav-memmingen.de/index.php?id=559",
     "Phone": "+491603314192"
@@ -7970,7 +7992,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.dav-memmingen.de/index.php?id=560",
     "Phone": "+491603314192"
@@ -7981,7 +8003,7 @@
     "Lat": 46.4696,
     "Lng": 10.6731,
     "Altitude": 2610,
-    "Beds": 52,
+    "Beds": 56,
     "Rooms": [
       {
         "beds": 29,
@@ -8157,7 +8179,7 @@
     "Lat": 46.9098,
     "Lng": 10.2595,
     "Altitude": 2364,
-    "Beds": 100,
+    "Beds": 120,
     "Rooms": [
       {
         "beds": 50,
@@ -8399,8 +8421,12 @@
     "Lat": 46.3164,
     "Lng": 8.4713,
     "Altitude": 1906,
-    "Beds": 4,
+    "Beds": 6,
     "Rooms": [
+      {
+        "beds": 2,
+        "label": "Wohnheim"
+      },
       {
         "beds": 4,
         "label": "Unbewarterer Betrieb"
@@ -8601,7 +8627,7 @@
     "Lat": 46.4039,
     "Lng": 9.8801,
     "Altitude": 2583,
-    "Beds": 83,
+    "Beds": 90,
     "Rooms": [
       {
         "beds": 75,
@@ -8627,19 +8653,31 @@
     "Lat": 46.6966,
     "Lng": 13.1574,
     "Altitude": 1585,
-    "Beds": 18,
+    "Beds": 108,
     "Rooms": [
       {
-        "beds": 11,
+        "beds": 18,
         "label": "Dormitory"
       },
       {
-        "beds": 6,
+        "beds": 18,
+        "label": "Shared bedroom"
+      },
+      {
+        "beds": 18,
         "label": "Double room"
       },
       {
-        "beds": 1,
+        "beds": 18,
         "label": "Single room"
+      },
+      {
+        "beds": 18,
+        "label": "Special category"
+      },
+      {
+        "beds": 18,
+        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -8693,7 +8731,7 @@
     "Lat": 47.4922,
     "Lng": 13.5839,
     "Altitude": 2196,
-    "Beds": 72,
+    "Beds": 89,
     "Rooms": [
       {
         "beds": 50,
@@ -8741,7 +8779,7 @@
     "Lat": 47.4392,
     "Lng": 14.4328,
     "Altitude": 1725,
-    "Beds": 49,
+    "Beds": 51,
     "Rooms": [
       {
         "beds": 28,
@@ -8913,7 +8951,7 @@
     "Lat": 47.361,
     "Lng": 13.8169,
     "Altitude": 1533,
-    "Beds": 32,
+    "Beds": 40,
     "Rooms": [
       {
         "beds": 22,
@@ -8957,7 +8995,7 @@
     "Lat": 47.6608,
     "Lng": 11.9253,
     "Altitude": 1567,
-    "Beds": 43,
+    "Beds": 46,
     "Rooms": [
       {
         "beds": 25,
@@ -9063,7 +9101,7 @@
     "Lat": 46.8658,
     "Lng": 9.3807,
     "Altitude": 1998,
-    "Beds": 34,
+    "Beds": 36,
     "Rooms": [
       {
         "beds": 34,
@@ -9103,14 +9141,14 @@
     "Lat": 46.3911,
     "Lng": 8.4872,
     "Altitude": 2108,
-    "Beds": 29,
+    "Beds": 80,
     "Rooms": [
       {
-        "beds": 25,
+        "beds": 40,
         "label": "Wohnheim"
       },
       {
-        "beds": 4,
+        "beds": 40,
         "label": "Zelt"
       }
     ],
@@ -9165,7 +9203,7 @@
     "Lat": 46.378,
     "Lng": 7.881,
     "Altitude": 2598,
-    "Beds": 12,
+    "Beds": 18,
     "Rooms": [
       {
         "beds": 12,
@@ -9183,14 +9221,14 @@
     "Lat": 47.5642,
     "Lng": 12.3371,
     "Altitude": 1868,
-    "Beds": 15,
+    "Beds": 17,
     "Rooms": [
       {
         "beds": 15,
         "label": "Dormitory"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.fritzpflaumhuette.de",
     "Phone": "+491234567890"
@@ -9223,22 +9261,22 @@
     "Lat": 46.8432,
     "Lng": 8.607,
     "Altitude": 1525,
-    "Beds": 32,
+    "Beds": 128,
     "Rooms": [
       {
-        "beds": 16,
+        "beds": 32,
         "label": "Massenlager"
       },
       {
-        "beds": 4,
+        "beds": 32,
         "label": "Mehrbettzimmer"
       },
       {
-        "beds": 8,
+        "beds": 32,
         "label": "2-er Zimmer"
       },
       {
-        "beds": 4,
+        "beds": 32,
         "label": "4-er Zimmer"
       }
     ],
@@ -9264,24 +9302,6 @@
     "Code": "DAV",
     "Website": "www.dav-berchtesgaden.de/Huetten/Selbstversorgerhuetten/Ostwandlager",
     "Phone": "+4986529764610"
-  },
-  {
-    "Id": 538,
-    "Name": "Berg- und Skiheim Brixen im Thale - Ferienwohnung",
-    "Lat": 47.4544,
-    "Lng": 12.2605,
-    "Altitude": 800,
-    "Beds": 1,
-    "Rooms": [
-      {
-        "beds": 1,
-        "label": "Shared bedroom"
-      }
-    ],
-    "Country": "AT",
-    "Code": "DAV",
-    "Website": "www.alpenverein-regensburg.de/huetten/huetten-der-sektion/berg-und-skiheim-ferienwohnung",
-    "Phone": "+4353348542"
   },
   {
     "Id": 539,
@@ -9337,10 +9357,10 @@
     "Lat": 46.282,
     "Lng": 8.483,
     "Altitude": 1430,
-    "Beds": 16,
+    "Beds": 18,
     "Rooms": [
       {
-        "beds": 16,
+        "beds": 18,
         "label": "4-er Zimmer"
       }
     ],
@@ -9497,18 +9517,18 @@
     "Lat": 46.5038,
     "Lng": 9.5804,
     "Altitude": 1922,
-    "Beds": 12,
+    "Beds": 36,
     "Rooms": [
       {
-        "beds": 8,
+        "beds": 12,
         "label": "Mehrbettzimmer"
       },
       {
-        "beds": 2,
+        "beds": 12,
         "label": "2-er Zimmer"
       },
       {
-        "beds": 2,
+        "beds": 12,
         "label": "Spezialzimmer"
       }
     ],
@@ -9607,7 +9627,7 @@
     "Lat": 46.6761,
     "Lng": 8.5237,
     "Altitude": 2400,
-    "Beds": 0,
+    "Beds": 10,
     "Rooms": [],
     "Country": "CH",
     "Code": "SAC",
@@ -9620,19 +9640,27 @@
     "Lat": 47.4293,
     "Lng": 10.4068,
     "Altitude": 1380,
-    "Beds": 66,
+    "Beds": 330,
     "Rooms": [
       {
-        "beds": 33,
+        "beds": 66,
         "label": "Dormitory"
       },
       {
-        "beds": 24,
+        "beds": 66,
         "label": "Shared bedroom"
       },
       {
-        "beds": 9,
+        "beds": 66,
         "label": "Dog room"
+      },
+      {
+        "beds": 66,
+        "label": "Special category 1"
+      },
+      {
+        "beds": 66,
+        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -9646,15 +9674,19 @@
     "Lat": 46.5973,
     "Lng": 13.1973,
     "Altitude": 2215,
-    "Beds": 50,
+    "Beds": 150,
     "Rooms": [
       {
-        "beds": 32,
+        "beds": 50,
         "label": "Dormitory"
       },
       {
-        "beds": 18,
+        "beds": 50,
         "label": "Shared bedroom"
+      },
+      {
+        "beds": 50,
+        "label": "Special category 2"
       }
     ],
     "Country": "AT",
@@ -9686,7 +9718,7 @@
     "Lat": 46.1698,
     "Lng": 7.095,
     "Altitude": 2064,
-    "Beds": 30,
+    "Beds": 46,
     "Rooms": [
       {
         "beds": 30,
@@ -9798,14 +9830,14 @@
     "Lat": 47.2072,
     "Lng": 10.9331,
     "Altitude": 2150,
-    "Beds": 56,
+    "Beds": 116,
     "Rooms": [
       {
-        "beds": 28,
+        "beds": 58,
         "label": "Dormitory"
       },
       {
-        "beds": 28,
+        "beds": 58,
         "label": "Shared bedroom"
       }
     ],
@@ -9896,18 +9928,18 @@
     "Lat": 47.0398,
     "Lng": 12.6905,
     "Altitude": 2241,
-    "Beds": 48,
+    "Beds": 144,
     "Rooms": [
       {
-        "beds": 24,
+        "beds": 48,
         "label": "Dormitory"
       },
       {
-        "beds": 20,
+        "beds": 48,
         "label": "Shared bedroom"
       },
       {
-        "beds": 4,
+        "beds": 48,
         "label": "Double room"
       }
     ],
@@ -10002,11 +10034,15 @@
     "Lat": 46.2943,
     "Lng": 9.0275,
     "Altitude": 2393,
-    "Beds": 52,
+    "Beds": 104,
     "Rooms": [
       {
         "beds": 52,
         "label": "Wohnheim"
+      },
+      {
+        "beds": 52,
+        "label": "Unbewarterer Betrieb"
       }
     ],
     "Country": "CH",
@@ -10020,7 +10056,7 @@
     "Lat": 46.5557,
     "Lng": 9.0059,
     "Altitude": 2173,
-    "Beds": 0,
+    "Beds": 16,
     "Rooms": [],
     "Country": "CH",
     "Code": "Via-Vallemaggia",
@@ -10073,8 +10109,21 @@
     "Lat": 47.6615,
     "Lng": 11.8883,
     "Altitude": 1528,
-    "Beds": 0,
-    "Rooms": [],
+    "Beds": 108,
+    "Rooms": [
+      {
+        "beds": 36,
+        "label": "Dormitory"
+      },
+      {
+        "beds": 36,
+        "label": "Shared bedroom"
+      },
+      {
+        "beds": 36,
+        "label": "Double room"
+      }
+    ],
     "Country": "DE",
     "Code": "DAV",
     "Website": "www.obere-maxlraineralm.com",
@@ -10086,14 +10135,14 @@
     "Lat": 46.2805,
     "Lng": 7.2149,
     "Altitude": 1480,
-    "Beds": 38,
+    "Beds": 76,
     "Rooms": [
       {
-        "beds": 34,
+        "beds": 38,
         "label": "Massenlager"
       },
       {
-        "beds": 4,
+        "beds": 38,
         "label": "Spezialzimmer"
       }
     ],
@@ -10282,11 +10331,15 @@
     "Lat": 46.3946,
     "Lng": 11.7403,
     "Altitude": 2046,
-    "Beds": 12,
+    "Beds": 24,
     "Rooms": [
       {
         "beds": 12,
         "label": "Beds"
+      },
+      {
+        "beds": 12,
+        "label": "Campo da non utilizzare"
       }
     ],
     "Country": "IT",
@@ -10300,14 +10353,14 @@
     "Lat": 47.6617,
     "Lng": 12.7446,
     "Altitude": 564,
-    "Beds": 15,
+    "Beds": 30,
     "Rooms": [
       {
-        "beds": 9,
+        "beds": 15,
         "label": "Shared bedroom"
       },
       {
-        "beds": 6,
+        "beds": 15,
         "label": "Double room"
       }
     ],
@@ -10329,7 +10382,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "dav-pfullendorf.de",
     "Phone": "+49755291383"
@@ -10340,15 +10393,19 @@
     "Lat": 46.902,
     "Lng": 10.635,
     "Altitude": 2123,
-    "Beds": 53,
+    "Beds": 159,
     "Rooms": [
       {
-        "beds": 46,
+        "beds": 53,
         "label": "Dormitory"
       },
       {
-        "beds": 7,
+        "beds": 53,
         "label": "Shared bedroom"
+      },
+      {
+        "beds": 53,
+        "label": "Unserviced mode"
       }
     ],
     "Country": "AT",
@@ -10424,15 +10481,19 @@
     "Lat": 47.4874,
     "Lng": 10.5984,
     "Altitude": 1150,
-    "Beds": 68,
+    "Beds": 252,
     "Rooms": [
       {
-        "beds": 40,
+        "beds": 84,
         "label": "Dormitory"
       },
       {
-        "beds": 28,
+        "beds": 84,
         "label": "Shared bedroom"
+      },
+      {
+        "beds": 84,
+        "label": "Unserviced mode"
       }
     ],
     "Country": "AT",
@@ -10446,22 +10507,22 @@
     "Lat": 47.4603,
     "Lng": 13.116,
     "Altitude": 1630,
-    "Beds": 39,
+    "Beds": 188,
     "Rooms": [
       {
-        "beds": 20,
+        "beds": 47,
         "label": "Dormitory"
       },
       {
-        "beds": 16,
+        "beds": 47,
         "label": "Double room"
       },
       {
-        "beds": 1,
+        "beds": 47,
         "label": "Dog room"
       },
       {
-        "beds": 2,
+        "beds": 47,
         "label": "Special category 1"
       }
     ],
@@ -10476,15 +10537,19 @@
     "Lat": 46.2674,
     "Lng": 11.839,
     "Altitude": 2578,
-    "Beds": 12,
+    "Beds": 60,
     "Rooms": [
       {
-        "beds": 6,
+        "beds": 12,
         "label": "Multi-bed room"
       },
       {
-        "beds": 6,
+        "beds": 12,
         "label": "Dormitory"
+      },
+      {
+        "beds": 12,
+        "label": "Beds"
       }
     ],
     "Country": "IT",
@@ -10498,7 +10563,7 @@
     "Lat": 46.4339,
     "Lng": 11.6643,
     "Altitude": 2000,
-    "Beds": 3,
+    "Beds": 8,
     "Rooms": [
       {
         "beds": 3,
@@ -10516,7 +10581,7 @@
     "Lat": 46.4202,
     "Lng": 11.6301,
     "Altitude": 2282,
-    "Beds": 10,
+    "Beds": 49,
     "Rooms": [
       {
         "beds": 10,
@@ -10534,7 +10599,7 @@
     "Lat": 45.8104,
     "Lng": 10.8904,
     "Altitude": 2060,
-    "Beds": 15,
+    "Beds": 35,
     "Rooms": [
       {
         "beds": 15,
@@ -10678,7 +10743,7 @@
     "Lat": 46.1541,
     "Lng": 10.8988,
     "Altitude": 2500,
-    "Beds": 0,
+    "Beds": 10,
     "Rooms": [],
     "Country": "IT",
     "Code": "SAT",
@@ -10709,7 +10774,7 @@
     "Lat": 46.1506,
     "Lng": 10.8474,
     "Altitude": 2489,
-    "Beds": 10,
+    "Beds": 20,
     "Rooms": [
       {
         "beds": 10,
@@ -10727,7 +10792,7 @@
     "Lat": 46.2434,
     "Lng": 10.6552,
     "Altitude": 2298,
-    "Beds": 40,
+    "Beds": 82,
     "Rooms": [
       {
         "beds": 40,
@@ -10745,7 +10810,7 @@
     "Lat": 46.2091,
     "Lng": 10.7108,
     "Altitude": 2371,
-    "Beds": 30,
+    "Beds": 42,
     "Rooms": [
       {
         "beds": 30,
@@ -10763,7 +10828,7 @@
     "Lat": 46.2026,
     "Lng": 10.5712,
     "Altitude": 2449,
-    "Beds": 63,
+    "Beds": 83,
     "Rooms": [
       {
         "beds": 63,
@@ -10781,7 +10846,7 @@
     "Lat": 46.1077,
     "Lng": 10.6261,
     "Altitude": 2450,
-    "Beds": 66,
+    "Beds": 74,
     "Rooms": [
       {
         "beds": 2,
@@ -10843,7 +10908,7 @@
     "Lat": 46.4369,
     "Lng": 10.666,
     "Altitude": 2607,
-    "Beds": 4,
+    "Beds": 80,
     "Rooms": [
       {
         "beds": 4,
@@ -10861,7 +10926,7 @@
     "Lat": 46.4606,
     "Lng": 10.7519,
     "Altitude": 2436,
-    "Beds": 20,
+    "Beds": 65,
     "Rooms": [
       {
         "beds": 20,
@@ -10945,19 +11010,27 @@
     "Lat": 46.9781,
     "Lng": 12.7605,
     "Altitude": 2346,
-    "Beds": 55,
+    "Beds": 275,
     "Rooms": [
       {
-        "beds": 39,
+        "beds": 55,
         "label": "Dormitory"
       },
       {
-        "beds": 14,
+        "beds": 55,
         "label": "Shared bedroom"
       },
       {
-        "beds": 2,
+        "beds": 55,
+        "label": "Double room"
+      },
+      {
+        "beds": 55,
         "label": "Dog room"
+      },
+      {
+        "beds": 55,
+        "label": "Special category 2"
       }
     ],
     "Country": "AT",
@@ -10971,7 +11044,7 @@
     "Lat": 47.0668,
     "Lng": 9.6897,
     "Altitude": 2679,
-    "Beds": 75,
+    "Beds": 87,
     "Rooms": [
       {
         "beds": 52,
@@ -11037,7 +11110,7 @@
     "Lat": 46.4436,
     "Lng": 8.6621,
     "Altitude": 1291,
-    "Beds": 25,
+    "Beds": 27,
     "Rooms": [
       {
         "beds": 14,
@@ -11059,18 +11132,18 @@
     "Lat": 47.1012,
     "Lng": 13.4119,
     "Altitude": 1739,
-    "Beds": 50,
+    "Beds": 150,
     "Rooms": [
       {
-        "beds": 34,
+        "beds": 50,
         "label": "Matratzenlager"
       },
       {
-        "beds": 10,
+        "beds": 50,
         "label": "Mehrbettzimmer"
       },
       {
-        "beds": 6,
+        "beds": 50,
         "label": "Hundezimmer"
       }
     ],
@@ -11235,14 +11308,14 @@
     "Lat": 46.1123,
     "Lng": 8.8306,
     "Altitude": 1724,
-    "Beds": 12,
+    "Beds": 24,
     "Rooms": [
       {
-        "beds": 4,
+        "beds": 12,
         "label": "4-er Zimmer"
       },
       {
-        "beds": 8,
+        "beds": 12,
         "label": "6-er Zimmer"
       }
     ],
@@ -11287,14 +11360,14 @@
     "Lat": 47.4958,
     "Lng": 10.6197,
     "Altitude": 1713,
-    "Beds": 26,
+    "Beds": 52,
     "Rooms": [
       {
-        "beds": 4,
+        "beds": 26,
         "label": "Matratzenlager"
       },
       {
-        "beds": 22,
+        "beds": 26,
         "label": "Mehrbettzimmer"
       }
     ],
@@ -11309,18 +11382,18 @@
     "Lat": 47.3418,
     "Lng": 10.4569,
     "Altitude": 2007,
-    "Beds": 42,
+    "Beds": 58,
     "Rooms": [
       {
         "beds": 29,
         "label": "Matratzenlager"
       },
       {
-        "beds": 13,
+        "beds": 29,
         "label": "Unbewirtschafteter Modus"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "dav-allgaeu-immenstadt.de/huetten/kaufbeurer-haus",
     "Phone": "+49826991996"
@@ -11331,22 +11404,22 @@
     "Lat": 46.6,
     "Lng": 8.002,
     "Altitude": 1616,
-    "Beds": 49,
+    "Beds": 196,
     "Rooms": [
       {
-        "beds": 30,
+        "beds": 49,
         "label": "Massenlager"
       },
       {
-        "beds": 10,
+        "beds": 49,
         "label": "2-er Zimmer"
       },
       {
-        "beds": 4,
+        "beds": 49,
         "label": "4-er Zimmer"
       },
       {
-        "beds": 5,
+        "beds": 49,
         "label": "Spezialzimmer"
       }
     ],
@@ -11361,19 +11434,23 @@
     "Lat": 46.2751,
     "Lng": 7.0855,
     "Altitude": 1168,
-    "Beds": 19,
+    "Beds": 76,
     "Rooms": [
       {
-        "beds": 4,
+        "beds": 19,
         "label": "Chambre à 4 places"
       },
       {
-        "beds": 6,
+        "beds": 19,
         "label": "Chambre à 6 places"
       },
       {
-        "beds": 9,
+        "beds": 19,
         "label": "Chambre spéciale"
+      },
+      {
+        "beds": 19,
+        "label": "Non gardienné/Local d'urgence"
       }
     ],
     "Country": "CH",
@@ -11387,7 +11464,7 @@
     "Lat": 46.006,
     "Lng": 7.5277,
     "Altitude": 3311,
-    "Beds": 16,
+    "Beds": 80,
     "Rooms": [
       {
         "beds": 16,
@@ -11405,14 +11482,14 @@
     "Lat": 47.0342,
     "Lng": 9.2507,
     "Altitude": 2087,
-    "Beds": 56,
+    "Beds": 100,
     "Rooms": [
       {
         "beds": 50,
         "label": "Mehrbettzimmer"
       },
       {
-        "beds": 6,
+        "beds": 50,
         "label": "Schutzraum/Winterraum"
       }
     ],
@@ -11453,19 +11530,23 @@
     "Lat": 46.935,
     "Lng": 12.7465,
     "Altitude": 1977,
-    "Beds": 67,
+    "Beds": 384,
     "Rooms": [
       {
-        "beds": 15,
+        "beds": 96,
         "label": "Dormitory"
       },
       {
-        "beds": 42,
+        "beds": 96,
         "label": "Shared bedroom"
       },
       {
-        "beds": 10,
+        "beds": 96,
         "label": "Double room"
+      },
+      {
+        "beds": 96,
+        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -11479,18 +11560,18 @@
     "Lat": 47.013,
     "Lng": 11.8856,
     "Altitude": 3026,
-    "Beds": 55,
+    "Beds": 165,
     "Rooms": [
       {
-        "beds": 41,
+        "beds": 55,
         "label": "shared bedrooms"
       },
       {
-        "beds": 10,
+        "beds": 55,
         "label": "double rooms"
       },
       {
-        "beds": 4,
+        "beds": 55,
         "label": "four bed room"
       }
     ],
@@ -11575,14 +11656,14 @@
     "Lat": 46.5416,
     "Lng": 9.0419,
     "Altitude": 2089,
-    "Beds": 38,
+    "Beds": 60,
     "Rooms": [
       {
         "beds": 30,
         "label": "Massenlager"
       },
       {
-        "beds": 8,
+        "beds": 30,
         "label": "Schutzraum/Winterraum"
       }
     ],
@@ -11597,14 +11678,14 @@
     "Lat": 46.3435,
     "Lng": 7.3841,
     "Altitude": 2503,
-    "Beds": 79,
+    "Beds": 98,
     "Rooms": [
       {
         "beds": 49,
         "label": "Massenlager"
       },
       {
-        "beds": 30,
+        "beds": 49,
         "label": "Schutzraum/Winterraum"
       }
     ],
@@ -11619,22 +11700,22 @@
     "Lat": 47.1484,
     "Lng": 13.3782,
     "Altitude": 1750,
-    "Beds": 46,
+    "Beds": 184,
     "Rooms": [
       {
-        "beds": 35,
+        "beds": 46,
         "label": "Dormitory"
       },
       {
-        "beds": 4,
+        "beds": 46,
         "label": "Shared bedroom"
       },
       {
-        "beds": 6,
+        "beds": 46,
         "label": "Double room"
       },
       {
-        "beds": 1,
+        "beds": 46,
         "label": "Dog room"
       }
     ],
@@ -11705,14 +11786,14 @@
     "Lat": 46.7425,
     "Lng": 8.8142,
     "Altitude": 2649,
-    "Beds": 65,
+    "Beds": 130,
     "Rooms": [
       {
-        "beds": 50,
+        "beds": 65,
         "label": "Massenlager"
       },
       {
-        "beds": 15,
+        "beds": 65,
         "label": "Schutzraum/Winterraum"
       }
     ],
@@ -11727,14 +11808,14 @@
     "Lat": 47.0542,
     "Lng": 12.9574,
     "Altitude": 3106,
-    "Beds": 60,
+    "Beds": 120,
     "Rooms": [
       {
-        "beds": 38,
+        "beds": 60,
         "label": "Matratzenlager"
       },
       {
-        "beds": 22,
+        "beds": 60,
         "label": "Mehrbettzimmer"
       }
     ],
@@ -11749,11 +11830,15 @@
     "Lat": 46.103,
     "Lng": 7.8177,
     "Altitude": 2937,
-    "Beds": 75,
+    "Beds": 150,
     "Rooms": [
       {
         "beds": 75,
         "label": "Mehrbettzimmer"
+      },
+      {
+        "beds": 75,
+        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -11785,27 +11870,31 @@
     "Lat": 46.9408,
     "Lng": 11.1478,
     "Altitude": 2710,
-    "Beds": 51,
+    "Beds": 306,
     "Rooms": [
       {
-        "beds": 18,
+        "beds": 51,
         "label": "Dormitory"
       },
       {
-        "beds": 21,
+        "beds": 51,
         "label": "Shared bedroom"
       },
       {
-        "beds": 8,
+        "beds": 51,
         "label": "Double room"
       },
       {
-        "beds": 1,
+        "beds": 51,
         "label": "Dog room"
       },
       {
-        "beds": 3,
+        "beds": 51,
         "label": "Special category 1"
+      },
+      {
+        "beds": 51,
+        "label": "Unserviced mode"
       }
     ],
     "Country": "AT",
@@ -11848,33 +11937,33 @@
         "label": "Unbewirtschafteter Modus"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.dav-kempten.de/huetten/rappenseehuette",
     "Phone": ""
   },
   {
     "Id": 710,
-    "Name": " Albert-Heim-Hütte SAC",
+    "Name": "Albert-Heim-Hütte SAC",
     "Lat": 46.6089,
     "Lng": 8.4635,
     "Altitude": 2543,
-    "Beds": 68,
+    "Beds": 256,
     "Rooms": [
       {
-        "beds": 46,
+        "beds": 64,
         "label": "Massenlager"
       },
       {
-        "beds": 2,
+        "beds": 64,
         "label": "2-er Zimmer"
       },
       {
-        "beds": 12,
+        "beds": 64,
         "label": "4-er Zimmer"
       },
       {
-        "beds": 8,
+        "beds": 64,
         "label": "Schutzraum/Winterraum"
       }
     ],
@@ -11889,19 +11978,23 @@
     "Lat": 46.9891,
     "Lng": 13.2672,
     "Altitude": 2281,
-    "Beds": 59,
+    "Beds": 300,
     "Rooms": [
       {
-        "beds": 35,
+        "beds": 75,
         "label": "Dormitory"
       },
       {
-        "beds": 22,
+        "beds": 75,
         "label": "Shared bedroom"
       },
       {
-        "beds": 2,
+        "beds": 75,
         "label": "Double room"
+      },
+      {
+        "beds": 75,
+        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -12067,18 +12160,18 @@
     "Lat": 47.0713,
     "Lng": 9.6133,
     "Altitude": 2108,
-    "Beds": 72,
+    "Beds": 216,
     "Rooms": [
       {
-        "beds": 58,
+        "beds": 72,
         "label": "Massenlager"
       },
       {
-        "beds": 2,
+        "beds": 72,
         "label": "2-er Zimmer"
       },
       {
-        "beds": 12,
+        "beds": 72,
         "label": "4-er Zimmer"
       }
     ],
@@ -12126,7 +12219,7 @@
         "label": "Shared bedroom"
       }
     ],
-    "Country": "AT",
+    "Country": "DE",
     "Code": "DAV",
     "Website": "www.alpenverein-hochland.de/huetten/Hochlandhuette",
     "Phone": "+491749897863"
@@ -12159,22 +12252,22 @@
     "Lat": 47.3096,
     "Lng": 10.3987,
     "Altitude": 2131,
-    "Beds": 57,
+    "Beds": 177,
     "Rooms": [
       {
-        "beds": 53,
+        "beds": 59,
         "label": "Dormitory"
       },
       {
-        "beds": 2,
+        "beds": 59,
         "label": "Double room"
       },
       {
-        "beds": 2,
+        "beds": 59,
         "label": "Dog room"
       }
     ],
-    "Country": "DE",
+    "Country": "AT",
     "Code": "DAV",
     "Website": "www.hermann-von-barth.at",
     "Phone": "+436766834840"
@@ -12185,11 +12278,15 @@
     "Lat": 46.6952,
     "Lng": 9.6381,
     "Altitude": 1680,
-    "Beds": 14,
+    "Beds": 28,
     "Rooms": [
       {
         "beds": 14,
         "label": "Mehrbettzimmer"
+      },
+      {
+        "beds": 14,
+        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -12225,14 +12322,14 @@
     "Lat": 46.5465,
     "Lng": 8.7197,
     "Altitude": 1987,
-    "Beds": 102,
+    "Beds": 312,
     "Rooms": [
       {
-        "beds": 74,
+        "beds": 156,
         "label": "Wohnheim"
       },
       {
-        "beds": 28,
+        "beds": 156,
         "label": "Unbewarterer Betrieb"
       }
     ],
@@ -12265,14 +12362,14 @@
     "Lat": 46.9735,
     "Lng": 11.2842,
     "Altitude": 2423,
-    "Beds": 40,
+    "Beds": 80,
     "Rooms": [
       {
-        "beds": 16,
+        "beds": 40,
         "label": "large rooms"
       },
       {
-        "beds": 24,
+        "beds": 40,
         "label": "shared bedrooms"
       }
     ],
@@ -12305,7 +12402,7 @@
   },
   {
     "Id": 736,
-    "Name": "Capanna Pian d’Alpe ",
+    "Name": "Capanna Pian d’Alpe",
     "Lat": 46.2341,
     "Lng": 8.5619,
     "Altitude": 1764,
