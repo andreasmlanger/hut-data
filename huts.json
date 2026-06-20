@@ -339,7 +339,7 @@
     "Lat": 46.6345,
     "Lng": 9.0051,
     "Altitude": 2170,
-    "Beds": 182,
+    "Beds": 92,
     "Rooms": [
       {
         "beds": 80,
@@ -356,10 +356,6 @@
       {
         "beds": 2,
         "label": "Spezialzimmer"
-      },
-      {
-        "beds": 90,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -843,7 +839,7 @@
     "Lat": 46.8462,
     "Lng": 8.4628,
     "Altitude": 2296,
-    "Beds": 165,
+    "Beds": 85,
     "Rooms": [
       {
         "beds": 62,
@@ -860,10 +856,6 @@
       {
         "beds": 2,
         "label": "Spezialzimmer"
-      },
-      {
-        "beds": 85,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -1307,12 +1299,8 @@
     "Lat": 46.2846,
     "Lng": 7.163,
     "Altitude": 1956,
-    "Beds": 64,
+    "Beds": 32,
     "Rooms": [
-      {
-        "beds": 32,
-        "label": "Massenlager"
-      },
       {
         "beds": 32,
         "label": "Schutzraum/Winterraum"
@@ -3347,7 +3335,7 @@
     "Lat": 47.5344,
     "Lng": 10.5628,
     "Altitude": 1788,
-    "Beds": 124,
+    "Beds": 57,
     "Rooms": [
       {
         "beds": 22,
@@ -3364,10 +3352,6 @@
       {
         "beds": 2,
         "label": "Dog room"
-      },
-      {
-        "beds": 67,
-        "label": "Special category 2"
       }
     ],
     "Country": "AT",
@@ -3767,15 +3751,11 @@
     "Lat": 46.467,
     "Lng": 8.41,
     "Altitude": 2338,
-    "Beds": 92,
+    "Beds": 46,
     "Rooms": [
       {
         "beds": 46,
         "label": "Massenlager"
-      },
-      {
-        "beds": 46,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -4287,15 +4267,11 @@
     "Lat": 47.0549,
     "Lng": 12.6816,
     "Altitude": 2802,
-    "Beds": 236,
+    "Beds": 118,
     "Rooms": [
       {
         "beds": 118,
         "label": "Dormitory"
-      },
-      {
-        "beds": 118,
-        "label": "Unserviced mode"
       }
     ],
     "Country": "AT",
@@ -4975,7 +4951,7 @@
     "Lat": 47.4509,
     "Lng": 13.6837,
     "Altitude": 2146,
-    "Beds": 120,
+    "Beds": 65,
     "Rooms": [
       {
         "beds": 27,
@@ -4992,10 +4968,6 @@
       {
         "beds": 1,
         "label": "Hundezimmer"
-      },
-      {
-        "beds": 71,
-        "label": "Unbewirtschafteter Modus"
       }
     ],
     "Country": "AT",
@@ -5009,7 +4981,7 @@
     "Lat": 47.4736,
     "Lng": 13.6128,
     "Altitude": 2740,
-    "Beds": 44,
+    "Beds": 21,
     "Rooms": [
       {
         "beds": 15,
@@ -5018,10 +4990,6 @@
       {
         "beds": 6,
         "label": "Mehrbettzimmer"
-      },
-      {
-        "beds": 23,
-        "label": "Unbewirtschafteter Modus"
       }
     ],
     "Country": "AT",
@@ -5135,7 +5103,7 @@
     "Lat": 46.6124,
     "Lng": 12.867,
     "Altitude": 1960,
-    "Beds": 119,
+    "Beds": 64,
     "Rooms": [
       {
         "beds": 34,
@@ -5148,10 +5116,6 @@
       {
         "beds": 2,
         "label": "Double room"
-      },
-      {
-        "beds": 64,
-        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -5357,15 +5321,11 @@
     "Lat": 46.7345,
     "Lng": 10.4355,
     "Altitude": 2256,
-    "Beds": 96,
+    "Beds": 58,
     "Rooms": [
       {
         "beds": 48,
         "label": "shared bedrooms"
-      },
-      {
-        "beds": 48,
-        "label": "Unbewirtschafteter Betrieb"
       }
     ],
     "Country": "IT",
@@ -5753,7 +5713,7 @@
     "Lat": 47.0345,
     "Lng": 9.8355,
     "Altitude": 1744,
-    "Beds": 337,
+    "Beds": 167,
     "Rooms": [
       {
         "beds": 66,
@@ -5766,10 +5726,6 @@
       {
         "beds": 11,
         "label": "Double room"
-      },
-      {
-        "beds": 170,
-        "label": "Unserviced mode"
       }
     ],
     "Country": "AT",
@@ -7859,7 +7815,7 @@
     "Lat": 47.5304,
     "Lng": 15.9144,
     "Altitude": 1743,
-    "Beds": 67,
+    "Beds": 34,
     "Rooms": [
       {
         "beds": 26,
@@ -7876,10 +7832,6 @@
       {
         "beds": 1,
         "label": "Dog room"
-      },
-      {
-        "beds": 33,
-        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -8421,12 +8373,8 @@
     "Lat": 46.3164,
     "Lng": 8.4713,
     "Altitude": 1906,
-    "Beds": 6,
+    "Beds": 4,
     "Rooms": [
-      {
-        "beds": 2,
-        "label": "Wohnheim"
-      },
       {
         "beds": 4,
         "label": "Unbewarterer Betrieb"
@@ -8653,15 +8601,11 @@
     "Lat": 46.6966,
     "Lng": 13.1574,
     "Altitude": 1585,
-    "Beds": 72,
+    "Beds": 18,
     "Rooms": [
       {
         "beds": 11,
         "label": "Dormitory"
-      },
-      {
-        "beds": 18,
-        "label": "Shared bedroom"
       },
       {
         "beds": 6,
@@ -8670,14 +8614,6 @@
       {
         "beds": 1,
         "label": "Single room"
-      },
-      {
-        "beds": 18,
-        "label": "Special category"
-      },
-      {
-        "beds": 18,
-        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -9640,7 +9576,7 @@
     "Lat": 47.4293,
     "Lng": 10.4068,
     "Altitude": 1380,
-    "Beds": 198,
+    "Beds": 66,
     "Rooms": [
       {
         "beds": 33,
@@ -9653,14 +9589,6 @@
       {
         "beds": 9,
         "label": "Dog room"
-      },
-      {
-        "beds": 66,
-        "label": "Special category 1"
-      },
-      {
-        "beds": 66,
-        "label": "Special category 2"
       }
     ],
     "Country": "DE",
@@ -9674,7 +9602,7 @@
     "Lat": 46.5973,
     "Lng": 13.1973,
     "Altitude": 2215,
-    "Beds": 100,
+    "Beds": 50,
     "Rooms": [
       {
         "beds": 32,
@@ -9683,10 +9611,6 @@
       {
         "beds": 18,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 50,
-        "label": "Special category 2"
       }
     ],
     "Country": "AT",
@@ -10034,15 +9958,11 @@
     "Lat": 46.2943,
     "Lng": 9.0275,
     "Altitude": 2393,
-    "Beds": 104,
+    "Beds": 52,
     "Rooms": [
       {
         "beds": 52,
         "label": "Wohnheim"
-      },
-      {
-        "beds": 52,
-        "label": "Unbewarterer Betrieb"
       }
     ],
     "Country": "CH",
@@ -10109,21 +10029,8 @@
     "Lat": 47.6615,
     "Lng": 11.8883,
     "Altitude": 1528,
-    "Beds": 108,
-    "Rooms": [
-      {
-        "beds": 36,
-        "label": "Dormitory"
-      },
-      {
-        "beds": 36,
-        "label": "Shared bedroom"
-      },
-      {
-        "beds": 36,
-        "label": "Double room"
-      }
-    ],
+    "Beds": 56,
+    "Rooms": [],
     "Country": "DE",
     "Code": "DAV",
     "Website": "www.obere-maxlraineralm.com",
@@ -10331,15 +10238,11 @@
     "Lat": 46.3946,
     "Lng": 11.7403,
     "Altitude": 2046,
-    "Beds": 24,
+    "Beds": 12,
     "Rooms": [
       {
         "beds": 12,
         "label": "Beds"
-      },
-      {
-        "beds": 12,
-        "label": "Campo da non utilizzare"
       }
     ],
     "Country": "IT",
@@ -10393,7 +10296,7 @@
     "Lat": 46.902,
     "Lng": 10.635,
     "Altitude": 2123,
-    "Beds": 106,
+    "Beds": 53,
     "Rooms": [
       {
         "beds": 46,
@@ -10402,10 +10305,6 @@
       {
         "beds": 7,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 53,
-        "label": "Unserviced mode"
       }
     ],
     "Country": "AT",
@@ -10481,7 +10380,7 @@
     "Lat": 47.4874,
     "Lng": 10.5984,
     "Altitude": 1150,
-    "Beds": 152,
+    "Beds": 68,
     "Rooms": [
       {
         "beds": 40,
@@ -10490,10 +10389,6 @@
       {
         "beds": 28,
         "label": "Shared bedroom"
-      },
-      {
-        "beds": 84,
-        "label": "Unserviced mode"
       }
     ],
     "Country": "AT",
@@ -10546,10 +10441,6 @@
       {
         "beds": 6,
         "label": "Dormitory"
-      },
-      {
-        "beds": 12,
-        "label": "Beds"
       }
     ],
     "Country": "IT",
@@ -11010,7 +10901,7 @@
     "Lat": 46.9781,
     "Lng": 12.7605,
     "Altitude": 2346,
-    "Beds": 165,
+    "Beds": 55,
     "Rooms": [
       {
         "beds": 39,
@@ -11021,16 +10912,8 @@
         "label": "Shared bedroom"
       },
       {
-        "beds": 55,
-        "label": "Double room"
-      },
-      {
         "beds": 2,
         "label": "Dog room"
-      },
-      {
-        "beds": 55,
-        "label": "Special category 2"
       }
     ],
     "Country": "AT",
@@ -11434,7 +11317,7 @@
     "Lat": 46.2751,
     "Lng": 7.0855,
     "Altitude": 1168,
-    "Beds": 38,
+    "Beds": 19,
     "Rooms": [
       {
         "beds": 4,
@@ -11447,10 +11330,6 @@
       {
         "beds": 9,
         "label": "Chambre spéciale"
-      },
-      {
-        "beds": 19,
-        "label": "Non gardienné/Local d'urgence"
       }
     ],
     "Country": "CH",
@@ -11530,7 +11409,7 @@
     "Lat": 46.935,
     "Lng": 12.7465,
     "Altitude": 1977,
-    "Beds": 163,
+    "Beds": 67,
     "Rooms": [
       {
         "beds": 15,
@@ -11543,10 +11422,6 @@
       {
         "beds": 10,
         "label": "Double room"
-      },
-      {
-        "beds": 96,
-        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -11830,15 +11705,11 @@
     "Lat": 46.103,
     "Lng": 7.8177,
     "Altitude": 2937,
-    "Beds": 150,
+    "Beds": 75,
     "Rooms": [
       {
         "beds": 75,
         "label": "Mehrbettzimmer"
-      },
-      {
-        "beds": 75,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
@@ -11870,7 +11741,7 @@
     "Lat": 46.9408,
     "Lng": 11.1478,
     "Altitude": 2710,
-    "Beds": 102,
+    "Beds": 51,
     "Rooms": [
       {
         "beds": 18,
@@ -11891,10 +11762,6 @@
       {
         "beds": 3,
         "label": "Special category 1"
-      },
-      {
-        "beds": 51,
-        "label": "Unserviced mode"
       }
     ],
     "Country": "AT",
@@ -11978,7 +11845,7 @@
     "Lat": 46.9891,
     "Lng": 13.2672,
     "Altitude": 2281,
-    "Beds": 134,
+    "Beds": 59,
     "Rooms": [
       {
         "beds": 35,
@@ -11991,10 +11858,6 @@
       {
         "beds": 2,
         "label": "Double room"
-      },
-      {
-        "beds": 75,
-        "label": "Unserviced Mode"
       }
     ],
     "Country": "AT",
@@ -12278,15 +12141,11 @@
     "Lat": 46.6952,
     "Lng": 9.6381,
     "Altitude": 1680,
-    "Beds": 28,
+    "Beds": 14,
     "Rooms": [
       {
         "beds": 14,
         "label": "Mehrbettzimmer"
-      },
-      {
-        "beds": 14,
-        "label": "Schutzraum/Winterraum"
       }
     ],
     "Country": "CH",
